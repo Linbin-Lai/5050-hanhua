@@ -110,7 +110,10 @@
                           "data.win",
                           "安装说明.txt"
                       ],
-        "last_modified":  "2026-08-09T02:52:05+01:00"
+        "last_modified":  "2026-08-09T02:52:05+01:00",
+        "safe_release_package":  "FallenLeaf_UTMT文本导入导出包.zip",
+        "safe_release_sha256":  "0193FEE0E536CC8ABB1C0822558816844F7A6BC8FEA93E9BC20355B2C258E1F6",
+        "safe_release_url":  "https://github.com/Linbin-Lai/5050-hanhua/releases/tag/fallen-leaf-utmt-cn-20260809"
     },
     {
         "game":  "FrogLegs",

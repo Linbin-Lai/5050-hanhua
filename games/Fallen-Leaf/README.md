@@ -13,6 +13,12 @@
 
 > 当前 ZIP 含完整 `data.win`，暂不公开该覆盖包。公开发布应改用文本导入导出包或合法的二进制差分补丁。
 
+## 安全下载
+
+- [Fallen Leaf 中英语言与 UTMT 导入导出工具](https://github.com/Linbin-Lai/5050-hanhua/releases/tag/fallen-leaf-utmt-cn-20260809)
+- 文件：`FallenLeaf_UTMT文本导入导出包.zip`
+- SHA-256：`0193FEE0E536CC8ABB1C0822558816844F7A6BC8FEA93E9BC20355B2C258E1F6`
+
 ## 安装说明
 
 ```text
