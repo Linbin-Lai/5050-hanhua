@@ -1,6 +1,6 @@
 # 5050 汉化合集
 
-- **收录汉化作者：** Cokepoetry、月见鸟、qsefthuopq
+- **汉化作者：** Cokepoetry、月见鸟、qsefthuopq
 - **5050 直播间专供**
 - **关注直播间：** [https://live.bilibili.com/5050](https://live.bilibili.com/5050)
 
