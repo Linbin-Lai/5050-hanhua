@@ -1,0 +1,27 @@
+Fallen Leaf UTMT 文本导入导出包
+
+适用版本：Steam Windows 版 1.0.1.18
+引擎：GameMaker Studio 1.4
+验证工具：UndertaleModTool / UndertaleModCli 0.9.1.2
+
+文件：
+- 导出语言模板.csx：从当前加载的 data.win 导出带字符串索引和原文的 JSON 模板。
+- 导入汉化.csx：核对索引与原文后，将 JSON 中的 target 写入字符串表。
+- FallenLeaf_中英语言.json：9229 条中英对照文本，UTF-8 编码。
+
+UTMT 图形界面用法：
+1. 使用 UTMT 0.9.1.2 打开自己拥有的 Fallen Leaf 1.0.1.18 原版 data.win。
+2. 运行“导出语言模板.csx”可导出空白语言模板。
+3. 运行“导入汉化.csx”，选择“FallenLeaf_中英语言.json”。
+4. 导入成功后另存为新的 data.win。
+
+安全机制：
+- 导入前逐条核对字符串索引与 source 原文。
+- 发现版本不同、重复索引或原文不匹配时，会取消整次导入，不进行半成品替换。
+- source、target 中的空格、换行、引号和 Unicode 字符必须原样保留。
+
+注意：
+- 本包只包含文本字符串，不包含游戏本体、data.win、可执行文件、字体、图片或音频。
+- 单独导入文本不能复现完整汉化版的中文字体、UI 图片、Unicode 着色和布局修复。
+- 请勿将脚本用于不同游戏版本；游戏更新后应重新导出并迁移语言表。
+- 请仅处理自己合法拥有的游戏文件。

@@ -216,3 +216,27 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Game executables and original/derived containers
+*.exe
+*.win
+*.pak
+*.utoc
+*.ucas
+*.uasset
+*.uexp
+*.ubulk
+*.assets
+*.resource
+*.bundle
+*.bank
+*.bnk
+*.wem
+
+# Runtime binaries, debug output and release archives
+*.dll
+*.pdb
+unknown-text.csv
+*.zip
+*.7z
+*.rar

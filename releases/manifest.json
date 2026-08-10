@@ -1,0 +1,274 @@
+[
+    {
+        "game":  "Backrooms The Multiverse",
+        "slug":  "Backrooms-The-Multiverse",
+        "package":  "Backrooms The Multiverse_简体中文覆盖包.zip",
+        "bytes":  118055269,
+        "sha256":  "CBC41BA4869091E8B68785251D92D038095905A7B09B02C9AA2C067CF71E51D6",
+        "engine":  "Unreal Engine 5.7",
+        "publication_status":  "release_ready",
+        "zip_entries":  4,
+        "top_level":  [
+                          "BackroomsMultiverse",
+                          "安装说明.txt"
+                      ],
+        "last_modified":  "2026-07-13T02:02:11+01:00"
+    },
+    {
+        "game":  "Bite Night: Dine or Die",
+        "slug":  "Bite-Night-Dine-or-Die",
+        "package":  "Bite Night Dine or Die_简体中文覆盖包.zip",
+        "bytes":  76700746,
+        "sha256":  "C26C4EF56E2BA03F39CA7B4770C89CC09822F1F6B8C528DCFFCB0446C43C9F11",
+        "engine":  "Unity 2022.3.20f1 Mono",
+        "publication_status":  "review_required_full_derived_asset",
+        "zip_entries":  7,
+        "top_level":  [
+                          "Bite Night Dine or Die_Data",
+                          "安装说明.txt",
+                          "第三方字体授权.txt"
+                      ],
+        "last_modified":  "2026-07-25T00:40:44+01:00"
+    },
+    {
+        "game":  "Bite Night",
+        "slug":  "Bite-Night",
+        "package":  "Bite Night_简体中文覆盖包.zip",
+        "bytes":  64013790,
+        "sha256":  "C1FD629A3E61A8A63D4E23DB530578BF55754D286CE3E8DDF1B439816CF59941",
+        "engine":  "Unity 2022.3.20f1 Mono",
+        "publication_status":  "review_required_full_derived_asset",
+        "zip_entries":  5,
+        "top_level":  [
+                          "Bite Nite_Data",
+                          "安装说明.txt"
+                      ],
+        "last_modified":  "2026-07-24T19:47:40+01:00"
+    },
+    {
+        "game":  "Burger Bots Inc",
+        "slug":  "Burger-Bots-Inc",
+        "package":  "Burger Bots Inc_简体中文覆盖包.zip",
+        "bytes":  28455405,
+        "sha256":  "9522316ABDCB4B5CA36326C7E718DCB9BAB947A05DBD99A3432BD9FCE64A4A6E",
+        "engine":  "Unity 2022.3.62f2 Mono",
+        "publication_status":  "review_required_full_derived_asset",
+        "zip_entries":  40,
+        "top_level":  [
+                          ".doorstop_version",
+                          "BepInEx",
+                          "Burger Bots Inc_Data",
+                          "doorstop_config.ini",
+                          "winhttp.dll",
+                          "安装说明.txt"
+                      ],
+        "last_modified":  "2026-07-13T19:14:09+01:00"
+    },
+    {
+        "game":  "CashGrab Refunded",
+        "slug":  "CashGrab-Refunded",
+        "package":  "CashGrab Refunded_简体中文覆盖包.zip",
+        "bytes":  7901515,
+        "sha256":  "13870C95C98514EF0088B4D8D335CBD2CCD2815E6A108439E821D748DCDF4399",
+        "engine":  "Unity 6000.2.9f1 Mono",
+        "publication_status":  "release_ready",
+        "zip_entries":  71,
+        "top_level":  [
+                          ".doorstop_version",
+                          "BepInEx",
+                          "doorstop_config.ini",
+                          "winhttp.dll",
+                          "安装说明.txt"
+                      ],
+        "last_modified":  "2026-07-21T23:51:47+01:00"
+    },
+    {
+        "game":  "Endacopia",
+        "slug":  "Endacopia",
+        "package":  "Endacopia_简体中文覆盖包.zip",
+        "bytes":  459078726,
+        "sha256":  "FF52287FFAF924987F637E49587B285C6CEBCDA592BE00849D50F53531F39F7B",
+        "engine":  "Adventure Game Studio 3.6.0.55",
+        "publication_status":  "release_ready",
+        "zip_entries":  25,
+        "top_level":  [
+                          "Windows",
+                          "安装说明.txt"
+                      ],
+        "last_modified":  "2026-08-06T22:40:32+01:00"
+    },
+    {
+        "game":  "Fallen Leaf",
+        "slug":  "Fallen-Leaf",
+        "package":  "Fallen Leaf_简体中文覆盖包.zip",
+        "bytes":  35925410,
+        "sha256":  "DD1BF77184991C8C724305832571E3D9E036FC01968A8334E0AE6032FA0B8319",
+        "engine":  "GameMaker Studio 1.4",
+        "publication_status":  "do_not_publish_full_data_win",
+        "zip_entries":  2,
+        "top_level":  [
+                          "data.win",
+                          "安装说明.txt"
+                      ],
+        "last_modified":  "2026-08-09T02:52:05+01:00"
+    },
+    {
+        "game":  "FrogLegs",
+        "slug":  "FrogLegs",
+        "package":  "FrogLegs_简体中文覆盖包.zip",
+        "bytes":  5331047,
+        "sha256":  "1E13F91B0423415B0F1743DF388D30C5131F480BA5027677A7034A54AD68F3F6",
+        "engine":  "Unreal Engine 5.3",
+        "publication_status":  "release_ready",
+        "zip_entries":  4,
+        "top_level":  [
+                          "FPSCPP",
+                          "安装说明.txt"
+                      ],
+        "last_modified":  "2026-07-14T16:41:50+01:00"
+    },
+    {
+        "game":  "Funnel Runners",
+        "slug":  "Funnel-Runners",
+        "package":  "Funnel Runners_简体中文覆盖包.zip",
+        "bytes":  99682331,
+        "sha256":  "76C10C5C7171CFBC193D31039B395765FF0354343023C926E7A8D396C6B59071",
+        "engine":  "Unreal Engine 5.6",
+        "publication_status":  "release_ready",
+        "zip_entries":  4,
+        "top_level":  [
+                          "StormEscape",
+                          "安装说明.txt"
+                      ],
+        "last_modified":  "2026-07-19T01:51:17+01:00"
+    },
+    {
+        "game":  "デテイケ -GetOut-",
+        "slug":  "GetOut",
+        "package":  "GetOut_简体中文覆盖包.zip",
+        "bytes":  43102128,
+        "sha256":  "7BB1A1C53AEEDCFEF7762948303CD47656C387E073232A1854388333DF4D1C18",
+        "engine":  "Unreal Engine 5.3",
+        "publication_status":  "release_ready",
+        "zip_entries":  5,
+        "top_level":  [
+                          "GetOut",
+                          "安装说明.txt"
+                      ],
+        "last_modified":  "2026-07-15T15:01:33+01:00"
+    },
+    {
+        "game":  "Hell of a Birthday",
+        "slug":  "Hell-of-a-Birthday",
+        "package":  "Hell of a Birthday_简体中文覆盖包.zip",
+        "bytes":  50116849,
+        "sha256":  "DF6E6620DC3AF7FFC90B5AF0B88856B01972C854D1D0565EEC365B6B4070891F",
+        "engine":  "Unity 2022.3.20f1 Mono",
+        "publication_status":  "review_required_full_derived_asset",
+        "zip_entries":  5,
+        "top_level":  [
+                          "Hell of a Birthday",
+                          "安装说明.txt"
+                      ],
+        "last_modified":  "2026-07-25T01:09:03+01:00"
+    },
+    {
+        "game":  "Jeffrey Eggstein",
+        "slug":  "Jeffrey-Eggstein",
+        "package":  "Jeffrey Eggstein_简体中文覆盖包.zip",
+        "bytes":  25090847,
+        "sha256":  "49582F6D64D860692CE96E6D3C400248740B8E4152265386484BE5AF4D0DDCB4",
+        "engine":  "Unity 6000.5.0f1 Mono",
+        "publication_status":  "review_required_full_derived_asset",
+        "zip_entries":  22,
+        "top_level":  [
+                          "Jeffrey Eggstein_Data",
+                          "Noto字体许可证_OFL.txt",
+                          "安装说明.txt"
+                      ],
+        "last_modified":  "2026-07-18T22:57:59+01:00"
+    },
+    {
+        "game":  "Mine of My Mind",
+        "slug":  "Mine-of-My-Mind",
+        "package":  "Mine of My Mind_简体中文覆盖包.zip",
+        "bytes":  36817783,
+        "sha256":  "D39E9BA7DEE37F58CACD9AF633220B25DCEFC7C97633C8066DA783914868DA57",
+        "engine":  "Unity 6000.0.59f2 IL2CPP",
+        "publication_status":  "release_ready",
+        "zip_entries":  232,
+        "top_level":  [
+                          ".doorstop_version",
+                          "BepInEx",
+                          "doorstop_config.ini",
+                          "dotnet",
+                          "winhttp.dll",
+                          "安装说明.txt"
+                      ],
+        "last_modified":  "2026-07-10T01:07:58+01:00"
+    },
+    {
+        "game":  "Only Good Babysitters Go To Heaven",
+        "slug":  "Only-Good-Babysitters-Go-To-Heaven",
+        "package":  "Only Good Babysitters Go To Heaven_简体中文覆盖包.zip",
+        "bytes":  25987810,
+        "sha256":  "C01390110015150CD9D9C2E307852F2BA332CB309E688E8C3CB876F4E4ACCD78",
+        "engine":  "Unity 2022.3.20f1 Mono",
+        "publication_status":  "review_required_full_derived_asset",
+        "zip_entries":  7,
+        "top_level":  [
+                          "Only Good Babysitters Go To Heaven_Data",
+                          "安装说明.txt",
+                          "汉化清单.txt"
+                      ],
+        "last_modified":  "2026-07-28T19:46:57+01:00"
+    },
+    {
+        "game":  "Pih 2",
+        "slug":  "Pih-2",
+        "package":  "Pih 2_简体中文覆盖包.zip",
+        "bytes":  406458,
+        "sha256":  "9786F54D82546A89E64F2F704AF23ECAE793194C288694869DE6339B6D3B06C1",
+        "engine":  "Unreal Engine 5.3",
+        "publication_status":  "release_ready_with_known_missing",
+        "zip_entries":  2,
+        "top_level":  [
+                          "Pih2",
+                          "安装说明.txt"
+                      ],
+        "last_modified":  "2026-08-06T16:59:53+01:00"
+    },
+    {
+        "game":  "Strikers Club",
+        "slug":  "StrikersClub",
+        "package":  "StrikersClub_简体中文覆盖包.zip",
+        "bytes":  17177504,
+        "sha256":  "A016D9056309AF7683D94418A9FD99C9425DDA9D6A8AD75288C05FDBD7DD22B2",
+        "engine":  "Unreal Engine 5.6",
+        "publication_status":  "release_ready",
+        "zip_entries":  4,
+        "top_level":  [
+                          "UFG",
+                          "安装说明.txt"
+                      ],
+        "last_modified":  "2026-07-19T01:19:49+01:00"
+    },
+    {
+        "game":  "UNBEATABLE",
+        "slug":  "UNBEATABLE",
+        "package":  "UNBEATABLE_简体中文覆盖包.zip",
+        "bytes":  1214794,
+        "sha256":  "FBF6EFFF7DA14AACC7BA21A839CCAD3A10D5760CAE16FBC2068C7316DF8CE39F",
+        "engine":  "Unity Mono x64",
+        "publication_status":  "release_ready",
+        "zip_entries":  26,
+        "top_level":  [
+                          ".doorstop_version",
+                          "BepInEx",
+                          "doorstop_config.ini",
+                          "winhttp.dll",
+                          "安装说明.txt"
+                      ],
+        "last_modified":  "2026-07-18T06:31:22+01:00"
+    }
+]
