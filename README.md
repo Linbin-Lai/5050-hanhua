@@ -10,11 +10,11 @@
 
 ## 下载
 
-可直接安装的汉化补丁统一通过仓库的 [**Releases** 页面](https://github.com/Linbin-Lai/5050-hanhua/releases)发布。仓库正文只保存说明、翻译表、构建脚本和校验信息，不把大型二进制补丁写入 Git 历史。
+可直接安装的汉化补丁统一通过仓库的 [**Releases** 页面](https://github.com/Linbin-Lai/5050-hanhua/releases)发布。
 
 安装前请确认补丁适用于当前游戏版本，并完整阅读对应游戏目录中的说明。游戏更新后，旧版补丁可能失效或造成启动异常。
 
-所有 Release 附件均为不能独立运行的汉化文件，必须配合用户从 Steam 合法取得的对应完整原版游戏使用。发布状态不代表全部低概率内容均已通过运行验证。
+所有 Release 附件均为不能独立运行的汉化文件，必须配合从 Steam 合法取得的对应完整原版游戏使用。发布状态不代表全部低概率内容均已通过运行验证。
 
 ## 汉化项目
 
@@ -85,7 +85,7 @@
 | White Knuckle | 月见鸟 & qsefthuopq | 已发布 | Unity BepInEx 汉化 | [查看](games/White-Knuckle/) |
 | デテイケ -GetOut- | Cokepoetry | 已发布 | Unreal IoStore 覆盖容器 | [查看](games/GetOut/) |
 
-“已发布”表示已有可下载版本，不代表所有低概率内容均经过运行验证。导入项目保留来源仓库的原始作者、版本状态和特别说明；双人合集统一保留“月见鸟 & qsefthuopq”署名。
+
 
 ## 仓库结构
 
