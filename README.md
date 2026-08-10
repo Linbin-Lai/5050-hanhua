@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/5050-frog-pixel.png" alt="5050 汉化组像素青蛙头像" width="160">
+</p>
+
 # 5050 汉化合集
 
 - **汉化作者：** Cokepoetry、月见鸟、qsefthuopq
