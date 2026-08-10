@@ -478,128 +478,144 @@
       "file": "5050-20260508.7z",
       "bytes": 328166966,
       "sha256": "5AD1D49DE0348D742C147D20C7AF27BB322727B9831A5FA1209FA2EB6781F49C",
-      "source_path": "E:\\汉化\\其他\\5050-20260508.7z",
-      "target_tag": "import-2026-05-08"
+      "target_tag": "import-2026-05-08",
+      "release_url": "https://github.com/Linbin-Lai/5050-hanhua/releases/tag/import-2026-05-08",
+      "source_release_url": "https://github.com/5050ResearchCenter/5050-Localization-Collections/releases/tag/2026-05-08"
     },
     {
       "source_release": "2025-11-29",
       "file": "5050-25-11-29.7z",
       "bytes": 984761913,
       "sha256": "B7D717E41AA5279BB3C289F711E7348503BBE0FE725E45199448847D6128E1CD",
-      "source_path": "E:\\汉化\\其他\\5050-25-11-29.7z",
-      "target_tag": "import-2025-11-29"
+      "target_tag": "import-2025-11-29",
+      "release_url": "https://github.com/Linbin-Lai/5050-hanhua/releases/tag/import-2025-11-29",
+      "source_release_url": "https://github.com/5050ResearchCenter/5050-Localization-Collections/releases/tag/2025-11-29"
     },
     {
       "source_release": "BloodWest",
       "file": "Blood.West.chs.v1.1.7z",
       "bytes": 57379929,
       "sha256": "8C47822C5630B33379C2A50827C19D80D293796034ED15D0D3B130AB5B97E9DE",
-      "source_path": "E:\\汉化\\其他\\Blood.West.chs.v1.1.7z",
-      "target_tag": "import-blood-west"
+      "target_tag": "import-blood-west",
+      "release_url": "https://github.com/Linbin-Lai/5050-hanhua/releases/tag/import-blood-west",
+      "source_release_url": "https://github.com/5050ResearchCenter/5050-Localization-Collections/releases/tag/BloodWest"
     },
     {
       "source_release": "2025-10-08",
       "file": "BloodBear.v1.0.7z",
       "bytes": 1844919,
       "sha256": "0853792103D21014B1B93DBC07437EED3506848A384E8F18B3C5B50EFA7E4EA6",
-      "source_path": "E:\\汉化\\其他\\BloodBear.v1.0.7z",
-      "target_tag": "import-2025-10-08"
+      "target_tag": "import-2025-10-08",
+      "release_url": "https://github.com/Linbin-Lai/5050-hanhua/releases/tag/import-2025-10-08",
+      "source_release_url": "https://github.com/5050ResearchCenter/5050-Localization-Collections/releases/tag/2025-10-08"
     },
     {
       "source_release": "CULTIC",
       "file": "CULTIC.v1.2.zip",
       "bytes": 66693848,
       "sha256": "9F4DBB5407F61319F80226DE4EDEA44FF8DC07108D83C024FA599EA47477CD4B",
-      "source_path": "E:\\汉化\\其他\\CULTIC.v1.2.zip",
-      "target_tag": "import-cultic-v1.2-archive"
+      "target_tag": "import-cultic-v1.2-archive",
+      "release_url": "https://github.com/Linbin-Lai/5050-hanhua/releases/tag/import-cultic-v1.2-archive",
+      "source_release_url": "https://github.com/5050ResearchCenter/5050-Localization-Collections/releases/tag/CULTIC"
     },
     {
       "source_release": "Deep_Sleep_Trilogy",
       "file": "Deep.Sleep.Trilogy.v1.0.zip",
       "bytes": 43654116,
       "sha256": "014391BB5983DC126DA4037012E923B21FB7C6955FDBCDB940C31F10FE5B2EED",
-      "source_path": "E:\\汉化\\其他\\Deep.Sleep.Trilogy.v1.0.zip",
-      "target_tag": "import-deep-sleep-trilogy"
+      "target_tag": "import-deep-sleep-trilogy",
+      "release_url": "https://github.com/Linbin-Lai/5050-hanhua/releases/tag/import-deep-sleep-trilogy",
+      "source_release_url": "https://github.com/5050ResearchCenter/5050-Localization-Collections/releases/tag/Deep_Sleep_Trilogy"
     },
     {
       "source_release": "2025-10-08",
       "file": "Don.t.Escape.Trilogy.v1.0.7z",
       "bytes": 92677385,
       "sha256": "3B71FA5E3AC6A699B859174906E6F71C6938A93042C073739382940B2206AED2",
-      "source_path": "E:\\汉化\\其他\\Don.t.Escape.Trilogy.v1.0.7z",
-      "target_tag": "import-2025-10-08"
+      "target_tag": "import-2025-10-08",
+      "release_url": "https://github.com/Linbin-Lai/5050-hanhua/releases/tag/import-2025-10-08",
+      "source_release_url": "https://github.com/5050ResearchCenter/5050-Localization-Collections/releases/tag/2025-10-08"
     },
     {
       "source_release": "2025-10-08",
       "file": "Forest.Asylum.2.v1.0.7z",
       "bytes": 5447,
       "sha256": "C7BF8FEFCD9925453C89EC8A2DEF96F280FC13E8B0974F8EBD81BEBC44B85E3B",
-      "source_path": "E:\\汉化\\其他\\Forest.Asylum.2.v1.0.7z",
-      "target_tag": "import-2025-10-08"
+      "target_tag": "import-2025-10-08",
+      "release_url": "https://github.com/Linbin-Lai/5050-hanhua/releases/tag/import-2025-10-08",
+      "source_release_url": "https://github.com/5050ResearchCenter/5050-Localization-Collections/releases/tag/2025-10-08"
     },
     {
       "source_release": "GULLET",
       "file": "GULLET.7z",
       "bytes": 93199646,
       "sha256": "077B605BCB671D11D2CB27E829D53EAD3AFD0B2855955E1C0B2B3AA5EC6054E3",
-      "source_path": "E:\\汉化\\其他\\GULLET.7z",
-      "target_tag": "import-gullet"
+      "target_tag": "import-gullet",
+      "release_url": "https://github.com/Linbin-Lai/5050-hanhua/releases/tag/import-gullet",
+      "source_release_url": "https://github.com/5050ResearchCenter/5050-Localization-Collections/releases/tag/GULLET"
     },
     {
       "source_release": "Mortanis_Prisoners",
       "file": "Mortanis.Prisoners.v1.0.7z",
       "bytes": 140690838,
       "sha256": "F9C4D1C5765CBFA60EAD46A214544738FF563D49F4F205BB700BBB2A9BF5CE3B",
-      "source_path": "E:\\汉化\\其他\\Mortanis.Prisoners.v1.0.7z",
-      "target_tag": "import-mortanis-prisoners"
+      "target_tag": "import-mortanis-prisoners",
+      "release_url": "https://github.com/Linbin-Lai/5050-hanhua/releases/tag/import-mortanis-prisoners",
+      "source_release_url": "https://github.com/5050ResearchCenter/5050-Localization-Collections/releases/tag/Mortanis_Prisoners"
     },
     {
       "source_release": "2025-10-08",
       "file": "Paranormal.Cleanup.v1.0.7z",
       "bytes": 1948881,
       "sha256": "F936E79CF45F6785DE34B5C4638E5BA4FC3C004F0FA949CF47F7BB3D1EE1A8F6",
-      "source_path": "E:\\汉化\\其他\\Paranormal.Cleanup.v1.0.7z",
-      "target_tag": "import-2025-10-08"
+      "target_tag": "import-2025-10-08",
+      "release_url": "https://github.com/Linbin-Lai/5050-hanhua/releases/tag/import-2025-10-08",
+      "source_release_url": "https://github.com/5050ResearchCenter/5050-Localization-Collections/releases/tag/2025-10-08"
     },
     {
       "source_release": "2025-10-08",
       "file": "RAVENOUS.v1.0.7z",
       "bytes": 16496738,
       "sha256": "7FBFC3A2587E44A6BBBF2004CEE5AB5FD68F1AD45951C02D0EA273C986B51E83",
-      "source_path": "E:\\汉化\\其他\\RAVENOUS.v1.0.7z",
-      "target_tag": "import-2025-10-08"
+      "target_tag": "import-2025-10-08",
+      "release_url": "https://github.com/Linbin-Lai/5050-hanhua/releases/tag/import-2025-10-08",
+      "source_release_url": "https://github.com/5050ResearchCenter/5050-Localization-Collections/releases/tag/2025-10-08"
     },
     {
       "source_release": "2025-10-08",
       "file": "Rip.Current.v1.0.7z",
       "bytes": 32847418,
       "sha256": "820E7BDC9C0BAF2ECF592497A22794921F54EE203DA6D1ACC7C28C0BAB180DF0",
-      "source_path": "E:\\汉化\\其他\\Rip.Current.v1.0.7z",
-      "target_tag": "import-2025-10-08"
+      "target_tag": "import-2025-10-08",
+      "release_url": "https://github.com/Linbin-Lai/5050-hanhua/releases/tag/import-2025-10-08",
+      "source_release_url": "https://github.com/5050ResearchCenter/5050-Localization-Collections/releases/tag/2025-10-08"
     },
     {
       "source_release": "2025-10-08",
       "file": "The.Lightkeeper-fix.7z",
       "bytes": 1772185,
       "sha256": "EC00F1A4B35D7D42C013C00010C9FFA98F6EB5BB25B9D0460BF83CAF1C895017",
-      "source_path": "E:\\汉化\\其他\\The.Lightkeeper-fix.7z",
-      "target_tag": "import-2025-10-08"
+      "target_tag": "import-2025-10-08",
+      "release_url": "https://github.com/Linbin-Lai/5050-hanhua/releases/tag/import-2025-10-08",
+      "source_release_url": "https://github.com/5050ResearchCenter/5050-Localization-Collections/releases/tag/2025-10-08"
     },
     {
       "source_release": "2025-10-08",
       "file": "The.Lightkeeper.v1.0.7z",
       "bytes": 24623832,
       "sha256": "9AF09F3328E396B033952B178AC202D2AEA964BE1B8BA2266AD61C1326EA2ADF",
-      "source_path": "E:\\汉化\\其他\\The.Lightkeeper.v1.0.7z",
-      "target_tag": "import-2025-10-08"
+      "target_tag": "import-2025-10-08",
+      "release_url": "https://github.com/Linbin-Lai/5050-hanhua/releases/tag/import-2025-10-08",
+      "source_release_url": "https://github.com/5050ResearchCenter/5050-Localization-Collections/releases/tag/2025-10-08"
     },
     {
       "source_release": "TheySeeUS",
       "file": "TheySeeUs-zh-Hant-v1.0.7z",
       "bytes": 254467061,
       "sha256": "E74D460E3856F808AAB6426DC6ED6229764D3BDE871296222CABAA6FEB4AFBAD",
-      "source_path": "E:\\汉化\\其他\\TheySeeUs-zh-Hant-v1.0.7z",
-      "target_tag": "import-they-see-us"
+      "target_tag": "import-they-see-us",
+      "release_url": "https://github.com/Linbin-Lai/5050-hanhua/releases/tag/import-they-see-us",
+      "source_release_url": "https://github.com/5050ResearchCenter/5050-Localization-Collections/releases/tag/TheySeeUS"
     }
   ],
   "authorship_policy": "独立发布按原 Release；2025-11-29 与 2026-05-08 合集保留月见鸟 & qsefthuopq 双人署名。"
