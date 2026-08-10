@@ -2,7 +2,7 @@
 
 - **汉化作者：** Cokepoetry
 - **5050 直播间专供**
-- **关注直播间：)** [https://live.bilibili.com/5050](https://live.bilibili.com/5050)
+- **关注直播间：** [https://live.bilibili.com/5050](https://live.bilibili.com/5050)
 
 本仓库用于整理和维护 **5050 汉化组**制作的游戏简体中文补丁、翻译文本、辅助脚本、校验信息及安装说明。
 
