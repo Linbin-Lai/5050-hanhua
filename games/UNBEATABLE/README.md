@@ -9,9 +9,10 @@
 - 文件大小：1214794 字节
 - ZIP SHA-256：`FBF6EFFF7DA14AACC7BA21A839CCAD3A10D5760CAE16FBC2068C7316DF8CE39F`
 - ZIP 文件数：26
-- 发布审查状态：`release_ready`
+- 发布审查状态：`published`
+- 下载地址：[GitHub Release](https://github.com/Linbin-Lai/5050-hanhua/releases/tag/unbeatable-cn-20260718)
 
-> 该包采用新增覆盖文件或独立运行时组件，可在完成最终内容复核后作为 Release 附件发布。
+> 已公开发布。附件不能独立运行，必须配合用户从 Steam 合法取得的对应完整原版游戏使用；具体完成范围和已知问题仍以本页安装说明为准。
 
 ## 安装说明
 

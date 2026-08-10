@@ -9,9 +9,10 @@
 - 文件大小：459078726 字节
 - ZIP SHA-256：`FF52287FFAF924987F637E49587B285C6CEBCDA592BE00849D50F53531F39F7B`
 - ZIP 文件数：25
-- 发布审查状态：`release_ready`
+- 发布审查状态：`published`
+- 下载地址：[GitHub Release](https://github.com/Linbin-Lai/5050-hanhua/releases/tag/endacopia-cn-20260806)
 
-> 该包采用新增覆盖文件或独立运行时组件，可在完成最终内容复核后作为 Release 附件发布。
+> 已公开发布。附件不能独立运行，必须配合用户从 Steam 合法取得的对应完整原版游戏使用；具体完成范围和已知问题仍以本页安装说明为准。
 
 ## 安装说明
 

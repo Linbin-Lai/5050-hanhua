@@ -9,9 +9,10 @@
 - 文件大小：406458 字节
 - ZIP SHA-256：`9786F54D82546A89E64F2F704AF23ECAE793194C288694869DE6339B6D3B06C1`
 - ZIP 文件数：2
-- 发布审查状态：`release_ready_with_known_missing`
+- 发布审查状态：`published`
+- 下载地址：[GitHub Release](https://github.com/Linbin-Lai/5050-hanhua/releases/tag/pih-2-cn-20260806)
 
-> 该包可作为测试版发布，但安装说明列出的未汉化内容必须保留，不能标记为完整汉化。
+> 已公开发布。附件不能独立运行，必须配合用户从 Steam 合法取得的对应完整原版游戏使用；具体完成范围和已知问题仍以本页安装说明为准。
 
 ## 安装说明
 

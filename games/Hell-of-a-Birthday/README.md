@@ -9,9 +9,10 @@
 - 文件大小：50116849 字节
 - ZIP SHA-256：`DF6E6620DC3AF7FFC90B5AF0B88856B01972C854D1D0565EEC365B6B4070891F`
 - ZIP 文件数：5
-- 发布审查状态：`review_required_full_derived_asset`
+- 发布审查状态：`published`
+- 下载地址：[GitHub Release](https://github.com/Linbin-Lai/5050-hanhua/releases/tag/hell-of-a-birthday-cn-20260725)
 
-> 当前 ZIP 含完整派生资源容器，上传前需复核是否包含大量原版资源；仓库中不得直接提交该文件。
+> 已公开发布。附件不能独立运行，必须配合用户从 Steam 合法取得的对应完整原版游戏使用；具体完成范围和已知问题仍以本页安装说明为准。
 
 ## 安装说明
 

@@ -9,9 +9,10 @@
 - 文件大小：36817783 字节
 - ZIP SHA-256：`D39E9BA7DEE37F58CACD9AF633220B25DCEFC7C97633C8066DA783914868DA57`
 - ZIP 文件数：232
-- 发布审查状态：`release_ready`
+- 发布审查状态：`published`
+- 下载地址：[GitHub Release](https://github.com/Linbin-Lai/5050-hanhua/releases/tag/mine-of-my-mind-cn-20260710)
 
-> 该包采用新增覆盖文件或独立运行时组件，可在完成最终内容复核后作为 Release 附件发布。
+> 已公开发布。附件不能独立运行，必须配合用户从 Steam 合法取得的对应完整原版游戏使用；具体完成范围和已知问题仍以本页安装说明为准。
 
 ## 安装说明
 

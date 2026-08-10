@@ -9,9 +9,10 @@
 - 文件大小：25987810 字节
 - ZIP SHA-256：`C01390110015150CD9D9C2E307852F2BA332CB309E688E8C3CB876F4E4ACCD78`
 - ZIP 文件数：7
-- 发布审查状态：`review_required_full_derived_asset`
+- 发布审查状态：`published`
+- 下载地址：[GitHub Release](https://github.com/Linbin-Lai/5050-hanhua/releases/tag/only-good-babysitters-go-to-heaven-cn-20260728)
 
-> 当前 ZIP 含完整派生资源容器，上传前需复核是否包含大量原版资源；仓库中不得直接提交该文件。
+> 已公开发布。附件不能独立运行，必须配合用户从 Steam 合法取得的对应完整原版游戏使用；具体完成范围和已知问题仍以本页安装说明为准。
 
 ## 安装说明
 

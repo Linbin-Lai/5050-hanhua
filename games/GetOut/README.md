@@ -9,9 +9,10 @@
 - 文件大小：43102128 字节
 - ZIP SHA-256：`7BB1A1C53AEEDCFEF7762948303CD47656C387E073232A1854388333DF4D1C18`
 - ZIP 文件数：5
-- 发布审查状态：`release_ready`
+- 发布审查状态：`published`
+- 下载地址：[GitHub Release](https://github.com/Linbin-Lai/5050-hanhua/releases/tag/getout-cn-20260715)
 
-> 该包采用新增覆盖文件或独立运行时组件，可在完成最终内容复核后作为 Release 附件发布。
+> 已公开发布。附件不能独立运行，必须配合用户从 Steam 合法取得的对应完整原版游戏使用；具体完成范围和已知问题仍以本页安装说明为准。
 
 ## 安装说明
 

@@ -8,25 +8,27 @@
 
 安装前请确认补丁适用于当前游戏版本，并完整阅读对应游戏目录中的说明。游戏更新后，旧版补丁可能失效或造成启动异常。
 
+所有 Release 附件均为不能独立运行的汉化文件，必须配合用户从 Steam 合法取得的对应完整原版游戏使用。发布状态不代表全部低概率内容均已通过运行验证。
+
 ## 汉化项目
 
 | 游戏 | 状态 | 补丁形式 | 项目说明 |
 |---|---|---|---|
 | Backrooms The Multiverse | 已发布 | Unreal IoStore 覆盖容器 | [查看](games/Backrooms-The-Multiverse/) |
-| Bite Night: Dine or Die | 发布前复核 | Unity 静态资源 | [查看](games/Bite-Night-Dine-or-Die/) |
-| Bite Night | 发布前复核 | Unity 静态资源 | [查看](games/Bite-Night/) |
-| Burger Bots Inc | 发布前复核 | BepInEx + 资源补丁 | [查看](games/Burger-Bots-Inc/) |
+| Bite Night: Dine or Die | 已发布 | Unity 静态资源 | [查看](games/Bite-Night-Dine-or-Die/) |
+| Bite Night | 已发布 | Unity 静态资源 | [查看](games/Bite-Night/) |
+| Burger Bots Inc | 已发布 | BepInEx + 资源补丁 | [查看](games/Burger-Bots-Inc/) |
 | CashGrab Refunded | 已发布 | BepInEx 离线汉化 | [查看](games/CashGrab-Refunded/) |
 | Endacopia | 已发布 | AGS 原生翻译与松散资源 | [查看](games/Endacopia/) |
-| Fallen Leaf | 受限发布 | GameMaker 文本工具包 | [查看](games/Fallen-Leaf/) |
+| Fallen Leaf | 已发布 | GameMaker 文本工具包 | [查看](games/Fallen-Leaf/) |
 | FrogLegs | 已发布 | Unreal IoStore 覆盖容器 | [查看](games/FrogLegs/) |
 | Funnel Runners | 已发布 | Unreal IoStore 覆盖容器 | [查看](games/Funnel-Runners/) |
 | デテイケ -GetOut- | 已发布 | Unreal IoStore 覆盖容器 | [查看](games/GetOut/) |
-| Hell of a Birthday | 发布前复核 | Unity 静态资源 | [查看](games/Hell-of-a-Birthday/) |
-| Jeffrey Eggstein | 发布前复核 | Unity 静态资源 | [查看](games/Jeffrey-Eggstein/) |
+| Hell of a Birthday | 已发布 | Unity 静态资源 | [查看](games/Hell-of-a-Birthday/) |
+| Jeffrey Eggstein | 已发布 | Unity 静态资源 | [查看](games/Jeffrey-Eggstein/) |
 | Mine of My Mind | 已发布 | BepInEx IL2CPP | [查看](games/Mine-of-My-Mind/) |
-| Only Good Babysitters Go To Heaven | 发布前复核 | Unity 静态资源与字幕组件 | [查看](games/Only-Good-Babysitters-Go-To-Heaven/) |
-| Pih 2 | 测试版 | Unreal PAK 本地化 | [查看](games/Pih-2/) |
+| Only Good Babysitters Go To Heaven | 已发布 | Unity 静态资源与字幕组件 | [查看](games/Only-Good-Babysitters-Go-To-Heaven/) |
+| Pih 2 | 已发布 | Unreal PAK 本地化 | [查看](games/Pih-2/) |
 | Strikers Club | 已发布 | Unreal IoStore 覆盖容器 | [查看](games/StrikersClub/) |
 | UNBEATABLE | 已发布 | BepInEx 离线汉化 | [查看](games/UNBEATABLE/) |
 

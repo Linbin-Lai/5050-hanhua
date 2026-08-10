@@ -7,23 +7,23 @@ $ErrorActionPreference = 'Stop'
 Add-Type -AssemblyName System.IO.Compression.FileSystem
 
 $projects = [ordered]@{
-    'Backrooms The Multiverse_简体中文覆盖包.zip'          = @('Backrooms-The-Multiverse', 'Backrooms The Multiverse', 'Unreal Engine 5.7', 'release_ready')
-    'Bite Night Dine or Die_简体中文覆盖包.zip'            = @('Bite-Night-Dine-or-Die', 'Bite Night: Dine or Die', 'Unity 2022.3.20f1 Mono', 'review_required_full_derived_asset')
-    'Bite Night_简体中文覆盖包.zip'                         = @('Bite-Night', 'Bite Night', 'Unity 2022.3.20f1 Mono', 'review_required_full_derived_asset')
-    'Burger Bots Inc_简体中文覆盖包.zip'                    = @('Burger-Bots-Inc', 'Burger Bots Inc', 'Unity 2022.3.62f2 Mono', 'review_required_full_derived_asset')
-    'CashGrab Refunded_简体中文覆盖包.zip'                   = @('CashGrab-Refunded', 'CashGrab Refunded', 'Unity 6000.2.9f1 Mono', 'release_ready')
-    'Endacopia_简体中文覆盖包.zip'                           = @('Endacopia', 'Endacopia', 'Adventure Game Studio 3.6.0.55', 'release_ready')
-    'Fallen Leaf_简体中文覆盖包.zip'                        = @('Fallen-Leaf', 'Fallen Leaf', 'GameMaker Studio 1.4', 'do_not_publish_full_data_win')
-    'FrogLegs_简体中文覆盖包.zip'                            = @('FrogLegs', 'FrogLegs', 'Unreal Engine 5.3', 'release_ready')
-    'Funnel Runners_简体中文覆盖包.zip'                     = @('Funnel-Runners', 'Funnel Runners', 'Unreal Engine 5.6', 'release_ready')
-    'GetOut_简体中文覆盖包.zip'                             = @('GetOut', 'デテイケ -GetOut-', 'Unreal Engine 5.3', 'release_ready')
-    'Hell of a Birthday_简体中文覆盖包.zip'                 = @('Hell-of-a-Birthday', 'Hell of a Birthday', 'Unity 2022.3.20f1 Mono', 'review_required_full_derived_asset')
-    'Jeffrey Eggstein_简体中文覆盖包.zip'                   = @('Jeffrey-Eggstein', 'Jeffrey Eggstein', 'Unity 6000.5.0f1 Mono', 'review_required_full_derived_asset')
-    'Mine of My Mind_简体中文覆盖包.zip'                    = @('Mine-of-My-Mind', 'Mine of My Mind', 'Unity 6000.0.59f2 IL2CPP', 'release_ready')
-    'Only Good Babysitters Go To Heaven_简体中文覆盖包.zip' = @('Only-Good-Babysitters-Go-To-Heaven', 'Only Good Babysitters Go To Heaven', 'Unity 2022.3.20f1 Mono', 'review_required_full_derived_asset')
-    'Pih 2_简体中文覆盖包.zip'                               = @('Pih-2', 'Pih 2', 'Unreal Engine 5.3', 'release_ready_with_known_missing')
-    'StrikersClub_简体中文覆盖包.zip'                       = @('StrikersClub', 'Strikers Club', 'Unreal Engine 5.6', 'release_ready')
-    'UNBEATABLE_简体中文覆盖包.zip'                          = @('UNBEATABLE', 'UNBEATABLE', 'Unity Mono x64', 'release_ready')
+    'Backrooms The Multiverse_简体中文覆盖包.zip'          = @('Backrooms-The-Multiverse', 'Backrooms The Multiverse', 'Unreal Engine 5.7', 'published')
+    'Bite Night Dine or Die_简体中文覆盖包.zip'            = @('Bite-Night-Dine-or-Die', 'Bite Night: Dine or Die', 'Unity 2022.3.20f1 Mono', 'published')
+    'Bite Night_简体中文覆盖包.zip'                         = @('Bite-Night', 'Bite Night', 'Unity 2022.3.20f1 Mono', 'published')
+    'Burger Bots Inc_简体中文覆盖包.zip'                    = @('Burger-Bots-Inc', 'Burger Bots Inc', 'Unity 2022.3.62f2 Mono', 'published')
+    'CashGrab Refunded_简体中文覆盖包.zip'                   = @('CashGrab-Refunded', 'CashGrab Refunded', 'Unity 6000.2.9f1 Mono', 'published')
+    'Endacopia_简体中文覆盖包.zip'                           = @('Endacopia', 'Endacopia', 'Adventure Game Studio 3.6.0.55', 'published')
+    'Fallen Leaf_简体中文覆盖包.zip'                        = @('Fallen-Leaf', 'Fallen Leaf', 'GameMaker Studio 1.4', 'published')
+    'FrogLegs_简体中文覆盖包.zip'                            = @('FrogLegs', 'FrogLegs', 'Unreal Engine 5.3', 'published')
+    'Funnel Runners_简体中文覆盖包.zip'                     = @('Funnel-Runners', 'Funnel Runners', 'Unreal Engine 5.6', 'published')
+    'GetOut_简体中文覆盖包.zip'                             = @('GetOut', 'デテイケ -GetOut-', 'Unreal Engine 5.3', 'published')
+    'Hell of a Birthday_简体中文覆盖包.zip'                 = @('Hell-of-a-Birthday', 'Hell of a Birthday', 'Unity 2022.3.20f1 Mono', 'published')
+    'Jeffrey Eggstein_简体中文覆盖包.zip'                   = @('Jeffrey-Eggstein', 'Jeffrey Eggstein', 'Unity 6000.5.0f1 Mono', 'published')
+    'Mine of My Mind_简体中文覆盖包.zip'                    = @('Mine-of-My-Mind', 'Mine of My Mind', 'Unity 6000.0.59f2 IL2CPP', 'published')
+    'Only Good Babysitters Go To Heaven_简体中文覆盖包.zip' = @('Only-Good-Babysitters-Go-To-Heaven', 'Only Good Babysitters Go To Heaven', 'Unity 2022.3.20f1 Mono', 'published')
+    'Pih 2_简体中文覆盖包.zip'                               = @('Pih-2', 'Pih 2', 'Unreal Engine 5.3', 'published')
+    'StrikersClub_简体中文覆盖包.zip'                       = @('StrikersClub', 'Strikers Club', 'Unreal Engine 5.6', 'published')
+    'UNBEATABLE_简体中文覆盖包.zip'                          = @('UNBEATABLE', 'UNBEATABLE', 'Unity Mono x64', 'published')
 }
 
 $manifest = [System.Collections.Generic.List[object]]::new()
@@ -74,10 +74,8 @@ foreach ($pair in $projects.GetEnumerator()) {
         New-Item -ItemType Directory -Force -Path $checksumDir | Out-Null
 
         $notice = switch ($publicationStatus) {
-            'release_ready' { '该包采用新增覆盖文件或独立运行时组件，可在完成最终内容复核后作为 Release 附件发布。' }
-            'release_ready_with_known_missing' { '该包可作为测试版发布，但安装说明列出的未汉化内容必须保留，不能标记为完整汉化。' }
-            'do_not_publish_full_data_win' { '当前 ZIP 含完整 `data.win`，暂不公开该覆盖包。公开发布应改用文本导入导出包或合法的二进制差分补丁。' }
-            default { '当前 ZIP 含完整派生资源容器，上传前需复核是否包含大量原版资源；仓库中不得直接提交该文件。' }
+            'published' { '已公开发布。附件不能独立运行，必须配合用户从 Steam 合法取得的对应完整原版游戏使用；具体完成范围和已知问题以安装说明为准。' }
+            default { '尚未发布；必须先完成附件、版本兼容性和安装说明复核。' }
         }
 
         $readme = @"

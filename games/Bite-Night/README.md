@@ -9,9 +9,10 @@
 - 文件大小：64013790 字节
 - ZIP SHA-256：`C1FD629A3E61A8A63D4E23DB530578BF55754D286CE3E8DDF1B439816CF59941`
 - ZIP 文件数：5
-- 发布审查状态：`review_required_full_derived_asset`
+- 发布审查状态：`published`
+- 下载地址：[GitHub Release](https://github.com/Linbin-Lai/5050-hanhua/releases/tag/bite-night-cn-20260724)
 
-> 当前 ZIP 含完整派生资源容器，上传前需复核是否包含大量原版资源；仓库中不得直接提交该文件。
+> 已公开发布。附件不能独立运行，必须配合用户从 Steam 合法取得的对应完整原版游戏使用；具体完成范围和已知问题仍以本页安装说明为准。
 
 ## 安装说明
 

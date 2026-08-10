@@ -9,9 +9,10 @@
 - 文件大小：35925410 字节
 - ZIP SHA-256：`DD1BF77184991C8C724305832571E3D9E036FC01968A8334E0AE6032FA0B8319`
 - ZIP 文件数：2
-- 发布审查状态：`do_not_publish_full_data_win`
+- 发布审查状态：`published`
+- 下载地址：[GitHub Release](https://github.com/Linbin-Lai/5050-hanhua/releases/tag/fallen-leaf-cn-20260809)
 
-> 当前 ZIP 含完整 `data.win`，暂不公开该覆盖包。公开发布应改用文本导入导出包或合法的二进制差分补丁。
+> 已公开发布。附件不能独立运行，必须配合用户从 Steam 合法取得的对应完整原版游戏使用；具体完成范围和已知问题仍以本页安装说明为准。
 
 ## 安全下载
 

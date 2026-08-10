@@ -9,9 +9,10 @@
 - 文件大小：17177504 字节
 - ZIP SHA-256：`A016D9056309AF7683D94418A9FD99C9425DDA9D6A8AD75288C05FDBD7DD22B2`
 - ZIP 文件数：4
-- 发布审查状态：`release_ready`
+- 发布审查状态：`published`
+- 下载地址：[GitHub Release](https://github.com/Linbin-Lai/5050-hanhua/releases/tag/strikersclub-cn-20260719)
 
-> 该包采用新增覆盖文件或独立运行时组件，可在完成最终内容复核后作为 Release 附件发布。
+> 已公开发布。附件不能独立运行，必须配合用户从 Steam 合法取得的对应完整原版游戏使用；具体完成范围和已知问题仍以本页安装说明为准。
 
 ## 安装说明
 
