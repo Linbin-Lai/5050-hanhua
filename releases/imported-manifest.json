@@ -1,0 +1,606 @@
+{
+  "source_repository": "https://github.com/5050ResearchCenter/5050-Localization-Collections",
+  "imported_projects": [
+    {
+      "game": "BloodBear",
+      "slug": "BloodBear",
+      "source_release": "2025-10-08",
+      "patch": "Unreal IoStore 覆盖容器",
+      "status": "已发布",
+      "note": "",
+      "author": "月见鸟",
+      "target_tag": "import-2025-10-08"
+    },
+    {
+      "game": "Don't Escape Trilogy",
+      "slug": "Dont-Escape-Trilogy",
+      "source_release": "2025-10-08",
+      "patch": "Flash 资源替换",
+      "status": "已发布",
+      "note": "",
+      "author": "月见鸟",
+      "target_tag": "import-2025-10-08"
+    },
+    {
+      "game": "Forest Asylum 2",
+      "slug": "Forest-Asylum-2",
+      "source_release": "2025-10-08",
+      "patch": "Unreal PAK 覆盖",
+      "status": "已发布",
+      "note": "2025-11-29 合集亦收录；优先使用合集中的较新/同版文件",
+      "author": "月见鸟",
+      "target_tag": "import-2025-10-08"
+    },
+    {
+      "game": "Paranormal Cleanup",
+      "slug": "Paranormal-Cleanup",
+      "source_release": "2025-10-08",
+      "patch": "资源替换（按包内说明）",
+      "status": "已发布",
+      "note": "",
+      "author": "月见鸟",
+      "target_tag": "import-2025-10-08"
+    },
+    {
+      "game": "RAVENOUS",
+      "slug": "RAVENOUS",
+      "source_release": "2025-10-08",
+      "patch": "Unreal IoStore 覆盖容器",
+      "status": "已发布",
+      "note": "2025-11-29 合集亦收录；优先使用合集中的较新/同版文件",
+      "author": "月见鸟",
+      "target_tag": "import-2025-10-08"
+    },
+    {
+      "game": "Rip Current",
+      "slug": "Rip-Current",
+      "source_release": "2025-10-08",
+      "patch": "Unity BepInEx 汉化",
+      "status": "已发布",
+      "note": "2025-11-29 合集亦收录；优先使用合集中的较新/同版文件",
+      "author": "月见鸟",
+      "target_tag": "import-2025-10-08"
+    },
+    {
+      "game": "The Lightkeeper",
+      "slug": "The-Lightkeeper",
+      "source_release": "2025-10-08",
+      "patch": "Unreal PAK 覆盖",
+      "status": "已发布",
+      "note": "同一发布含主补丁与文本修正补丁",
+      "author": "月见鸟",
+      "target_tag": "import-2025-10-08"
+    },
+    {
+      "game": "They See Us",
+      "slug": "They-See-Us",
+      "source_release": "TheySeeUS",
+      "patch": "Unreal PAK + 教程视频",
+      "status": "已发布（繁体中文）",
+      "note": "",
+      "author": "月见鸟",
+      "target_tag": "import-they-see-us"
+    },
+    {
+      "game": "Mortanis Prisoners",
+      "slug": "Mortanis-Prisoners",
+      "source_release": "Mortanis_Prisoners",
+      "patch": "Unreal PAK 覆盖",
+      "status": "已发布（不完全汉化）",
+      "note": "",
+      "author": "月见鸟",
+      "target_tag": "import-mortanis-prisoners"
+    },
+    {
+      "game": "GULLET",
+      "slug": "GULLET",
+      "source_release": "GULLET",
+      "patch": "Godot PCK 替换",
+      "status": "已发布",
+      "note": "",
+      "author": "月见鸟（GitHub: kurikomoe）",
+      "target_tag": "import-gullet"
+    },
+    {
+      "game": "Deep Sleep Trilogy",
+      "slug": "Deep-Sleep-Trilogy",
+      "source_release": "Deep_Sleep_Trilogy",
+      "patch": "Flash 资源替换",
+      "status": "已发布",
+      "note": "",
+      "author": "月见鸟（GitHub: kurikomoe）",
+      "target_tag": "import-deep-sleep-trilogy"
+    },
+    {
+      "game": "CULTIC",
+      "slug": "CULTIC",
+      "source_release": "CULTIC",
+      "patch": "Unity BepInEx 汉化",
+      "status": "已发布（历史 v1.2；合集含 v1.4）",
+      "note": "2025-11-29 合集亦收录；优先使用合集中的较新/同版文件",
+      "author": "月见鸟",
+      "target_tag": "import-cultic-v1.2-archive"
+    },
+    {
+      "game": "Blood West",
+      "slug": "Blood-West",
+      "source_release": "BloodWest",
+      "patch": "Unity BepInEx 汉化",
+      "status": "已发布",
+      "note": "2025-11-29 合集亦收录；优先使用合集中的较新/同版文件",
+      "author": "月见鸟",
+      "target_tag": "import-blood-west"
+    },
+    {
+      "game": "AUTO-CRISIS",
+      "slug": "AUTO-CRISIS",
+      "source_release": "2025-11-29",
+      "patch": "Unreal PAK 覆盖",
+      "status": "已发布",
+      "note": "",
+      "author": "月见鸟 & qsefthuopq",
+      "target_tag": "import-2025-11-29"
+    },
+    {
+      "game": "Brother Hai's Pho Restaurant",
+      "slug": "Brother-Hais-Pho-Restaurant",
+      "source_release": "2025-11-29",
+      "patch": "Godot 资源替换",
+      "status": "已发布",
+      "note": "",
+      "author": "月见鸟 & qsefthuopq",
+      "target_tag": "import-2025-11-29"
+    },
+    {
+      "game": "Clown Is Hungry",
+      "slug": "Clown-Is-Hungry",
+      "source_release": "2025-11-29",
+      "patch": "Unity BepInEx 汉化",
+      "status": "已发布",
+      "note": "包内另有 qsefthuopq 制作署名",
+      "author": "月见鸟 & qsefthuopq",
+      "target_tag": "import-2025-11-29"
+    },
+    {
+      "game": "Cyber Rats",
+      "slug": "Cyber-Rats",
+      "source_release": "2025-11-29",
+      "patch": "Unreal PAK 替换",
+      "status": "已发布",
+      "note": "",
+      "author": "月见鸟 & qsefthuopq",
+      "target_tag": "import-2025-11-29"
+    },
+    {
+      "game": "Deadcam",
+      "slug": "Deadcam",
+      "source_release": "2025-11-29",
+      "patch": "Unreal PAK 覆盖",
+      "status": "已发布（机翻）",
+      "note": "",
+      "author": "月见鸟 & qsefthuopq",
+      "target_tag": "import-2025-11-29"
+    },
+    {
+      "game": "Flesh Made Fear",
+      "slug": "Flesh-Made-Fear",
+      "source_release": "2025-11-29",
+      "patch": "Unreal IoStore 覆盖容器",
+      "status": "已发布",
+      "note": "",
+      "author": "月见鸟 & qsefthuopq",
+      "target_tag": "import-2025-11-29"
+    },
+    {
+      "game": "Holes",
+      "slug": "Holes",
+      "source_release": "2025-11-29",
+      "patch": "Unity BepInEx 插件包",
+      "status": "已发布",
+      "note": "",
+      "author": "月见鸟 & qsefthuopq",
+      "target_tag": "import-2025-11-29"
+    },
+    {
+      "game": "Hollowbrook - Apartments",
+      "slug": "Hollowbrook-Apartments",
+      "source_release": "2025-11-29",
+      "patch": "Unreal PAK 替换",
+      "status": "已发布",
+      "note": "合集含 v1.0 与 v1.1，以 v1.1 为较新版本",
+      "author": "月见鸟 & qsefthuopq",
+      "target_tag": "import-2025-11-29"
+    },
+    {
+      "game": "House of Necrosis",
+      "slug": "House-of-Necrosis",
+      "source_release": "2025-11-29",
+      "patch": "Godot PCK 替换",
+      "status": "已发布（非完全汉化）",
+      "note": "",
+      "author": "月见鸟 & qsefthuopq",
+      "target_tag": "import-2025-11-29"
+    },
+    {
+      "game": "Midnight Crane",
+      "slug": "Midnight-Crane",
+      "source_release": "2025-11-29",
+      "patch": "Unreal PAK / IoStore 覆盖",
+      "status": "已发布",
+      "note": "",
+      "author": "月见鸟 & qsefthuopq",
+      "target_tag": "import-2025-11-29"
+    },
+    {
+      "game": "Salvage Protocol",
+      "slug": "Salvage-Protocol",
+      "source_release": "2025-11-29",
+      "patch": "Unity BepInEx 汉化",
+      "status": "已发布",
+      "note": "",
+      "author": "月见鸟 & qsefthuopq",
+      "target_tag": "import-2025-11-29"
+    },
+    {
+      "game": "Skinfreak",
+      "slug": "Skinfreak",
+      "source_release": "2025-11-29",
+      "patch": "Unity BepInEx 汉化",
+      "status": "已发布",
+      "note": "包内另有 qsefthuopq 制作署名",
+      "author": "月见鸟 & qsefthuopq",
+      "target_tag": "import-2025-11-29"
+    },
+    {
+      "game": "The Dark Legacy",
+      "slug": "The-Dark-Legacy",
+      "source_release": "2025-11-29",
+      "patch": "Unity 字体修复插件",
+      "status": "已发布（字体修复）",
+      "note": "不是完整汉化补丁",
+      "author": "月见鸟 & qsefthuopq",
+      "target_tag": "import-2025-11-29"
+    },
+    {
+      "game": "The Dark Mind",
+      "slug": "The-Dark-Mind",
+      "source_release": "2025-11-29",
+      "patch": "Unreal PAK 覆盖",
+      "status": "已发布",
+      "note": "",
+      "author": "月见鸟 & qsefthuopq",
+      "target_tag": "import-2025-11-29"
+    },
+    {
+      "game": "The Lacerator",
+      "slug": "The-Lacerator",
+      "source_release": "2025-11-29",
+      "patch": "Unreal PAK 覆盖",
+      "status": "已发布",
+      "note": "",
+      "author": "月见鸟 & qsefthuopq",
+      "target_tag": "import-2025-11-29"
+    },
+    {
+      "game": "Total Chaos",
+      "slug": "Total-Chaos",
+      "source_release": "2025-11-29",
+      "patch": "Unity BepInEx 汉化",
+      "status": "已发布",
+      "note": "包内明确记录月见鸟导出翻译资源、qsefthuopq 翻译校对",
+      "author": "月见鸟 & qsefthuopq",
+      "target_tag": "import-2025-11-29"
+    },
+    {
+      "game": "Are We There Yet?",
+      "slug": "Are-We-There-Yet",
+      "source_release": "2025-11-29",
+      "patch": "Unreal 汉化 + 8 人组队包",
+      "status": "已发布",
+      "note": "同一合集另含两款磁带音乐替换附加包；多人模组属于第三方组件",
+      "author": "月见鸟 & qsefthuopq",
+      "target_tag": "import-2025-11-29"
+    },
+    {
+      "game": "Don't Escape: 4 Days to Survive",
+      "slug": "Dont-Escape-4-Days-to-Survive",
+      "source_release": "2025-11-29",
+      "patch": "Steam 社区汉化安装包",
+      "status": "已发布（外部来源）",
+      "note": "汉化源自 Steam 社区；本合集整理署名为月见鸟 & qsefthuopq",
+      "author": "月见鸟 & qsefthuopq",
+      "target_tag": "import-2025-11-29"
+    },
+    {
+      "game": "Abandoned Stories: Inherited Silence",
+      "slug": "Abandoned-Stories-Inherited-Silence",
+      "source_release": "2026-05-08",
+      "patch": "Unity BepInEx 汉化",
+      "status": "已发布",
+      "note": "",
+      "author": "月见鸟 & qsefthuopq",
+      "target_tag": "import-2026-05-08"
+    },
+    {
+      "game": "BLOOD MALL RETAPED",
+      "slug": "BLOOD-MALL-RETAPED",
+      "source_release": "2026-05-08",
+      "patch": "Unity MelonLoader 汉化",
+      "status": "已发布",
+      "note": "",
+      "author": "月见鸟 & qsefthuopq",
+      "target_tag": "import-2026-05-08"
+    },
+    {
+      "game": "Creature Kitchen",
+      "slug": "Creature-Kitchen",
+      "source_release": "2026-05-08",
+      "patch": "资源替换（按包内说明）",
+      "status": "已发布",
+      "note": "",
+      "author": "月见鸟 & qsefthuopq",
+      "target_tag": "import-2026-05-08"
+    },
+    {
+      "game": "Forbidden Solitaire",
+      "slug": "Forbidden-Solitaire",
+      "source_release": "2026-05-08",
+      "patch": "文本、字体与脚本资源",
+      "status": "已发布",
+      "note": "",
+      "author": "月见鸟 & qsefthuopq",
+      "target_tag": "import-2026-05-08"
+    },
+    {
+      "game": "Intown Nightmares",
+      "slug": "Intown-Nightmares",
+      "source_release": "2026-05-08",
+      "patch": "资源替换（按包内说明）",
+      "status": "已发布",
+      "note": "",
+      "author": "月见鸟 & qsefthuopq",
+      "target_tag": "import-2026-05-08"
+    },
+    {
+      "game": "Invincible VS",
+      "slug": "Invincible-VS",
+      "source_release": "2026-05-08",
+      "patch": "资源替换（按包内说明）",
+      "status": "已发布",
+      "note": "",
+      "author": "月见鸟 & qsefthuopq",
+      "target_tag": "import-2026-05-08"
+    },
+    {
+      "game": "Jaden Williams' The Stalking Stairs",
+      "slug": "Jaden-Williams-The-Stalking-Stairs",
+      "source_release": "2026-05-08",
+      "patch": "资源替换（按包内说明）",
+      "status": "已发布",
+      "note": "",
+      "author": "月见鸟 & qsefthuopq",
+      "target_tag": "import-2026-05-08"
+    },
+    {
+      "game": "LANESPLIT",
+      "slug": "LANESPLIT",
+      "source_release": "2026-05-08",
+      "patch": "Unreal IoStore 覆盖容器",
+      "status": "已发布",
+      "note": "",
+      "author": "月见鸟 & qsefthuopq",
+      "target_tag": "import-2026-05-08"
+    },
+    {
+      "game": "Lihiman",
+      "slug": "Lihiman",
+      "source_release": "2026-05-08",
+      "patch": "资源替换（按包内说明）",
+      "status": "已发布",
+      "note": "",
+      "author": "月见鸟 & qsefthuopq",
+      "target_tag": "import-2026-05-08"
+    },
+    {
+      "game": "Midnight Hoops",
+      "slug": "Midnight-Hoops",
+      "source_release": "2026-05-08",
+      "patch": "资源替换（按包内说明）",
+      "status": "已发布",
+      "note": "合集含 v1.0 与 v1.1，以 v1.1 为较新版本",
+      "author": "月见鸟 & qsefthuopq",
+      "target_tag": "import-2026-05-08"
+    },
+    {
+      "game": "Pyromaniac",
+      "slug": "Pyromaniac",
+      "source_release": "2026-05-08",
+      "patch": "Unity BepInEx 汉化",
+      "status": "已发布",
+      "note": "",
+      "author": "月见鸟 & qsefthuopq",
+      "target_tag": "import-2026-05-08"
+    },
+    {
+      "game": "Shards Of Solitude",
+      "slug": "Shards-Of-Solitude",
+      "source_release": "2026-05-08",
+      "patch": "Unreal IoStore 中文修复",
+      "status": "已发布",
+      "note": "",
+      "author": "月见鸟 & qsefthuopq",
+      "target_tag": "import-2026-05-08"
+    },
+    {
+      "game": "The Long Drive",
+      "slug": "The-Long-Drive",
+      "source_release": "2026-05-08",
+      "patch": "原生语言文本",
+      "status": "已发布",
+      "note": "兼容新旧版本，包名标注 2023.05.02d",
+      "author": "月见鸟 & qsefthuopq",
+      "target_tag": "import-2026-05-08"
+    },
+    {
+      "game": "The Salesman",
+      "slug": "The-Salesman",
+      "source_release": "2026-05-08",
+      "patch": "Unity BepInEx 汉化",
+      "status": "已发布",
+      "note": "使用 2026-05-08 合集中的对话修复版本",
+      "author": "月见鸟 & qsefthuopq",
+      "target_tag": "import-2026-05-08"
+    },
+    {
+      "game": "White Knuckle",
+      "slug": "White-Knuckle",
+      "source_release": "2026-05-08",
+      "patch": "Unity BepInEx 汉化",
+      "status": "已发布",
+      "note": "包内另有 qsefthuopq 制作署名",
+      "author": "月见鸟 & qsefthuopq",
+      "target_tag": "import-2026-05-08"
+    },
+    {
+      "game": "Poppy Playtime: Chapter 4",
+      "slug": "Poppy-Playtime-Chapter-4",
+      "source_release": "2026-05-08",
+      "patch": "RAR 汉化包（按包内说明）",
+      "status": "已发布",
+      "note": "",
+      "author": "月见鸟 & qsefthuopq",
+      "target_tag": "import-2026-05-08"
+    }
+  ],
+  "release_assets": [
+    {
+      "source_release": "2026-05-08",
+      "file": "5050-20260508.7z",
+      "bytes": 328166966,
+      "sha256": "5AD1D49DE0348D742C147D20C7AF27BB322727B9831A5FA1209FA2EB6781F49C",
+      "source_path": "E:\\汉化\\其他\\5050-20260508.7z",
+      "target_tag": "import-2026-05-08"
+    },
+    {
+      "source_release": "2025-11-29",
+      "file": "5050-25-11-29.7z",
+      "bytes": 984761913,
+      "sha256": "B7D717E41AA5279BB3C289F711E7348503BBE0FE725E45199448847D6128E1CD",
+      "source_path": "E:\\汉化\\其他\\5050-25-11-29.7z",
+      "target_tag": "import-2025-11-29"
+    },
+    {
+      "source_release": "BloodWest",
+      "file": "Blood.West.chs.v1.1.7z",
+      "bytes": 57379929,
+      "sha256": "8C47822C5630B33379C2A50827C19D80D293796034ED15D0D3B130AB5B97E9DE",
+      "source_path": "E:\\汉化\\其他\\Blood.West.chs.v1.1.7z",
+      "target_tag": "import-blood-west"
+    },
+    {
+      "source_release": "2025-10-08",
+      "file": "BloodBear.v1.0.7z",
+      "bytes": 1844919,
+      "sha256": "0853792103D21014B1B93DBC07437EED3506848A384E8F18B3C5B50EFA7E4EA6",
+      "source_path": "E:\\汉化\\其他\\BloodBear.v1.0.7z",
+      "target_tag": "import-2025-10-08"
+    },
+    {
+      "source_release": "CULTIC",
+      "file": "CULTIC.v1.2.zip",
+      "bytes": 66693848,
+      "sha256": "9F4DBB5407F61319F80226DE4EDEA44FF8DC07108D83C024FA599EA47477CD4B",
+      "source_path": "E:\\汉化\\其他\\CULTIC.v1.2.zip",
+      "target_tag": "import-cultic-v1.2-archive"
+    },
+    {
+      "source_release": "Deep_Sleep_Trilogy",
+      "file": "Deep.Sleep.Trilogy.v1.0.zip",
+      "bytes": 43654116,
+      "sha256": "014391BB5983DC126DA4037012E923B21FB7C6955FDBCDB940C31F10FE5B2EED",
+      "source_path": "E:\\汉化\\其他\\Deep.Sleep.Trilogy.v1.0.zip",
+      "target_tag": "import-deep-sleep-trilogy"
+    },
+    {
+      "source_release": "2025-10-08",
+      "file": "Don.t.Escape.Trilogy.v1.0.7z",
+      "bytes": 92677385,
+      "sha256": "3B71FA5E3AC6A699B859174906E6F71C6938A93042C073739382940B2206AED2",
+      "source_path": "E:\\汉化\\其他\\Don.t.Escape.Trilogy.v1.0.7z",
+      "target_tag": "import-2025-10-08"
+    },
+    {
+      "source_release": "2025-10-08",
+      "file": "Forest.Asylum.2.v1.0.7z",
+      "bytes": 5447,
+      "sha256": "C7BF8FEFCD9925453C89EC8A2DEF96F280FC13E8B0974F8EBD81BEBC44B85E3B",
+      "source_path": "E:\\汉化\\其他\\Forest.Asylum.2.v1.0.7z",
+      "target_tag": "import-2025-10-08"
+    },
+    {
+      "source_release": "GULLET",
+      "file": "GULLET.7z",
+      "bytes": 93199646,
+      "sha256": "077B605BCB671D11D2CB27E829D53EAD3AFD0B2855955E1C0B2B3AA5EC6054E3",
+      "source_path": "E:\\汉化\\其他\\GULLET.7z",
+      "target_tag": "import-gullet"
+    },
+    {
+      "source_release": "Mortanis_Prisoners",
+      "file": "Mortanis.Prisoners.v1.0.7z",
+      "bytes": 140690838,
+      "sha256": "F9C4D1C5765CBFA60EAD46A214544738FF563D49F4F205BB700BBB2A9BF5CE3B",
+      "source_path": "E:\\汉化\\其他\\Mortanis.Prisoners.v1.0.7z",
+      "target_tag": "import-mortanis-prisoners"
+    },
+    {
+      "source_release": "2025-10-08",
+      "file": "Paranormal.Cleanup.v1.0.7z",
+      "bytes": 1948881,
+      "sha256": "F936E79CF45F6785DE34B5C4638E5BA4FC3C004F0FA949CF47F7BB3D1EE1A8F6",
+      "source_path": "E:\\汉化\\其他\\Paranormal.Cleanup.v1.0.7z",
+      "target_tag": "import-2025-10-08"
+    },
+    {
+      "source_release": "2025-10-08",
+      "file": "RAVENOUS.v1.0.7z",
+      "bytes": 16496738,
+      "sha256": "7FBFC3A2587E44A6BBBF2004CEE5AB5FD68F1AD45951C02D0EA273C986B51E83",
+      "source_path": "E:\\汉化\\其他\\RAVENOUS.v1.0.7z",
+      "target_tag": "import-2025-10-08"
+    },
+    {
+      "source_release": "2025-10-08",
+      "file": "Rip.Current.v1.0.7z",
+      "bytes": 32847418,
+      "sha256": "820E7BDC9C0BAF2ECF592497A22794921F54EE203DA6D1ACC7C28C0BAB180DF0",
+      "source_path": "E:\\汉化\\其他\\Rip.Current.v1.0.7z",
+      "target_tag": "import-2025-10-08"
+    },
+    {
+      "source_release": "2025-10-08",
+      "file": "The.Lightkeeper-fix.7z",
+      "bytes": 1772185,
+      "sha256": "EC00F1A4B35D7D42C013C00010C9FFA98F6EB5BB25B9D0460BF83CAF1C895017",
+      "source_path": "E:\\汉化\\其他\\The.Lightkeeper-fix.7z",
+      "target_tag": "import-2025-10-08"
+    },
+    {
+      "source_release": "2025-10-08",
+      "file": "The.Lightkeeper.v1.0.7z",
+      "bytes": 24623832,
+      "sha256": "9AF09F3328E396B033952B178AC202D2AEA964BE1B8BA2266AD61C1326EA2ADF",
+      "source_path": "E:\\汉化\\其他\\The.Lightkeeper.v1.0.7z",
+      "target_tag": "import-2025-10-08"
+    },
+    {
+      "source_release": "TheySeeUS",
+      "file": "TheySeeUs-zh-Hant-v1.0.7z",
+      "bytes": 254467061,
+      "sha256": "E74D460E3856F808AAB6426DC6ED6229764D3BDE871296222CABAA6FEB4AFBAD",
+      "source_path": "E:\\汉化\\其他\\TheySeeUs-zh-Hant-v1.0.7z",
+      "target_tag": "import-they-see-us"
+    }
+  ],
+  "authorship_policy": "独立发布按原 Release；2025-11-29 与 2026-05-08 合集保留月见鸟 & qsefthuopq 双人署名。"
+}
