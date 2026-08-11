@@ -25,6 +25,7 @@
 | 游戏 | 汉化作者 | 状态 | 补丁形式 | 项目说明 |
 |---|---|---|---|---|
 | Abandoned Stories: Inherited Silence | 月见鸟 & qsefthuopq | 已发布 | Unity BepInEx 汉化 | [查看](games/Abandoned-Stories-Inherited-Silence/) |
+| Agent 64: Spies Never Die | Cokepoetry | 已发布 | Unity 静态语言文件 | [查看](games/Agent-64-Spies-Never-Die/) |
 | Are We There Yet? | 月见鸟 & qsefthuopq | 已发布 | Unreal 汉化 + 8 人组队包 | [查看](games/Are-We-There-Yet/) |
 | AUTO-CRISIS | 月见鸟 & qsefthuopq | 已发布 | Unreal PAK 覆盖 | [查看](games/AUTO-CRISIS/) |
 | Backrooms The Multiverse | Cokepoetry | 已发布 | Unreal IoStore 覆盖容器 | [查看](games/Backrooms-The-Multiverse/) |

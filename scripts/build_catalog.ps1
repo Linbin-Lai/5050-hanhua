@@ -7,6 +7,7 @@ $ErrorActionPreference = 'Stop'
 Add-Type -AssemblyName System.IO.Compression.FileSystem
 
 $projects = [ordered]@{
+    'Agent 64_简体中文覆盖包.zip'                            = @('Agent-64-Spies-Never-Die', 'Agent 64: Spies Never Die', 'Unity（v1004）', 'published')
     'Backrooms The Multiverse_简体中文覆盖包.zip'          = @('Backrooms-The-Multiverse', 'Backrooms The Multiverse', 'Unreal Engine 5.7', 'published')
     'Bite Night Dine or Die_简体中文覆盖包.zip'            = @('Bite-Night-Dine-or-Die', 'Bite Night: Dine or Die', 'Unity 2022.3.20f1 Mono', 'published')
     'Bite Night_简体中文覆盖包.zip'                         = @('Bite-Night', 'Bite Night', 'Unity 2022.3.20f1 Mono', 'published')

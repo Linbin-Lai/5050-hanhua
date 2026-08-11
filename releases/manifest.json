@@ -1,5 +1,25 @@
 [
     {
+        "game":  "Agent 64: Spies Never Die",
+        "slug":  "Agent-64-Spies-Never-Die",
+        "package":  "Agent 64_简体中文覆盖包.zip",
+        "bytes":  12887652,
+        "sha256":  "34D9E5539537529AB9F25D6F95BC72AA3F817A2A55ABD129E1511F1525FF39B3",
+        "engine":  "Unity（v1004）",
+        "publication_status":  "published",
+        "zip_entries":  6,
+        "top_level":  [
+                          "Agent 64 Spies Never Die_Data",
+                          "SHA256.txt",
+                          "TranslationFile.tsv",
+                          "安装说明.txt"
+                      ],
+        "last_modified":  "2026-08-11T19:44:05+01:00",
+        "release_tag":  "agent-64-spies-never-die-cn-20260811",
+        "release_url":  "https://github.com/Linbin-Lai/5050-hanhua/releases/tag/agent-64-spies-never-die-cn-20260811",
+        "published_asset_size":  12887652
+    },
+    {
         "game":  "Backrooms The Multiverse",
         "slug":  "Backrooms-The-Multiverse",
         "package":  "Backrooms The Multiverse_简体中文覆盖包.zip",
