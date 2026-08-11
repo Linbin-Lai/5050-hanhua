@@ -45,7 +45,7 @@
 | Don't Escape Trilogy | 月见鸟 | 已发布 | Flash 资源替换 | [查看](games/Dont-Escape-Trilogy/) |
 | Don't Escape: 4 Days to Survive | 月见鸟 & qsefthuopq | 已发布（外部来源） | Steam 社区汉化安装包 | [查看](games/Dont-Escape-4-Days-to-Survive/) |
 | Endacopia | Cokepoetry | 已发布 | AGS 原生翻译与松散资源 | [查看](games/Endacopia/) |
-| Fallen Leaf | Cokepoetry | 已发布 | GameMaker 文本工具包 | [查看](games/Fallen-Leaf/) |
+| Fallen Leaf | Cokepoetry & qsefthuopq | 已发布 | GameMaker 资源覆盖与文本工具包 | [查看](games/Fallen-Leaf/) |
 | Flesh Made Fear | 月见鸟 & qsefthuopq | 已发布 | Unreal IoStore 覆盖容器 | [查看](games/Flesh-Made-Fear/) |
 | Forbidden Solitaire | 月见鸟 & qsefthuopq | 已发布 | 文本、字体与脚本资源 | [查看](games/Forbidden-Solitaire/) |
 | Forest Asylum 2 | 月见鸟 | 已发布 | Unreal PAK 覆盖 | [查看](games/Forest-Asylum-2/) |
