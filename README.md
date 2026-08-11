@@ -91,30 +91,7 @@
 
 
 
-## 仓库结构
 
-```text
-5050-hanhua/
-|-- README.md
-|-- CONTRIBUTING.md
-|-- games/
-|   |-- 游戏名称/
-|   |   |-- README.md
-|   |   |-- translations/
-|   |   |-- scripts/
-|   |   `-- checksums/
-|-- shared-tools/
-|-- docs/
-`-- releases/
-    `-- manifest.json
-```
-
-- `games/`：每款游戏的安装说明、兼容信息和公开源文件。
-- `translations/`：可公开的中英文翻译表与术语表。
-- `scripts/`：文本导入、导出、构建和静态校验脚本。
-- `checksums/`：原版兼容基线及发布文件 SHA-256。
-- `shared-tools/`：由本项目编写的通用辅助脚本。
-- `releases/manifest.json`：全部发布包的文件名、大小和校验值。
 
 ## 问题反馈
 
