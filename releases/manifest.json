@@ -2,22 +2,21 @@
     {
         "game":  "Agent 64: Spies Never Die",
         "slug":  "Agent-64-Spies-Never-Die",
-        "package":  "Agent 64_简体中文覆盖包.zip",
-        "bytes":  12887652,
-        "sha256":  "34D9E5539537529AB9F25D6F95BC72AA3F817A2A55ABD129E1511F1525FF39B3",
-        "engine":  "Unity（v1004）",
+        "package":  "Agent 64_简体中文新版在线兼容覆盖包.zip",
+        "bytes":  68286,
+        "sha256":  "06E8247415CF05DCE96A713B287AA37339EC3206643C1BF4B888B498C14E0C04",
+        "engine":  "Unity（Steam BuildID 24687138）",
         "publication_status":  "published",
-        "zip_entries":  6,
+        "zip_entries":  3,
         "top_level":  [
-                          "Agent 64 Spies Never Die_Data",
                           "SHA256.txt",
                           "TranslationFile.tsv",
                           "安装说明.txt"
                       ],
-        "last_modified":  "2026-08-11T19:44:05+01:00",
-        "release_tag":  "agent-64-spies-never-die-cn-20260811",
-        "release_url":  "https://github.com/Linbin-Lai/5050-hanhua/releases/tag/agent-64-spies-never-die-cn-20260811",
-        "published_asset_size":  12887652
+        "last_modified":  "2026-08-12T18:42:12+01:00",
+        "release_tag":  "agent-64-spies-never-die-cn-20260812",
+        "release_url":  "https://github.com/Linbin-Lai/5050-hanhua/releases/tag/agent-64-spies-never-die-cn-20260812",
+        "published_asset_size":  68286
     },
     {
         "game":  "Backrooms The Multiverse",
@@ -38,6 +37,24 @@
         "published_asset_size":  118055269
     },
     {
+        "game":  "Bite Night",
+        "slug":  "Bite-Night",
+        "package":  "Bite Night_简体中文覆盖包.zip",
+        "bytes":  64013790,
+        "sha256":  "C1FD629A3E61A8A63D4E23DB530578BF55754D286CE3E8DDF1B439816CF59941",
+        "engine":  "Unity 2022.3.20f1 Mono",
+        "publication_status":  "published",
+        "zip_entries":  5,
+        "top_level":  [
+                          "Bite Nite_Data",
+                          "安装说明.txt"
+                      ],
+        "last_modified":  "2026-07-24T19:47:40+01:00",
+        "release_tag":  "bite-night-cn-20260724",
+        "release_url":  "https://github.com/Linbin-Lai/5050-hanhua/releases/tag/bite-night-cn-20260724",
+        "published_asset_size":  64013790
+    },
+    {
         "game":  "Bite Night: Dine or Die",
         "slug":  "Bite-Night-Dine-or-Die",
         "package":  "Bite Night Dine or Die_简体中文覆盖包.zip",
@@ -55,24 +72,6 @@
         "release_tag":  "bite-night-dine-or-die-cn-20260725",
         "release_url":  "https://github.com/Linbin-Lai/5050-hanhua/releases/tag/bite-night-dine-or-die-cn-20260725",
         "published_asset_size":  76700746
-    },
-    {
-        "game":  "Bite Night",
-        "slug":  "Bite-Night",
-        "package":  "Bite Night_简体中文覆盖包.zip",
-        "bytes":  64013790,
-        "sha256":  "C1FD629A3E61A8A63D4E23DB530578BF55754D286CE3E8DDF1B439816CF59941",
-        "engine":  "Unity 2022.3.20f1 Mono",
-        "publication_status":  "published",
-        "zip_entries":  5,
-        "top_level":  [
-                          "Bite Nite_Data",
-                          "安装说明.txt"
-                      ],
-        "last_modified":  "2026-07-24T19:47:40+01:00",
-        "release_tag":  "bite-night-cn-20260724",
-        "release_url":  "https://github.com/Linbin-Lai/5050-hanhua/releases/tag/bite-night-cn-20260724",
-        "published_asset_size":  64013790
     },
     {
         "game":  "Burger Bots Inc",
@@ -193,24 +192,6 @@
         "published_asset_size":  99682331
     },
     {
-        "game":  "デテイケ -GetOut-",
-        "slug":  "GetOut",
-        "package":  "GetOut_简体中文覆盖包.zip",
-        "bytes":  43102128,
-        "sha256":  "7BB1A1C53AEEDCFEF7762948303CD47656C387E073232A1854388333DF4D1C18",
-        "engine":  "Unreal Engine 5.3",
-        "publication_status":  "published",
-        "zip_entries":  5,
-        "top_level":  [
-                          "GetOut",
-                          "安装说明.txt"
-                      ],
-        "last_modified":  "2026-07-15T15:01:33+01:00",
-        "release_tag":  "getout-cn-20260715",
-        "release_url":  "https://github.com/Linbin-Lai/5050-hanhua/releases/tag/getout-cn-20260715",
-        "published_asset_size":  43102128
-    },
-    {
         "game":  "Hell of a Birthday",
         "slug":  "Hell-of-a-Birthday",
         "package":  "Hell of a Birthday_简体中文覆盖包.zip",
@@ -268,6 +249,23 @@
         "release_tag":  "mine-of-my-mind-cn-20260710",
         "release_url":  "https://github.com/Linbin-Lai/5050-hanhua/releases/tag/mine-of-my-mind-cn-20260710",
         "published_asset_size":  36817783
+    },
+    {
+        "game":  "OKUGAFUCHI",
+        "slug":  "OKUGAFUCHI",
+        "package":  "OKUGAFUCHI_简体中文覆盖包.zip",
+        "bytes":  209854,
+        "sha256":  "3751DFE55642E2D1B64073EE25487F695744E23BE4F77F0CEEB1ACB98A31D414",
+        "engine":  "Unreal Engine IoStore（含 120 FPS 修改）",
+        "publication_status":  "published",
+        "zip_entries":  5,
+        "top_level":  [
+                          "OKUGAFUCHI_简体中文覆盖包"
+                      ],
+        "last_modified":  "2026-08-12T18:29:03+01:00",
+        "release_tag":  "okugafuchi-cn-20260812",
+        "release_url":  "https://github.com/Linbin-Lai/5050-hanhua/releases/tag/okugafuchi-cn-20260812",
+        "published_asset_size":  209854
     },
     {
         "game":  "Only Good Babysitters Go To Heaven",
@@ -344,5 +342,23 @@
         "release_tag":  "unbeatable-cn-20260718",
         "release_url":  "https://github.com/Linbin-Lai/5050-hanhua/releases/tag/unbeatable-cn-20260718",
         "published_asset_size":  1214794
+    },
+    {
+        "game":  "デテイケ -GetOut-",
+        "slug":  "GetOut",
+        "package":  "GetOut_简体中文覆盖包.zip",
+        "bytes":  43102128,
+        "sha256":  "7BB1A1C53AEEDCFEF7762948303CD47656C387E073232A1854388333DF4D1C18",
+        "engine":  "Unreal Engine 5.3",
+        "publication_status":  "published",
+        "zip_entries":  5,
+        "top_level":  [
+                          "GetOut",
+                          "安装说明.txt"
+                      ],
+        "last_modified":  "2026-07-15T15:01:33+01:00",
+        "release_tag":  "getout-cn-20260715",
+        "release_url":  "https://github.com/Linbin-Lai/5050-hanhua/releases/tag/getout-cn-20260715",
+        "published_asset_size":  43102128
     }
 ]

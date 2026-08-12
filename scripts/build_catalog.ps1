@@ -7,7 +7,7 @@ $ErrorActionPreference = 'Stop'
 Add-Type -AssemblyName System.IO.Compression.FileSystem
 
 $projects = [ordered]@{
-    'Agent 64_简体中文覆盖包.zip'                            = @('Agent-64-Spies-Never-Die', 'Agent 64: Spies Never Die', 'Unity（v1004）', 'published')
+    'Agent 64_简体中文新版在线兼容覆盖包.zip'                            = @('Agent-64-Spies-Never-Die', 'Agent 64: Spies Never Die', 'Unity（Steam BuildID 24687138）', 'published')
     'Backrooms The Multiverse_简体中文覆盖包.zip'          = @('Backrooms-The-Multiverse', 'Backrooms The Multiverse', 'Unreal Engine 5.7', 'published')
     'Bite Night Dine or Die_简体中文覆盖包.zip'            = @('Bite-Night-Dine-or-Die', 'Bite Night: Dine or Die', 'Unity 2022.3.20f1 Mono', 'published')
     'Bite Night_简体中文覆盖包.zip'                         = @('Bite-Night', 'Bite Night', 'Unity 2022.3.20f1 Mono', 'published')
@@ -21,6 +21,7 @@ $projects = [ordered]@{
     'Hell of a Birthday_简体中文覆盖包.zip'                 = @('Hell-of-a-Birthday', 'Hell of a Birthday', 'Unity 2022.3.20f1 Mono', 'published')
     'Jeffrey Eggstein_简体中文覆盖包.zip'                   = @('Jeffrey-Eggstein', 'Jeffrey Eggstein', 'Unity 6000.5.0f1 Mono', 'published')
     'Mine of My Mind_简体中文覆盖包.zip'                    = @('Mine-of-My-Mind', 'Mine of My Mind', 'Unity 6000.0.59f2 IL2CPP', 'published')
+    'OKUGAFUCHI_简体中文覆盖包.zip'                       = @('OKUGAFUCHI', 'OKUGAFUCHI', 'Unreal Engine IoStore（含 120 FPS 修改）', 'published')
     'Only Good Babysitters Go To Heaven_简体中文覆盖包.zip' = @('Only-Good-Babysitters-Go-To-Heaven', 'Only Good Babysitters Go To Heaven', 'Unity 2022.3.20f1 Mono', 'published')
     'Pih 2_简体中文覆盖包.zip'                               = @('Pih-2', 'Pih 2', 'Unreal Engine 5.3', 'published')
     'StrikersClub_简体中文覆盖包.zip'                       = @('StrikersClub', 'Strikers Club', 'Unreal Engine 5.6', 'published')
