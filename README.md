@@ -67,6 +67,7 @@
 | Midnight Hoops | 月见鸟 & qsefthuopq | 已发布 | 资源替换（按包内说明） | [查看](games/Midnight-Hoops/) |
 | Mine of My Mind | Cokepoetry | 已发布 | BepInEx IL2CPP | [查看](games/Mine-of-My-Mind/) |
 | Mortanis Prisoners | 月见鸟 | 已发布（不完全汉化） | Unreal PAK 覆盖 | [查看](games/Mortanis-Prisoners/) |
+| 鳴蟇村（NARIBIKIMURA） | Cokepoetry | 已发布 | Unreal IoStore 覆盖容器（含 120 FPS 修改） | [查看](games/NARIBIKIMURA/) |
 | OKUGAFUCHI | Cokepoetry | 已发布 | Unreal IoStore 覆盖容器（含 120 FPS 修改） | [查看](games/OKUGAFUCHI/) |
 | Only Good Babysitters Go To Heaven | Cokepoetry | 已发布 | Unity 静态资源与字幕组件 | [查看](games/Only-Good-Babysitters-Go-To-Heaven/) |
 | Paranormal Cleanup | 月见鸟 | 已发布 | 资源替换（按包内说明） | [查看](games/Paranormal-Cleanup/) |

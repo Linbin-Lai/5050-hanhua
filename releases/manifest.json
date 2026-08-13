@@ -360,5 +360,22 @@
         "release_tag":  "getout-cn-20260715",
         "release_url":  "https://github.com/Linbin-Lai/5050-hanhua/releases/tag/getout-cn-20260715",
         "published_asset_size":  43102128
+    },
+    {
+        "game":  "鳴蟇村（NARIBIKIMURA）",
+        "slug":  "NARIBIKIMURA",
+        "package":  "NARIBIKIMURA_简体中文覆盖包.zip",
+        "bytes":  1201934,
+        "sha256":  "5F281B84C13FE4774E5B3D0DFF7AF4AE9EA6CC7CD94DA5D972FD3177859523FD",
+        "engine":  "Unreal Engine IoStore（含 120 FPS 修改）",
+        "publication_status":  "published",
+        "zip_entries":  4,
+        "top_level":  [
+                          "NARIBIKIMURA_简体中文覆盖包"
+                      ],
+        "last_modified":  "2026-08-13T20:46:22+01:00",
+        "release_tag":  "naribikimura-cn-20260813",
+        "release_url":  "https://github.com/Linbin-Lai/5050-hanhua/releases/tag/naribikimura-cn-20260813",
+        "published_asset_size":  1201934
     }
 ]
