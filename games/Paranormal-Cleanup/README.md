@@ -1,5 +1,13 @@
 # Paranormal Cleanup
 
+<!-- game-cover:start -->
+<p align="center">
+  <a href="https://store.steampowered.com/app/2197890/">
+    <img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2197890/57fc44b70aec2940c644c5399c8f36c8fca77391/header.jpg?t=1761934348" alt="Paranormal Cleanup 游戏封面" width="460">
+  </a>
+</p>
+<!-- game-cover:end -->
+
 - **状态：** 已发布
 - **汉化作者：** 月见鸟
 - **补丁形式：** 资源替换（按包内说明）

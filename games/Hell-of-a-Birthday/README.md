@@ -1,5 +1,13 @@
 # Hell of a Birthday 简体中文汉化
 
+<!-- game-cover:start -->
+<p align="center">
+  <a href="https://store.steampowered.com/app/3416450/">
+    <img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3416450/header.jpg?t=1740167873" alt="Hell of a Birthday 简体中文汉化 游戏封面" width="460">
+  </a>
+</p>
+<!-- game-cover:end -->
+
 **汉化署名：5050 汉化组：Cokepoetry 汉化**
 
 ## 发布信息

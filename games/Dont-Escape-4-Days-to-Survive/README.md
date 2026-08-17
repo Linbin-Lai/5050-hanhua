@@ -1,5 +1,13 @@
 # Don't Escape: 4 Days to Survive
 
+<!-- game-cover:start -->
+<p align="center">
+  <a href="https://store.steampowered.com/app/611760/">
+    <img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/611760/header.jpg?t=1726580887" alt="Don&#39;t Escape: 4 Days to Survive 游戏封面" width="460">
+  </a>
+</p>
+<!-- game-cover:end -->
+
 - **状态：** 已发布（外部来源）
 - **汉化作者：** 月见鸟 & qsefthuopq
 - **补丁形式：** Steam 社区汉化安装包

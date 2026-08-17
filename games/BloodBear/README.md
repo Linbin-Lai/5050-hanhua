@@ -1,5 +1,13 @@
 # BloodBear
 
+<!-- game-cover:start -->
+<p align="center">
+  <a href="https://store.steampowered.com/app/3800230/">
+    <img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3800230/32355961c4896dd17af044a34a01352ecbed9777/header.jpg?t=1774399443" alt="BloodBear 游戏封面" width="460">
+  </a>
+</p>
+<!-- game-cover:end -->
+
 - **状态：** 已发布
 - **汉化作者：** 月见鸟
 - **补丁形式：** Unreal IoStore 覆盖容器

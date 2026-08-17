@@ -1,5 +1,13 @@
 # CULTIC
 
+<!-- game-cover:start -->
+<p align="center">
+  <a href="https://store.steampowered.com/app/1684930/">
+    <img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1684930/84bebc2b3ecb36d4ec0ad3aea5126bc0666a9029/header.jpg?t=1786717270" alt="CULTIC 游戏封面" width="460">
+  </a>
+</p>
+<!-- game-cover:end -->
+
 - **状态：** 已发布（历史 v1.2；合集含 v1.4）
 - **汉化作者：** 月见鸟
 - **补丁形式：** Unity BepInEx 汉化

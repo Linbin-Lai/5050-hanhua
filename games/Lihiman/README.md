@@ -1,5 +1,13 @@
 # Lihiman
 
+<!-- game-cover:start -->
+<p align="center">
+  <a href="https://store.steampowered.com/app/4504460/">
+    <img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4504460/37b8d0e4b9fb7ede1b0bcfa056255a8cc7f620dd/header.jpg?t=1776592369" alt="Lihiman 游戏封面" width="460">
+  </a>
+</p>
+<!-- game-cover:end -->
+
 - **状态：** 已发布
 - **汉化作者：** 月见鸟 & qsefthuopq
 - **补丁形式：** 资源替换（按包内说明）

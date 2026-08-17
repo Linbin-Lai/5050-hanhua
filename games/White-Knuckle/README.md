@@ -1,5 +1,13 @@
 # White Knuckle
 
+<!-- game-cover:start -->
+<p align="center">
+  <a href="https://store.steampowered.com/app/3195790/">
+    <img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3195790/header.jpg?t=1785073917" alt="White Knuckle 游戏封面" width="460">
+  </a>
+</p>
+<!-- game-cover:end -->
+
 - **状态：** 已发布
 - **汉化作者：** 月见鸟 & qsefthuopq
 - **补丁形式：** Unity BepInEx 汉化

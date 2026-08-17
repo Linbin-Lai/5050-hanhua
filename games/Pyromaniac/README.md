@@ -1,5 +1,13 @@
 # Pyromaniac
 
+<!-- game-cover:start -->
+<p align="center">
+  <a href="https://store.steampowered.com/app/4303040/">
+    <img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4303040/eef0ee0c7d1dadda20c81ba5a034dda128edfc0b/header.jpg?t=1786729988" alt="Pyromaniac 游戏封面" width="460">
+  </a>
+</p>
+<!-- game-cover:end -->
+
 - **状态：** 已发布
 - **汉化作者：** 月见鸟 & qsefthuopq
 - **补丁形式：** Unity BepInEx 汉化

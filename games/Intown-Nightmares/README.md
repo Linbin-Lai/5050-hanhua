@@ -1,5 +1,13 @@
 # Intown Nightmares
 
+<!-- game-cover:start -->
+<p align="center">
+  <a href="https://store.steampowered.com/app/2779400/">
+    <img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2779400/7ac2e0a4172c60643319a2fcc3700a58b5782cb9/header.jpg?t=1777568413" alt="Intown Nightmares 游戏封面" width="460">
+  </a>
+</p>
+<!-- game-cover:end -->
+
 - **状态：** 已发布
 - **汉化作者：** 月见鸟 & qsefthuopq
 - **补丁形式：** 资源替换（按包内说明）

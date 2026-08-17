@@ -1,5 +1,13 @@
 # Fallen Leaf 简体中文汉化
 
+<!-- game-cover:start -->
+<p align="center">
+  <a href="https://store.steampowered.com/app/1459010/">
+    <img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1459010/header.jpg?t=1732677410" alt="Fallen Leaf 简体中文汉化 游戏封面" width="460">
+  </a>
+</p>
+<!-- game-cover:end -->
+
 **汉化作者：Cokepoetry & qsefthuopq**
 
 ## 发布信息

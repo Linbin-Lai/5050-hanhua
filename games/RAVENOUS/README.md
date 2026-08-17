@@ -1,5 +1,13 @@
 # RAVENOUS
 
+<!-- game-cover:start -->
+<p align="center">
+  <a href="https://store.steampowered.com/app/3873400/">
+    <img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3873400/941754aa67acc80b947201af58bf5f63061d9aa8/header.jpg?t=1755025342" alt="RAVENOUS 游戏封面" width="460">
+  </a>
+</p>
+<!-- game-cover:end -->
+
 - **状态：** 已发布
 - **汉化作者：** 月见鸟
 - **补丁形式：** Unreal IoStore 覆盖容器

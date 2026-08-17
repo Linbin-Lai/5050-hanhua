@@ -1,5 +1,13 @@
 # Mine of My Mind 简体中文汉化
 
+<!-- game-cover:start -->
+<p align="center">
+  <a href="https://store.steampowered.com/app/4260190/">
+    <img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4260190/6d5daeea96667c1568f6fee734adcd62288cb227/header.jpg?t=1783539529" alt="Mine of My Mind 简体中文汉化 游戏封面" width="460">
+  </a>
+</p>
+<!-- game-cover:end -->
+
 **汉化署名：5050 汉化组：Cokepoetry 汉化**
 
 ## 发布信息

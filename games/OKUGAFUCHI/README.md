@@ -1,5 +1,13 @@
 # OKUGAFUCHI 简体中文汉化
 
+<!-- game-cover:start -->
+<p align="center">
+  <a href="https://store.steampowered.com/app/3232860/">
+    <img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3232860/0e24bc880f8dd40244ac05bc1ea41732caa16538/header.jpg?t=1786100115" alt="OKUGAFUCHI 简体中文汉化 游戏封面" width="460">
+  </a>
+</p>
+<!-- game-cover:end -->
+
 **汉化署名：5050 汉化组：Cokepoetry 汉化**
 
 ## 发布信息

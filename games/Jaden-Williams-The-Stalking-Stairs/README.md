@@ -1,5 +1,13 @@
 # Jaden Williams' The Stalking Stairs
 
+<!-- game-cover:start -->
+<p align="center">
+  <a href="https://store.steampowered.com/app/4167960/">
+    <img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4167960/9f508cfb1c8f3d8508f799ac33f23f7f0862cd6b/header.jpg?t=1770418943" alt="Jaden Williams&#39; The Stalking Stairs 游戏封面" width="460">
+  </a>
+</p>
+<!-- game-cover:end -->
+
 - **状态：** 已发布
 - **汉化作者：** 月见鸟 & qsefthuopq
 - **补丁形式：** 资源替换（按包内说明）

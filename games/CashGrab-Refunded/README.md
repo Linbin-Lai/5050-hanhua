@@ -1,5 +1,13 @@
 # CashGrab Refunded 简体中文汉化
 
+<!-- game-cover:start -->
+<p align="center">
+  <a href="https://store.steampowered.com/app/3602720/">
+    <img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3602720/a8f24409032db54e302f6d24ab88d22335f4bfed/header.jpg?t=1762294159" alt="CashGrab Refunded 简体中文汉化 游戏封面" width="460">
+  </a>
+</p>
+<!-- game-cover:end -->
+
 **汉化署名：5050 汉化组：Cokepoetry 汉化**
 
 ## 发布信息

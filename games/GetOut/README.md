@@ -1,5 +1,13 @@
 # デテイケ -GetOut- 简体中文汉化
 
+<!-- game-cover:start -->
+<p align="center">
+  <a href="https://store.steampowered.com/app/4052460/">
+    <img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4052460/9629b5230b872ee4c787ea4e193c9195c8c24602/header.jpg?t=1763113135" alt="デテイケ -GetOut- 简体中文汉化 游戏封面" width="460">
+  </a>
+</p>
+<!-- game-cover:end -->
+
 **汉化署名：5050 汉化组：Cokepoetry 汉化**
 
 ## 发布信息

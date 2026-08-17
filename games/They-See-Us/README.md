@@ -1,5 +1,13 @@
 # They See Us
 
+<!-- game-cover:start -->
+<p align="center">
+  <a href="https://store.steampowered.com/app/3551100/">
+    <img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3551100/efd694e4fca0c717da39cfe74602a89a703ec232/header.jpg?t=1757246534" alt="They See Us 游戏封面" width="460">
+  </a>
+</p>
+<!-- game-cover:end -->
+
 - **状态：** 已发布（繁体中文）
 - **汉化作者：** 月见鸟
 - **补丁形式：** Unreal PAK + 教程视频

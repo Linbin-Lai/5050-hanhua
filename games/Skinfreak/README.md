@@ -1,5 +1,13 @@
 # Skinfreak
 
+<!-- game-cover:start -->
+<p align="center">
+  <a href="https://store.steampowered.com/app/4007340/">
+    <img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4007340/6ffb188109aa536ec17df7fd684a8762077370bc/header.jpg?t=1760619751" alt="Skinfreak 游戏封面" width="460">
+  </a>
+</p>
+<!-- game-cover:end -->
+
 - **状态：** 已发布
 - **汉化作者：** 月见鸟 & qsefthuopq
 - **补丁形式：** Unity BepInEx 汉化

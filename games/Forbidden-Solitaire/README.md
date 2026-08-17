@@ -1,5 +1,13 @@
 # Forbidden Solitaire
 
+<!-- game-cover:start -->
+<p align="center">
+  <a href="https://store.steampowered.com/app/3414580/">
+    <img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3414580/8a947ca0e28a0256c9ab2a1395d0a1218fafae6d/header.jpg?t=1785226319" alt="Forbidden Solitaire 游戏封面" width="460">
+  </a>
+</p>
+<!-- game-cover:end -->
+
 - **状态：** 已发布
 - **汉化作者：** 月见鸟 & qsefthuopq
 - **补丁形式：** 文本、字体与脚本资源

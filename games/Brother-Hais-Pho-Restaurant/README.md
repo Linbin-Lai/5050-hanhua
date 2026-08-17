@@ -1,5 +1,13 @@
 # Brother Hai's Pho Restaurant
 
+<!-- game-cover:start -->
+<p align="center">
+  <a href="https://store.steampowered.com/app/4247820/">
+    <img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4247820/7faa1af8d3be2990e0314814304a0c32fb0bd654/header.jpg?t=1767721559" alt="Brother Hai&#39;s Pho Restaurant 游戏封面" width="460">
+  </a>
+</p>
+<!-- game-cover:end -->
+
 - **状态：** 已发布
 - **汉化作者：** 月见鸟 & qsefthuopq
 - **补丁形式：** Godot 资源替换

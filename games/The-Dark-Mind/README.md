@@ -1,5 +1,13 @@
 # The Dark Mind
 
+<!-- game-cover:start -->
+<p align="center">
+  <a href="https://store.steampowered.com/app/2816410/">
+    <img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2816410/9d7d252e4d20cb61f2a03f2ef5ecbf3ea09ca81f/header.jpg?t=1774996192" alt="The Dark Mind 游戏封面" width="460">
+  </a>
+</p>
+<!-- game-cover:end -->
+
 - **状态：** 已发布
 - **汉化作者：** 月见鸟 & qsefthuopq
 - **补丁形式：** Unreal PAK 覆盖

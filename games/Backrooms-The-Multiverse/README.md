@@ -1,5 +1,13 @@
 # Backrooms The Multiverse 简体中文汉化
 
+<!-- game-cover:start -->
+<p align="center">
+  <a href="https://store.steampowered.com/app/4380850/">
+    <img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4380850/3c833245f8dc3e5bb2d821d5e8a764125bbe7c9c/header.jpg?t=1783881008" alt="Backrooms The Multiverse 简体中文汉化 游戏封面" width="460">
+  </a>
+</p>
+<!-- game-cover:end -->
+
 **汉化署名：5050 汉化组：Cokepoetry 汉化**
 
 ## 发布信息

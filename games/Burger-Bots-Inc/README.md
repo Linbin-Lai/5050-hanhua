@@ -1,5 +1,13 @@
 # Burger Bots Inc 简体中文汉化
 
+<!-- game-cover:start -->
+<p align="center">
+  <a href="https://store.steampowered.com/app/3795760/">
+    <img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3795760/f46f84beab9f84fc1bd27b6165192b272e76687b/header.jpg?t=1782145459" alt="Burger Bots Inc 简体中文汉化 游戏封面" width="460">
+  </a>
+</p>
+<!-- game-cover:end -->
+
 **汉化署名：5050 汉化组：Cokepoetry 汉化**
 
 ## 发布信息

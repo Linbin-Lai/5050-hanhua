@@ -1,5 +1,13 @@
 # Abandoned Stories: Inherited Silence
 
+<!-- game-cover:start -->
+<p align="center">
+  <a href="https://store.steampowered.com/app/4478760/">
+    <img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4478760/04d4853e91a8b7bdc9b5ee6758bf2fc41ce6f337/header.jpg?t=1778076565" alt="Abandoned Stories: Inherited Silence 游戏封面" width="460">
+  </a>
+</p>
+<!-- game-cover:end -->
+
 - **状态：** 已发布
 - **汉化作者：** 月见鸟 & qsefthuopq
 - **补丁形式：** Unity BepInEx 汉化

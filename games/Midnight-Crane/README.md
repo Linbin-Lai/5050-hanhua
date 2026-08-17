@@ -1,5 +1,13 @@
 # Midnight Crane
 
+<!-- game-cover:start -->
+<p align="center">
+  <a href="https://store.steampowered.com/app/3841220/">
+    <img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3841220/507ff319c9197235101260359a3b9931edc6995c/header.jpg?t=1764727454" alt="Midnight Crane 游戏封面" width="460">
+  </a>
+</p>
+<!-- game-cover:end -->
+
 - **状态：** 已发布
 - **汉化作者：** 月见鸟 & qsefthuopq
 - **补丁形式：** Unreal PAK / IoStore 覆盖

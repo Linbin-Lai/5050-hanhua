@@ -1,5 +1,13 @@
 # Movie Theater 简体中文汉化
 
+<!-- game-cover:start -->
+<p align="center">
+  <a href="https://store.steampowered.com/app/3659180/">
+    <img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3659180/f4ab4b2ea9b06e55830c36488f167aee251e6723/header.jpg?t=1747419233" alt="Movie Theater 简体中文汉化 游戏封面" width="460">
+  </a>
+</p>
+<!-- game-cover:end -->
+
 **汉化作者：Cokepoetry**
 
 ## 发布信息

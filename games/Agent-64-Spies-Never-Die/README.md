@@ -1,5 +1,13 @@
 # Agent 64: Spies Never Die 简体中文汉化
 
+<!-- game-cover:start -->
+<p align="center">
+  <a href="https://store.steampowered.com/app/1574480/">
+    <img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1574480/f281ff155778294664365fbcedc884319ed172fd/header.jpg?t=1786538539" alt="Agent 64: Spies Never Die 简体中文汉化 游戏封面" width="460">
+  </a>
+</p>
+<!-- game-cover:end -->
+
 **汉化署名：5050 汉化组：Cokepoetry 汉化**
 
 ## 发布信息

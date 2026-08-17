@@ -1,5 +1,13 @@
 # House of Necrosis
 
+<!-- game-cover:start -->
+<p align="center">
+  <a href="https://store.steampowered.com/app/2005870/">
+    <img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2005870/header.jpg?t=1762002438" alt="House of Necrosis 游戏封面" width="460">
+  </a>
+</p>
+<!-- game-cover:end -->
+
 - **状态：** 已发布（非完全汉化）
 - **汉化作者：** 月见鸟 & qsefthuopq
 - **补丁形式：** Godot PCK 替换

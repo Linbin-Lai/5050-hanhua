@@ -1,5 +1,13 @@
 # Forest Asylum 2
 
+<!-- game-cover:start -->
+<p align="center">
+  <a href="https://store.steampowered.com/app/3727830/">
+    <img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3727830/a75ec680e89b269455fc4cd808b2ae0204dcc145/header.jpg?t=1751876093" alt="Forest Asylum 2 游戏封面" width="460">
+  </a>
+</p>
+<!-- game-cover:end -->
+
 - **状态：** 已发布
 - **汉化作者：** 月见鸟
 - **补丁形式：** Unreal PAK 覆盖

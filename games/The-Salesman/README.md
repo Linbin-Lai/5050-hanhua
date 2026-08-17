@@ -1,5 +1,13 @@
 # The Salesman
 
+<!-- game-cover:start -->
+<p align="center">
+  <a href="https://store.steampowered.com/app/4059360/">
+    <img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4059360/84598357420ac59e85313fa3401412beed7b3cf1/header.jpg?t=1764964411" alt="The Salesman 游戏封面" width="460">
+  </a>
+</p>
+<!-- game-cover:end -->
+
 - **状态：** 已发布
 - **汉化作者：** 月见鸟 & qsefthuopq
 - **补丁形式：** Unity BepInEx 汉化

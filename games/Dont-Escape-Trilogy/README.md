@@ -1,5 +1,13 @@
 # Don't Escape Trilogy
 
+<!-- game-cover:start -->
+<p align="center">
+  <a href="https://store.steampowered.com/app/1070550/">
+    <img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1070550/header.jpg?t=1726580834" alt="Don&#39;t Escape Trilogy 游戏封面" width="460">
+  </a>
+</p>
+<!-- game-cover:end -->
+
 - **状态：** 已发布
 - **汉化作者：** 月见鸟
 - **补丁形式：** Flash 资源替换

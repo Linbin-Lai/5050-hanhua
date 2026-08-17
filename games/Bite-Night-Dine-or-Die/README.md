@@ -1,5 +1,13 @@
 # Bite Night: Dine or Die 简体中文汉化
 
+<!-- game-cover:start -->
+<p align="center">
+  <a href="https://store.steampowered.com/app/3834480/">
+    <img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3834480/cfbbd0da0450d0ea082605e003251bb45161df9f/header.jpg?t=1768931937" alt="Bite Night: Dine or Die 简体中文汉化 游戏封面" width="460">
+  </a>
+</p>
+<!-- game-cover:end -->
+
 **汉化署名：5050 汉化组：Cokepoetry 汉化**
 
 ## 发布信息

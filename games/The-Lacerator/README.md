@@ -1,5 +1,13 @@
 # The Lacerator
 
+<!-- game-cover:start -->
+<p align="center">
+  <a href="https://store.steampowered.com/app/2339330/">
+    <img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2339330/header.jpg?t=1772040211" alt="The Lacerator 游戏封面" width="460">
+  </a>
+</p>
+<!-- game-cover:end -->
+
 - **状态：** 已发布
 - **汉化作者：** 月见鸟 & qsefthuopq
 - **补丁形式：** Unreal PAK 覆盖

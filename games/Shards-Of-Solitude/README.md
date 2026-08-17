@@ -1,5 +1,13 @@
 # Shards Of Solitude
 
+<!-- game-cover:start -->
+<p align="center">
+  <a href="https://store.steampowered.com/app/4256690/">
+    <img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4256690/558e493eb09e769e3121d37de75936efd05c3633/header.jpg?t=1776274894" alt="Shards Of Solitude 游戏封面" width="460">
+  </a>
+</p>
+<!-- game-cover:end -->
+
 - **状态：** 已发布
 - **汉化作者：** 月见鸟 & qsefthuopq
 - **补丁形式：** Unreal IoStore 中文修复

@@ -1,5 +1,13 @@
 # Cyber Rats
 
+<!-- game-cover:start -->
+<p align="center">
+  <a href="https://store.steampowered.com/app/3565080/">
+    <img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3565080/4414fd8c417f890f4b003914e54b2c205bbb045f/header.jpg?t=1782578461" alt="Cyber Rats 游戏封面" width="460">
+  </a>
+</p>
+<!-- game-cover:end -->
+
 - **状态：** 已发布
 - **汉化作者：** 月见鸟 & qsefthuopq
 - **补丁形式：** Unreal PAK 替换

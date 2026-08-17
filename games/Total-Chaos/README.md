@@ -1,5 +1,13 @@
 # Total Chaos
 
+<!-- game-cover:start -->
+<p align="center">
+  <a href="https://store.steampowered.com/app/2208350/">
+    <img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2208350/f2086b3eef4ec934190e5faec66b0a21ae734a1a/header.jpg?t=1784890778" alt="Total Chaos 游戏封面" width="460">
+  </a>
+</p>
+<!-- game-cover:end -->
+
 - **状态：** 已发布
 - **汉化作者：** 月见鸟 & qsefthuopq
 - **补丁形式：** Unity BepInEx 汉化

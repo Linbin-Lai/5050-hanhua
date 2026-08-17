@@ -1,5 +1,13 @@
 # Mortanis Prisoners
 
+<!-- game-cover:start -->
+<p align="center">
+  <a href="https://store.steampowered.com/app/2354120/">
+    <img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2354120/e50f65725f383c1f337029206bcb45ee7ab0c3c1/header.jpg?t=1753277029" alt="Mortanis Prisoners 游戏封面" width="460">
+  </a>
+</p>
+<!-- game-cover:end -->
+
 - **状态：** 已发布（不完全汉化）
 - **汉化作者：** 月见鸟
 - **补丁形式：** Unreal PAK 覆盖

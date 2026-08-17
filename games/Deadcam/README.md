@@ -1,5 +1,13 @@
 # Deadcam
 
+<!-- game-cover:start -->
+<p align="center">
+  <a href="https://store.steampowered.com/app/3865340/">
+    <img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3865340/f46a9b39e99d6e780dc50f1aeb436c2234294f88/header.jpg?t=1762355087" alt="Deadcam 游戏封面" width="460">
+  </a>
+</p>
+<!-- game-cover:end -->
+
 - **状态：** 已发布（机翻）
 - **汉化作者：** 月见鸟 & qsefthuopq
 - **补丁形式：** Unreal PAK 覆盖

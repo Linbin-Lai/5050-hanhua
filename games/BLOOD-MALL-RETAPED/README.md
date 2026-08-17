@@ -1,5 +1,13 @@
 # BLOOD MALL RETAPED
 
+<!-- game-cover:start -->
+<p align="center">
+  <a href="https://store.steampowered.com/app/4391590/">
+    <img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4391590/c44fa17f4b6b984d7992f630380d1670867e276a/header.jpg?t=1777457531" alt="BLOOD MALL RETAPED 游戏封面" width="460">
+  </a>
+</p>
+<!-- game-cover:end -->
+
 - **状态：** 已发布
 - **汉化作者：** 月见鸟 & qsefthuopq
 - **补丁形式：** Unity MelonLoader 汉化

@@ -1,5 +1,13 @@
 # GULLET
 
+<!-- game-cover:start -->
+<p align="center">
+  <a href="https://store.steampowered.com/app/3100790/">
+    <img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3100790/header.jpg?t=1739902770" alt="GULLET 游戏封面" width="460">
+  </a>
+</p>
+<!-- game-cover:end -->
+
 - **状态：** 已发布
 - **汉化作者：** 月见鸟（GitHub: kurikomoe）
 - **补丁形式：** Godot PCK 替换

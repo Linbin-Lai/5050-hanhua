@@ -1,5 +1,13 @@
 # Rip Current
 
+<!-- game-cover:start -->
+<p align="center">
+  <a href="https://store.steampowered.com/app/1557220/">
+    <img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1557220/e49b5c0ff721870aeb49f20848d992c951a9ff78/header.jpg?t=1758642947" alt="Rip Current 游戏封面" width="460">
+  </a>
+</p>
+<!-- game-cover:end -->
+
 - **状态：** 已发布
 - **汉化作者：** 月见鸟
 - **补丁形式：** Unity BepInEx 汉化

@@ -1,5 +1,13 @@
 # Invincible VS
 
+<!-- game-cover:start -->
+<p align="center">
+  <a href="https://store.steampowered.com/app/2353060/">
+    <img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2353060/8cd8eff0576c0503650c611cd0ef76faf905d13d/header.jpg?t=1783980749" alt="Invincible VS 游戏封面" width="460">
+  </a>
+</p>
+<!-- game-cover:end -->
+
 - **状态：** 已发布
 - **汉化作者：** 月见鸟 & qsefthuopq
 - **补丁形式：** 资源替换（按包内说明）

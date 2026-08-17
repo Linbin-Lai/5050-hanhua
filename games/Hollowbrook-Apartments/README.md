@@ -1,5 +1,13 @@
 # Hollowbrook - Apartments
 
+<!-- game-cover:start -->
+<p align="center">
+  <a href="https://store.steampowered.com/app/3983920/">
+    <img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3983920/3ca0d89fea91758a51cf3fdfb831473c5ffd05d6/header.jpg?t=1761520317" alt="Hollowbrook - Apartments 游戏封面" width="460">
+  </a>
+</p>
+<!-- game-cover:end -->
+
 - **状态：** 已发布
 - **汉化作者：** 月见鸟 & qsefthuopq
 - **补丁形式：** Unreal PAK 替换

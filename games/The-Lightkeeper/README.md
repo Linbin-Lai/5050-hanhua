@@ -1,5 +1,13 @@
 # The Lightkeeper
 
+<!-- game-cover:start -->
+<p align="center">
+  <a href="https://store.steampowered.com/app/3612850/">
+    <img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3612850/7a1732587635cfa08d3b18ccd70dc665588a2cc1/header.jpg?t=1766401281" alt="The Lightkeeper 游戏封面" width="460">
+  </a>
+</p>
+<!-- game-cover:end -->
+
 - **状态：** 已发布
 - **汉化作者：** 月见鸟
 - **补丁形式：** Unreal PAK 覆盖

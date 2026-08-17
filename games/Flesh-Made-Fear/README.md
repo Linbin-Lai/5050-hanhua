@@ -1,5 +1,13 @@
 # Flesh Made Fear
 
+<!-- game-cover:start -->
+<p align="center">
+  <a href="https://store.steampowered.com/app/3316350/">
+    <img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3316350/header.jpg?t=1786367743" alt="Flesh Made Fear 游戏封面" width="460">
+  </a>
+</p>
+<!-- game-cover:end -->
+
 - **状态：** 已发布
 - **汉化作者：** 月见鸟 & qsefthuopq
 - **补丁形式：** Unreal IoStore 覆盖容器

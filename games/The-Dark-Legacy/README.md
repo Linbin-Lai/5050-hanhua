@@ -1,5 +1,13 @@
 # The Dark Legacy
 
+<!-- game-cover:start -->
+<p align="center">
+  <a href="https://store.steampowered.com/app/3679470/">
+    <img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3679470/5311d03718bfda3595fadea732f6ab24644480e1/header.jpg?t=1762901414" alt="The Dark Legacy 游戏封面" width="460">
+  </a>
+</p>
+<!-- game-cover:end -->
+
 - **状态：** 已发布（字体修复）
 - **汉化作者：** 月见鸟 & qsefthuopq
 - **补丁形式：** Unity 字体修复插件

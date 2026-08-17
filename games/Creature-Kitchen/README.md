@@ -1,5 +1,13 @@
 # Creature Kitchen
 
+<!-- game-cover:start -->
+<p align="center">
+  <a href="https://store.steampowered.com/app/3097300/">
+    <img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3097300/6017a90ffb283f5ce167026d307420dc09b363ea/header.jpg?t=1785825296" alt="Creature Kitchen 游戏封面" width="460">
+  </a>
+</p>
+<!-- game-cover:end -->
+
 - **状态：** 已发布
 - **汉化作者：** 月见鸟 & qsefthuopq
 - **补丁形式：** 资源替换（按包内说明）

@@ -1,5 +1,13 @@
 # Strikers Club 简体中文汉化
 
+<!-- game-cover:start -->
+<p align="center">
+  <a href="https://store.steampowered.com/app/1952920/">
+    <img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1952920/134cf5a567b4ee04a70712a786b5a5a4bf536647/header.jpg?t=1786706539" alt="Strikers Club 简体中文汉化 游戏封面" width="460">
+  </a>
+</p>
+<!-- game-cover:end -->
+
 **汉化署名：5050 汉化组：Cokepoetry 汉化**
 
 ## 发布信息

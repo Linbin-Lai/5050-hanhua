@@ -1,5 +1,13 @@
 # Blood West
 
+<!-- game-cover:start -->
+<p align="center">
+  <a href="https://store.steampowered.com/app/1587130/">
+    <img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1587130/header.jpg?t=1780550382" alt="Blood West 游戏封面" width="460">
+  </a>
+</p>
+<!-- game-cover:end -->
+
 - **状态：** 已发布
 - **汉化作者：** 月见鸟
 - **补丁形式：** Unity BepInEx 汉化

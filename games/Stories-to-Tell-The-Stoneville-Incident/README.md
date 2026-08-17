@@ -1,5 +1,13 @@
 # [Stories to Tell] The Stoneville Incident 简体中文汉化
 
+<!-- game-cover:start -->
+<p align="center">
+  <a href="https://store.steampowered.com/app/4835250/">
+    <img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4835250/e5cf0b0a8ef24ccdab5946fd628169db435f9a66/header.jpg?t=1784048465" alt="[Stories to Tell] The Stoneville Incident 简体中文汉化 游戏封面" width="460">
+  </a>
+</p>
+<!-- game-cover:end -->
+
 **汉化作者：Cokepoetry**
 
 ## 发布信息

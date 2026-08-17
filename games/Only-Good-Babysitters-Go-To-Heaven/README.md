@@ -1,5 +1,13 @@
 # Only Good Babysitters Go To Heaven 简体中文汉化
 
+<!-- game-cover:start -->
+<p align="center">
+  <a href="https://store.steampowered.com/app/4344730/">
+    <img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4344730/ae8bff3891a6ca1f437b4456adb22a4eb2f9da29/header.jpg?t=1784653229" alt="Only Good Babysitters Go To Heaven 简体中文汉化 游戏封面" width="460">
+  </a>
+</p>
+<!-- game-cover:end -->
+
 **汉化署名：5050 汉化组：Cokepoetry 汉化**
 
 ## 发布信息

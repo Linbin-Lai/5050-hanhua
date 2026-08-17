@@ -1,5 +1,13 @@
 # LANESPLIT
 
+<!-- game-cover:start -->
+<p align="center">
+  <a href="https://store.steampowered.com/app/3278310/">
+    <img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3278310/80c8b34b2b34d6ac34cd3f39c93708734412e909/header.jpg?t=1782741920" alt="LANESPLIT 游戏封面" width="460">
+  </a>
+</p>
+<!-- game-cover:end -->
+
 - **状态：** 已发布
 - **汉化作者：** 月见鸟 & qsefthuopq
 - **补丁形式：** Unreal IoStore 覆盖容器
