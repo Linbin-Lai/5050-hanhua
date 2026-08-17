@@ -12,7 +12,7 @@
 
 本项目由 bilibili UP 主 **EdmundDZhang** 的粉丝自发建立和维护，所有汉化均无偿免费发布，以兴趣与热爱为动力，为爱发电。本项目与游戏开发商、发行商及平台均无官方隶属或授权关系。
 
-## 下载
+## 下载 [![GitHub Release 总下载量](https://img.shields.io/github/downloads/Linbin-Lai/5050-hanhua/total?style=flat-square&label=总下载量&color=2ea44f)](https://github.com/Linbin-Lai/5050-hanhua/releases)
 
 可直接安装的汉化补丁统一通过仓库的 [**Releases** 页面](https://github.com/Linbin-Lai/5050-hanhua/releases)发布。
 
