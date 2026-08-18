@@ -16,7 +16,7 @@
 - 游戏版本：2026-08-18 制作时的 Windows 64 位 Steam 版本（BuildID 未记录）
 - 游戏引擎：Unity 2021.3.25f1，Windows x86-64，Mono
 - 补丁技术：静态 Unity 资源、Localization 表与 `Assembly-CSharp.dll` 精确字符串替换
-- Release 文件：`Unusual Tales After Bark_简体中文覆盖包.zip`
+- Release 文件：`Unusual.Tales.After.Bark.Simplified.Chinese.Patch.zip`
 - 文件大小：31,183,075 字节
 - SHA-256：`96DFB4F1CA797B3D1439FE9413B06ADB1578017821D73ED7D0063D46E506C0D5`
 - 压缩包文件数量：12
