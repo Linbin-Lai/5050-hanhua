@@ -20,7 +20,7 @@
 - 文件大小：31,183,075 字节
 - SHA-256：`96DFB4F1CA797B3D1439FE9413B06ADB1578017821D73ED7D0063D46E506C0D5`
 - 压缩包文件数量：12
-- 发布状态：待发布
+- 发布状态：已发布
 - 下载地址：[GitHub Release](https://github.com/Linbin-Lai/5050-hanhua/releases/tag/unusual-tales-after-bark-cn-20260818)
 
 > 附件不能独立运行，必须配合用户从 Steam 合法取得的完整原版游戏使用。
