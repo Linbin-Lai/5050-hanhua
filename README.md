@@ -91,6 +91,7 @@
 | They See Us | 月见鸟 | 已发布（繁体中文） | Unreal PAK + 教程视频 | [查看](games/They-See-Us/) |
 | Total Chaos | 月见鸟 & qsefthuopq | 已发布 | Unity BepInEx 汉化 | [查看](games/Total-Chaos/) |
 | UNBEATABLE | Cokepoetry | 已有官方简体中文 | 历史民间汉化（建议优先使用官方中文） | [查看](games/UNBEATABLE/) |
+| Unusual Tales: After Bark | Cokepoetry | 待发布 | Unity 静态资源与本地化表替换 | [查看](games/Unusual-Tales-After-Bark/) |
 | White Knuckle | 月见鸟 & qsefthuopq | 已发布 | Unity BepInEx 汉化 | [查看](games/White-Knuckle/) |
 | デテイケ -GetOut- | Cokepoetry | 已发布 | Unreal IoStore 覆盖容器 | [查看](games/GetOut/) |
 
