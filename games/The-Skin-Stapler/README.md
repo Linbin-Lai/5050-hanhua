@@ -15,7 +15,7 @@
 - 游戏版本：制作时的 Steam Windows 正式版（BuildID 未提供）
 - 游戏引擎：Unreal Engine（精确版本未提供）
 - 补丁技术：Unreal PAK / IoStore 高优先级覆盖容器
-- Release 文件：`TheSkinStapler缝皮杀手汉化补丁.zip`
+- Release 文件：`The-Skin-Stapler-Simplified-Chinese-Patch.zip`
 - 文件大小：5,460,111 字节
 - SHA-256：`DA9A09FF6AF1D393A6FB938F5A8904E8CAD3F6AC24877B71160842CD095A10BE`
 - 压缩包文件数量：3
