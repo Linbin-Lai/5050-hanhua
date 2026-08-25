@@ -19,7 +19,7 @@
 - 文件大小：5,460,111 字节
 - SHA-256：`DA9A09FF6AF1D393A6FB938F5A8904E8CAD3F6AC24877B71160842CD095A10BE`
 - 压缩包文件数量：3
-- 发布状态：待发布
+- 发布状态：已发布
 - 下载地址：[GitHub Release](https://github.com/Linbin-Lai/5050-hanhua/releases/tag/the-skin-stapler-cn-20260825)
 
 ## 汉化内容

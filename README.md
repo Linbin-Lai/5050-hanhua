@@ -88,7 +88,7 @@
 | The Lightkeeper | 月见鸟 | 已发布 | Unreal PAK 覆盖 | [查看](games/The-Lightkeeper/) |
 | The Long Drive | 月见鸟 & qsefthuopq | 已发布 | 原生语言文本 | [查看](games/The-Long-Drive/) |
 | The Salesman | 月见鸟 & qsefthuopq | 已发布 | Unity BepInEx 汉化 | [查看](games/The-Salesman/) |
-| The Skin Stapler（缝皮杀手） | qsefthuopq | 待发布 | Unreal PAK / IoStore 覆盖容器 | [查看](games/The-Skin-Stapler/) |
+| The Skin Stapler（缝皮杀手） | qsefthuopq | 已发布 | Unreal PAK / IoStore 覆盖容器 | [查看](games/The-Skin-Stapler/) |
 | They See Us | 月见鸟 | 已发布（繁体中文） | Unreal PAK + 教程视频 | [查看](games/They-See-Us/) |
 | Total Chaos | 月见鸟 & qsefthuopq | 已发布 | Unity BepInEx 汉化 | [查看](games/Total-Chaos/) |
 | UNBEATABLE | Cokepoetry | 已有官方简体中文 | 历史民间汉化（建议优先使用官方中文） | [查看](games/UNBEATABLE/) |
