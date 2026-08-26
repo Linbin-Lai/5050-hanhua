@@ -7,6 +7,7 @@
 - **汉化作者：** Cokepoetry、月见鸟、qsefthuopq
 - **5050 直播间专供**
 - **关注直播间：** [https://live.bilibili.com/5050](https://live.bilibili.com/5050)
+- qsefthuopq汉化合集[B站专栏](https://www.bilibili.com/read/readlist/rl673289)
 
 本仓库用于整理和维护 **5050 汉化组**制作的游戏简体中文补丁、翻译文本、辅助脚本、校验信息及安装说明。
 
@@ -26,8 +27,8 @@
 |---|---|---|---|---|
 | Abandoned Stories: Inherited Silence | 月见鸟 & qsefthuopq | 已发布 | Unity BepInEx 汉化 | [查看](games/Abandoned-Stories-Inherited-Silence/) |
 | Agent 64: Spies Never Die | Cokepoetry | 已发布 | Unity 静态语言文件 | [查看](games/Agent-64-Spies-Never-Die/) |
-| Are We There Yet? | 月见鸟 & qsefthuopq | 已发布 | Unreal 汉化 + 8 人组队包 | [查看](games/Are-We-There-Yet/) |
-| AUTO-CRISIS | 月见鸟 & qsefthuopq | 已发布 | Unreal PAK 覆盖 | [查看](games/AUTO-CRISIS/) |
+| Are We There Yet? | 月见鸟 | 已发布 | Unreal 汉化 + 8 人组队包 | [查看](games/Are-We-There-Yet/) |
+| AUTO-CRISIS | 月见鸟 | 已发布 | Unreal PAK 覆盖 | [查看](games/AUTO-CRISIS/) |
 | Backrooms The Multiverse | Cokepoetry | 已发布 | Unreal IoStore 覆盖容器 | [查看](games/Backrooms-The-Multiverse/) |
 | Bite Night | Cokepoetry | 已发布 | Unity 静态资源 | [查看](games/Bite-Night/) |
 | Bite Night: Dine or Die | Cokepoetry | 已发布 | Unity 静态资源 | [查看](games/Bite-Night-Dine-or-Die/) |
@@ -38,33 +39,33 @@
 | Burger Bots Inc | Cokepoetry | 已发布 | BepInEx + 资源补丁 | [查看](games/Burger-Bots-Inc/) |
 | CashGrab Refunded | Cokepoetry | 已发布 | BepInEx 离线汉化 | [查看](games/CashGrab-Refunded/) |
 | Clown Is Hungry | 月见鸟 & qsefthuopq | 已发布 | Unity BepInEx 汉化 | [查看](games/Clown-Is-Hungry/) |
-| Creature Kitchen | 月见鸟 & qsefthuopq | 已发布 | 资源替换（按包内说明） | [查看](games/Creature-Kitchen/) |
+| Creature Kitchen | 月见鸟 | 已发布 | 资源替换（按包内说明） | [查看](games/Creature-Kitchen/) |
 | CULTIC | 月见鸟 | 已发布（历史 v1.2；合集含 v1.4） | Unity BepInEx 汉化 | [查看](games/CULTIC/) |
-| Cyber Rats | 月见鸟 & qsefthuopq | 已发布 | Unreal PAK 替换 | [查看](games/Cyber-Rats/) |
-| Deadcam | 月见鸟 & qsefthuopq | 已发布（机翻） | Unreal PAK 覆盖 | [查看](games/Deadcam/) |
+| Cyber Rats | 月见鸟 | 已发布 | Unreal PAK 替换 | [查看](games/Cyber-Rats/) |
+| Deadcam | 月见鸟 | 已发布（机翻） | Unreal PAK 覆盖 | [查看](games/Deadcam/) |
 | Deep Sleep Trilogy | 月见鸟（GitHub: kurikomoe） | 已发布 | Flash 资源替换 | [查看](games/Deep-Sleep-Trilogy/) |
 | Don't Escape Trilogy | 月见鸟 | 已发布 | Flash 资源替换 | [查看](games/Dont-Escape-Trilogy/) |
 | Don't Escape: 4 Days to Survive | 月见鸟 & qsefthuopq | 已发布（外部来源） | Steam 社区汉化安装包 | [查看](games/Dont-Escape-4-Days-to-Survive/) |
 | Endacopia | Cokepoetry | 已发布 | AGS 原生翻译与松散资源 | [查看](games/Endacopia/) |
 | Fallen Leaf | Cokepoetry & qsefthuopq | 已发布 | GameMaker 资源覆盖与文本工具包 | [查看](games/Fallen-Leaf/) |
-| Flesh Made Fear | 月见鸟 & qsefthuopq | 已发布 | Unreal IoStore 覆盖容器 | [查看](games/Flesh-Made-Fear/) |
+| Flesh Made Fear | 月见鸟 | 已发布 | Unreal IoStore 覆盖容器 | [查看](games/Flesh-Made-Fear/) |
 | Forbidden Solitaire | 月见鸟 & qsefthuopq | 已发布 | 文本、字体与脚本资源 | [查看](games/Forbidden-Solitaire/) |
 | Forest Asylum 2 | 月见鸟 | 已发布 | Unreal PAK 覆盖 | [查看](games/Forest-Asylum-2/) |
 | FrogLegs | Cokepoetry | 已发布 | Unreal IoStore 覆盖容器 | [查看](games/FrogLegs/) |
 | Funnel Runners | Cokepoetry | 已发布 | Unreal IoStore 覆盖容器 | [查看](games/Funnel-Runners/) |
 | GULLET | 月见鸟（GitHub: kurikomoe） | 已发布 | Godot PCK 替换 | [查看](games/GULLET/) |
 | Hell of a Birthday | Cokepoetry | 已发布 | Unity 静态资源 | [查看](games/Hell-of-a-Birthday/) |
-| Holes | 月见鸟 & qsefthuopq | 已发布 | Unity BepInEx 插件包 | [查看](games/Holes/) |
-| Hollowbrook - Apartments | 月见鸟 & qsefthuopq | 已发布 | Unreal PAK 替换 | [查看](games/Hollowbrook-Apartments/) |
-| House of Necrosis | 月见鸟 & qsefthuopq | 已发布（非完全汉化） | Godot PCK 替换 | [查看](games/House-of-Necrosis/) |
-| Intown Nightmares | 月见鸟 & qsefthuopq | 已发布 | 资源替换（按包内说明） | [查看](games/Intown-Nightmares/) |
+| Holes | 月见鸟 | 已发布 | Unity BepInEx 插件包 | [查看](games/Holes/) |
+| Hollowbrook - Apartments | 月见鸟 | 已发布 | Unreal PAK 替换 | [查看](games/Hollowbrook-Apartments/) |
+| House of Necrosis | 月见鸟 | 已发布（非完全汉化） | Godot PCK 替换 | [查看](games/House-of-Necrosis/) |
+| Intown Nightmares | 月见鸟 | 已发布 | 资源替换（按包内说明） | [查看](games/Intown-Nightmares/) |
 | Invincible VS | 月见鸟 & qsefthuopq | 已发布 | 资源替换（按包内说明） | [查看](games/Invincible-VS/) |
 | Jaden Williams' The Stalking Stairs | 月见鸟 & qsefthuopq | 已发布 | 资源替换（按包内说明） | [查看](games/Jaden-Williams-The-Stalking-Stairs/) |
 | Jeffrey Eggstein | Cokepoetry | 已发布 | Unity 静态资源 | [查看](games/Jeffrey-Eggstein/) |
-| LANESPLIT | 月见鸟 & qsefthuopq | 已发布 | Unreal IoStore 覆盖容器 | [查看](games/LANESPLIT/) |
-| Lihiman | 月见鸟 & qsefthuopq | 已发布 | 资源替换（按包内说明） | [查看](games/Lihiman/) |
-| Midnight Crane | 月见鸟 & qsefthuopq | 已发布 | Unreal PAK / IoStore 覆盖 | [查看](games/Midnight-Crane/) |
-| Midnight Hoops | 月见鸟 & qsefthuopq | 已发布 | 资源替换（按包内说明） | [查看](games/Midnight-Hoops/) |
+| LANESPLIT | 月见鸟 | 已发布 | Unreal IoStore 覆盖容器 | [查看](games/LANESPLIT/) |
+| Lihiman | 月见鸟| 已发布 | 资源替换（按包内说明） | [查看](games/Lihiman/) |
+| Midnight Crane | 月见鸟 | 已发布 | Unreal PAK / IoStore 覆盖 | [查看](games/Midnight-Crane/) |
+| Midnight Hoops | 月见鸟 | 已发布 | 资源替换（按包内说明） | [查看](games/Midnight-Hoops/) |
 | Mine of My Mind | Cokepoetry | 已发布 | BepInEx IL2CPP | [查看](games/Mine-of-My-Mind/) |
 | Mortanis Prisoners | 月见鸟 | 已发布（不完全汉化） | Unreal PAK 覆盖 | [查看](games/Mortanis-Prisoners/) |
 | Movie Theater | Cokepoetry | 已发布 | Unity 静态资源与程序集替换 | [查看](games/Movie-Theater/) |
@@ -73,27 +74,27 @@
 | Only Good Babysitters Go To Heaven | Cokepoetry | 已发布 | Unity 静态资源与字幕组件 | [查看](games/Only-Good-Babysitters-Go-To-Heaven/) |
 | Paranormal Cleanup | 月见鸟 | 已发布 | 资源替换（按包内说明） | [查看](games/Paranormal-Cleanup/) |
 | Pih 2 | Cokepoetry | 已发布 | Unreal PAK 本地化 | [查看](games/Pih-2/) |
-| Poppy Playtime: Chapter 4 | 月见鸟 & qsefthuopq | 已发布 | RAR 汉化包（按包内说明） | [查看](games/Poppy-Playtime-Chapter-4/) |
+| Poppy Playtime: Chapter 4 | 月见鸟 | 已发布 | RAR 汉化包（按包内说明） | [查看](games/Poppy-Playtime-Chapter-4/) |
 | Pyromaniac | 月见鸟 & qsefthuopq | 已发布 | Unity BepInEx 汉化 | [查看](games/Pyromaniac/) |
 | RAVENOUS | 月见鸟 | 已发布 | Unreal IoStore 覆盖容器 | [查看](games/RAVENOUS/) |
 | Rip Current | 月见鸟 | 已发布 | Unity BepInEx 汉化 | [查看](games/Rip-Current/) |
 | Salvage Protocol | 月见鸟 & qsefthuopq | 已发布 | Unity BepInEx 汉化 | [查看](games/Salvage-Protocol/) |
-| Shards Of Solitude | 月见鸟 & qsefthuopq | 已发布 | Unreal IoStore 中文修复 | [查看](games/Shards-Of-Solitude/) |
+| Shards Of Solitude | 月见鸟 | 已发布 | Unreal IoStore 中文修复 | [查看](games/Shards-Of-Solitude/) |
 | Skinfreak | 月见鸟 & qsefthuopq | 已发布 | Unity BepInEx 汉化 | [查看](games/Skinfreak/) |
 | [Stories to Tell] The Stoneville Incident | Cokepoetry | 已发布 | Unreal PAK / IoStore 覆盖容器 | [查看](games/Stories-to-Tell-The-Stoneville-Incident/) |
 | Strikers Club | Cokepoetry | 已发布 | Unreal IoStore 覆盖容器 | [查看](games/StrikersClub/) |
-| The Dark Legacy | 月见鸟 & qsefthuopq | 已发布（字体修复） | Unity 字体修复插件 | [查看](games/The-Dark-Legacy/) |
-| The Dark Mind | 月见鸟 & qsefthuopq | 已发布 | Unreal PAK 覆盖 | [查看](games/The-Dark-Mind/) |
-| The Lacerator | 月见鸟 & qsefthuopq | 已发布 | Unreal PAK 覆盖 | [查看](games/The-Lacerator/) |
+| The Dark Legacy | 月见鸟| 已发布（字体修复） | Unity 字体修复插件 | [查看](games/The-Dark-Legacy/) |
+| The Dark Mind | 月见鸟 | 已发布 | Unreal PAK 覆盖 | [查看](games/The-Dark-Mind/) |
+| The Lacerator | 月见鸟 | 已发布 | Unreal PAK 覆盖 | [查看](games/The-Lacerator/) |
 | The Lightkeeper | 月见鸟 | 已发布 | Unreal PAK 覆盖 | [查看](games/The-Lightkeeper/) |
-| The Long Drive | 月见鸟 & qsefthuopq | 已发布 | 原生语言文本 | [查看](games/The-Long-Drive/) |
+| The Long Drive | 月见鸟 | 已发布 | 原生语言文本 | [查看](games/The-Long-Drive/) |
 | The Salesman | 月见鸟 & qsefthuopq | 已发布 | Unity BepInEx 汉化 | [查看](games/The-Salesman/) |
 | The Skin Stapler（缝皮杀手） | qsefthuopq | 已发布 | Unreal PAK / IoStore 覆盖容器 | [查看](games/The-Skin-Stapler/) |
 | They See Us | 月见鸟 | 已发布（繁体中文） | Unreal PAK + 教程视频 | [查看](games/They-See-Us/) |
 | Total Chaos | 月见鸟 & qsefthuopq | 已发布 | Unity BepInEx 汉化 | [查看](games/Total-Chaos/) |
 | UNBEATABLE | Cokepoetry | 已有官方简体中文 | 历史民间汉化（建议优先使用官方中文） | [查看](games/UNBEATABLE/) |
 | Unusual Tales: After Bark | Cokepoetry | 已发布 | Unity 静态资源与本地化表替换 | [查看](games/Unusual-Tales-After-Bark/) |
-| White Knuckle | 月见鸟 & qsefthuopq | 已发布 | Unity BepInEx 汉化 | [查看](games/White-Knuckle/) |
+| White Knuckle | qsefthuopq | 已发布 | Unity BepInEx 汉化 | [查看](games/White-Knuckle/) |
 | デテイケ -GetOut- | Cokepoetry | 已发布 | Unreal IoStore 覆盖容器 | [查看](games/GetOut/) |
 
 
