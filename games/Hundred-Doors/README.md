@@ -15,7 +15,7 @@
 - **适用版本：** Steam AppID 3892240，BuildID 21728869
 - **游戏引擎：** Unreal Engine 4.27（Windows 64 位）
 - **补丁技术：** 新增高优先级 PAK 覆盖，包含结构化 Blueprint/Kismet 修改、locres 本地化、图片文字和中文字体；附带 144 FPS 修改
-- **Release 文件：** `Hundred Doors_简体中文覆盖包.zip`
+- **Release 文件：** `Hundred-Doors_Chinese-Localization-v8.zip`
 - **文件大小：** 9,103,302 字节
 - **SHA-256：** `431884A4B6BC5E60D896FFBCF48E85EC070B072F92631FFD8114952864BB357C`
 - **压缩包文件数量：** 2
