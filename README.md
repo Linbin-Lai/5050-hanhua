@@ -13,6 +13,42 @@
 
 本项目由 bilibili UP 主 **EdmundDZhang** 的粉丝自发建立和维护，所有汉化均无偿免费发布，以兴趣与热爱为动力，为爱发电。本项目与游戏开发商、发行商及平台均无官方隶属或授权关系。
 
+<!-- top-downloads:start -->
+## 下载量前五
+
+<p align="center">按可明确归属到单个游戏的 GitHub Release 附件累计下载量每日自动更新。</p>
+
+<table>
+  <tr>
+    <td align="center" width="20%">
+      <a href="https://github.com/Linbin-Lai/5050-hanhua/releases/tag/endacopia-cn-20260806"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2684630/8b5af90a03ce4cc33653c50a998387e3e9082103/header.jpg?t=1786381683" alt="Endacopia 游戏封面" width="180"></a><br>
+      <strong>1. Endacopia</strong><br>
+      <a href="https://github.com/Linbin-Lai/5050-hanhua/releases/tag/endacopia-cn-20260806">下载（115 次）</a>
+    </td>
+    <td align="center" width="20%">
+      <a href="https://github.com/Linbin-Lai/5050-hanhua/releases/tag/fallen-leaf-cn-20260809"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1459010/header.jpg?t=1732677410" alt="Fallen Leaf 游戏封面" width="180"></a><br>
+      <strong>2. Fallen Leaf</strong><br>
+      <a href="https://github.com/Linbin-Lai/5050-hanhua/releases/tag/fallen-leaf-cn-20260809">下载（6 次）</a>
+    </td>
+    <td align="center" width="20%">
+      <a href="https://github.com/Linbin-Lai/5050-hanhua/releases/tag/import-cultic-v1.2-archive"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1684930/84bebc2b3ecb36d4ec0ad3aea5126bc0666a9029/header.jpg?t=1786717270" alt="CULTIC 游戏封面" width="180"></a><br>
+      <strong>3. CULTIC</strong><br>
+      <a href="https://github.com/Linbin-Lai/5050-hanhua/releases/tag/import-cultic-v1.2-archive">下载（4 次）</a>
+    </td>
+    <td align="center" width="20%">
+      <a href="https://github.com/Linbin-Lai/5050-hanhua/releases/tag/okugafuchi-cn-20260812"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3232860/0e24bc880f8dd40244ac05bc1ea41732caa16538/header.jpg?t=1786100115" alt="OKUGAFUCHI 游戏封面" width="180"></a><br>
+      <strong>4. OKUGAFUCHI</strong><br>
+      <a href="https://github.com/Linbin-Lai/5050-hanhua/releases/tag/okugafuchi-cn-20260812">下载（3 次）</a>
+    </td>
+    <td align="center" width="20%">
+      <a href="https://github.com/Linbin-Lai/5050-hanhua/releases/tag/unusual-tales-after-bark-cn-20260818"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4516880/1a00f0306b6506b19b27984a971f266af2e3f6c5/header.jpg?t=1786737888" alt="Unusual Tales: After Bark 游戏封面" width="180"></a><br>
+      <strong>5. Unusual Tales: After Bark</strong><br>
+      <a href="https://github.com/Linbin-Lai/5050-hanhua/releases/tag/unusual-tales-after-bark-cn-20260818">下载（3 次）</a>
+    </td>
+  </tr>
+</table>
+<!-- top-downloads:end -->
+
 ## 下载 [![GitHub Release 总下载量](https://img.shields.io/github/downloads/Linbin-Lai/5050-hanhua/total?style=flat-square&label=总下载量&color=2ea44f)](https://github.com/Linbin-Lai/5050-hanhua/releases)
 
 可直接安装的汉化补丁统一通过仓库的 [**Releases** 页面](https://github.com/Linbin-Lai/5050-hanhua/releases)发布。
