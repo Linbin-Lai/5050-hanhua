@@ -19,7 +19,7 @@
 - **文件大小：** 9,103,302 字节
 - **SHA-256：** `431884A4B6BC5E60D896FFBCF48E85EC070B072F92631FFD8114952864BB357C`
 - **压缩包文件数量：** 2
-- **发布状态：** 待发布
+- **发布状态：** 已发布
 - **下载地址：** [Hundred Doors 简体中文汉化 v8](https://github.com/Linbin-Lai/5050-hanhua/releases/tag/hundred-doors-cn-20260827)
 
 ## 汉化内容
