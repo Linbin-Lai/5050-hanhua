@@ -8,6 +8,7 @@
 - **5050 直播间专供**
 - **关注直播间：** [https://live.bilibili.com/5050](https://live.bilibili.com/5050)
 - qsefthuopq汉化合集[B站专栏](https://www.bilibili.com/read/readlist/rl673289)
+- 月见鸟汉化合集[Release](https://github.com/5050ResearchCenter/5050-Localization-Collections/releases)
 
 本仓库用于整理和维护 **5050 汉化组**制作的游戏简体中文补丁、翻译文本、辅助脚本、校验信息及安装说明。
 
