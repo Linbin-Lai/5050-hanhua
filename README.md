@@ -58,6 +58,7 @@
 | Holes | 月见鸟 | 已发布 | Unity BepInEx 插件包 | [查看](games/Holes/) |
 | Hollowbrook - Apartments | 月见鸟 | 已发布 | Unreal PAK 替换 | [查看](games/Hollowbrook-Apartments/) |
 | House of Necrosis | 月见鸟 | 已发布（非完全汉化） | Godot PCK 替换 | [查看](games/House-of-Necrosis/) |
+| Hundred Doors | Cokepoetry | 待发布 | Unreal PAK 覆盖（含 144 FPS 修改） | [查看](games/Hundred-Doors/) |
 | Intown Nightmares | 月见鸟 | 已发布 | 资源替换（按包内说明） | [查看](games/Intown-Nightmares/) |
 | Invincible VS | 月见鸟 & qsefthuopq | 已发布 | 资源替换（按包内说明） | [查看](games/Invincible-VS/) |
 | Jaden Williams' The Stalking Stairs | 月见鸟 & qsefthuopq | 已发布 | 资源替换（按包内说明） | [查看](games/Jaden-Williams-The-Stalking-Stairs/) |
