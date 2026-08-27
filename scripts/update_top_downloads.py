@@ -213,7 +213,6 @@ def render_block(games: list[dict]) -> str:
     return (
         f"{START_MARKER}\n"
         "## 总下载量前十（每日自动更新）\n\n"
-        "<p align=\"center\">按可明确归属到单个游戏的 GitHub Release 附件累计下载量统计。</p>\n\n"
         "<table>\n"
         + "\n".join(rows)
         + "\n"
@@ -231,17 +230,10 @@ def render_month_block(games: list[dict], baseline_date: str | None, today: date
             .replace(START_MARKER, "")
             .replace(END_MARKER, "")
             .replace("## 总下载量前十（每日自动更新）\n\n", "")
-            .replace(
-                "<p align=\"center\">按可明确归属到单个游戏的 GitHub Release 附件累计下载量统计。</p>\n\n",
-                "",
-            )
             .strip()
         )
     else:
-        body = (
-            "<p align=\"center\">GitHub 不提供历史月度下载数据。每日快照已启用，"
-            "待次日产生第二个快照后开始展示，自首次快照起逐步积累至完整 30 日。</p>"
-        )
+        body = ""
     return (
         f"{MONTH_START_MARKER}\n"
         "## 近 30 日下载量前十（每日自动更新）\n\n"
