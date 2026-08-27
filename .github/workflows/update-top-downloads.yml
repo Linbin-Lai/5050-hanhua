@@ -30,15 +30,15 @@ jobs:
           GITHUB_REPOSITORY: ${{ github.repository }}
         run: python scripts/update_top_downloads.py
 
-      - name: Commit changed ranking
+      - name: Commit changed rankings and snapshot
         shell: bash
         run: |
-          if git diff --quiet -- README.md; then
-            echo "Ranking is unchanged."
+          if git diff --quiet -- README.md data/download-history.json; then
+            echo "Rankings and snapshot are unchanged."
             exit 0
           fi
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add README.md
-          git commit -m "Update top downloaded localizations"
+          git add README.md data/download-history.json
+          git commit -m "Update localization download rankings"
           git push

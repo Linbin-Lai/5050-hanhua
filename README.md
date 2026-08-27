@@ -15,7 +15,9 @@
 本项目由 bilibili UP 主 **EdmundDZhang** 的粉丝自发建立和维护，所有汉化均无偿免费发布，以兴趣与热爱为动力，为爱发电。本项目与游戏开发商、发行商及平台均无官方隶属或授权关系。
 
 <!-- top-downloads:start -->
-## 下载量前五（每日自动更新）
+## 总下载量前十（每日自动更新）
+
+<p align="center">按可明确归属到单个游戏的 GitHub Release 附件累计下载量统计。</p>
 
 <table>
   <tr>
@@ -45,8 +47,41 @@
       <a href="https://github.com/Linbin-Lai/5050-hanhua/releases/tag/unusual-tales-after-bark-cn-20260818">下载（3 次）</a>
     </td>
   </tr>
+  <tr>
+    <td align="center" width="20%">
+      <a href="https://github.com/Linbin-Lai/5050-hanhua/releases/tag/pih-2-cn-20260806"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4547970/707dd5291fd506ef4d3775a25cab19b19435b5a2/header.jpg?t=1785873328" alt="Pih 2 游戏封面" width="180"></a><br>
+      <strong>6. Pih 2</strong><br>
+      <a href="https://github.com/Linbin-Lai/5050-hanhua/releases/tag/pih-2-cn-20260806">下载（2 次）</a>
+    </td>
+    <td align="center" width="20%">
+      <a href="https://github.com/Linbin-Lai/5050-hanhua/releases/tag/the-skin-stapler-cn-20260825"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4310610/5147848411ce0dfd06d88513572a98e334a3fd74/header.jpg?t=1786367666" alt="The Skin Stapler（缝皮杀手） 游戏封面" width="180"></a><br>
+      <strong>7. The Skin Stapler（缝皮杀手）</strong><br>
+      <a href="https://github.com/Linbin-Lai/5050-hanhua/releases/tag/the-skin-stapler-cn-20260825">下载（2 次）</a>
+    </td>
+    <td align="center" width="20%">
+      <a href="https://github.com/Linbin-Lai/5050-hanhua/releases/tag/agent-64-spies-never-die-cn-20260812"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1574480/f281ff155778294664365fbcedc884319ed172fd/header.jpg?t=1786538539" alt="Agent 64: Spies Never Die 游戏封面" width="180"></a><br>
+      <strong>8. Agent 64: Spies Never Die</strong><br>
+      <a href="https://github.com/Linbin-Lai/5050-hanhua/releases/tag/agent-64-spies-never-die-cn-20260812">下载（1 次）</a>
+    </td>
+    <td align="center" width="20%">
+      <a href="https://github.com/Linbin-Lai/5050-hanhua/releases/tag/import-gullet"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3100790/header.jpg?t=1739902770" alt="GULLET 游戏封面" width="180"></a><br>
+      <strong>9. GULLET</strong><br>
+      <a href="https://github.com/Linbin-Lai/5050-hanhua/releases/tag/import-gullet">下载（1 次）</a>
+    </td>
+    <td align="center" width="20%">
+      <a href="https://github.com/Linbin-Lai/5050-hanhua/releases/tag/hundred-doors-cn-20260827"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3892240/63116ee329c4d74adbf90953eabe2a71f1d072c6/header.jpg?t=1769433045" alt="Hundred Doors 游戏封面" width="180"></a><br>
+      <strong>10. Hundred Doors</strong><br>
+      <a href="https://github.com/Linbin-Lai/5050-hanhua/releases/tag/hundred-doors-cn-20260827">下载（1 次）</a>
+    </td>
+  </tr>
 </table>
 <!-- top-downloads:end -->
+
+<!-- monthly-downloads:start -->
+## 近 30 日下载量前十（每日自动更新）
+
+<p align="center">GitHub 不提供历史月度下载数据。每日快照已启用，待次日产生第二个快照后开始展示，自首次快照起逐步积累至完整 30 日。</p>
+<!-- monthly-downloads:end -->
 
 ## 下载 [![GitHub Release 总下载量](https://img.shields.io/github/downloads/Linbin-Lai/5050-hanhua/total?style=flat-square&label=总下载量&color=2ea44f)](https://github.com/Linbin-Lai/5050-hanhua/releases)
 
@@ -87,7 +122,7 @@
 | Christmas Mutilator | qsefthuopq | 已收录（外部网盘） | 历史汉化补丁（网盘分发） | [查看](games/Christmas-Mutilator/) |
 | Clown Is Hungry | 月见鸟 & qsefthuopq | 已发布 | Unity BepInEx 汉化 | [查看](games/Clown-Is-Hungry/) |
 | Creature Kitchen | 月见鸟 | 已发布 | 资源替换（按包内说明） | [查看](games/Creature-Kitchen/) |
-| CULTIC | 月见鸟 | 已发布（历史 v1.2；合集含 v1.4） | Unity BepInEx 汉化 | [查看](games/CULTIC/) |
+| CULTIC | 月见鸟 | 已发布（v1.9；含历史 v1.2） | Unity BepInEx + 静态资源替换 | [查看](games/CULTIC/) |
 | Cyber Rats | 月见鸟 | 已发布 | Unreal PAK 替换 | [查看](games/Cyber-Rats/) |
 | Days Like A Nightmare | qsefthuopq | 已收录（外部网盘） | 历史汉化补丁（网盘分发） | [查看](games/Days-Like-A-Nightmare/) |
 | Deadcam | 月见鸟 | 已发布（机翻） | Unreal PAK 覆盖 | [查看](games/Deadcam/) |
