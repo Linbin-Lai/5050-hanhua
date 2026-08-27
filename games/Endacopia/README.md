@@ -8,7 +8,7 @@
 </p>
 <!-- game-cover:end -->
 
-**汉化署名：5050 汉化组：Cokepoetry 汉化**
+**汉化作者：Cokepoetry **
 
 ## 发布信息
 
