@@ -11,7 +11,7 @@ import sys
 from collections import defaultdict
 from datetime import date, datetime, timedelta, timezone
 from pathlib import Path
-from urllib.parse import unquote
+from urllib.parse import quote, unquote
 from urllib.request import Request, urlopen
 
 
@@ -200,13 +200,13 @@ def render_block(games: list[dict]) -> str:
         ):
             title = html.escape(game["title"])
             cover = html.escape(game["cover"], quote=True)
-            release_url = html.escape(game["release_url"], quote=True)
+            game_url = html.escape(f"games/{quote(game['slug'])}/", quote=True)
             downloads = f"{game['downloads']:,}"
             cells.append(
                 "    <td align=\"center\" width=\"20%\">\n"
-                f"      <a href=\"{release_url}\"><img src=\"{cover}\" alt=\"{title} 游戏封面\" width=\"180\"></a><br>\n"
+                f"      <a href=\"{game_url}\"><img src=\"{cover}\" alt=\"{title} 游戏封面\" width=\"180\"></a><br>\n"
                 f"      <strong>{rank}. {title}</strong><br>\n"
-                f"      <a href=\"{release_url}\">下载（{downloads} 次）</a>\n"
+                f"      <a href=\"{game_url}\">查看详情（{downloads} 次下载）</a>\n"
                 "    </td>"
             )
         rows.append("  <tr>\n" + "\n".join(cells) + "\n  </tr>")
