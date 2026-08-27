@@ -8,7 +8,7 @@
 </p>
 <!-- game-cover:end -->
 
-**汉化作者：Cokepoetry **
+**汉化作者：** Cokepoetry 
 
 ## 发布信息
 
