@@ -212,7 +212,7 @@ def render_block(games: list[dict]) -> str:
         rows.append("  <tr>\n" + "\n".join(cells) + "\n  </tr>")
     return (
         f"{START_MARKER}\n"
-        "## 总下载量前十（每日自动更新）\n\n"
+        "## 总下载量前十\n\n"
         "<table>\n"
         + "\n".join(rows)
         + "\n"
@@ -229,14 +229,14 @@ def render_month_block(games: list[dict], baseline_date: str | None, today: date
             + render_block(games[:TOP_N])
             .replace(START_MARKER, "")
             .replace(END_MARKER, "")
-            .replace("## 总下载量前十（每日自动更新）\n\n", "")
+            .replace("## 总下载量前十\n\n", "")
             .strip()
         )
     else:
         body = ""
     return (
         f"{MONTH_START_MARKER}\n"
-        "## 近 30 日下载量前十（每日自动更新）\n\n"
+        "## 近 30 日下载量前十\n\n"
         f"{body}\n"
         f"{MONTH_END_MARKER}"
     )

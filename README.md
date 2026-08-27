@@ -15,7 +15,7 @@
 本项目由 bilibili UP 主 **EdmundDZhang** 的粉丝自发建立和维护，所有汉化均无偿免费发布，以兴趣与热爱为动力，为爱发电。本项目与游戏开发商、发行商及平台均无官方隶属或授权关系。
 
 <!-- top-downloads:start -->
-## 总下载量前十（每日自动更新）
+## 总下载量前十
 
 <table>
   <tr>
@@ -76,7 +76,7 @@
 <!-- top-downloads:end -->
 
 <!-- monthly-downloads:start -->
-## 近 30 日下载量前十（每日自动更新）
+## 近 30 日下载量前十
 
 <!-- monthly-downloads:end -->
 
