@@ -22,54 +22,54 @@
     <td align="center" width="20%">
       <a href="games/Endacopia/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2684630/8b5af90a03ce4cc33653c50a998387e3e9082103/header.jpg?t=1786381683" alt="Endacopia 游戏封面" width="180"></a><br>
       <strong>1. Endacopia</strong><br>
-      <a href="games/Endacopia/">查看详情（115 次下载）</a>
+      <sub><a href="games/Endacopia/">查看详情（115 次下载）</a></sub>
     </td>
     <td align="center" width="20%">
       <a href="games/CULTIC/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1684930/84bebc2b3ecb36d4ec0ad3aea5126bc0666a9029/header.jpg?t=1786717270" alt="CULTIC 游戏封面" width="180"></a><br>
       <strong>2. CULTIC</strong><br>
-      <a href="games/CULTIC/">查看详情（6 次下载）</a>
+      <sub><a href="games/CULTIC/">查看详情（6 次下载）</a></sub>
     </td>
     <td align="center" width="20%">
       <a href="games/Fallen-Leaf/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1459010/header.jpg?t=1732677410" alt="Fallen Leaf 游戏封面" width="180"></a><br>
       <strong>3. Fallen Leaf</strong><br>
-      <a href="games/Fallen-Leaf/">查看详情（6 次下载）</a>
+      <sub><a href="games/Fallen-Leaf/">查看详情（6 次下载）</a></sub>
     </td>
     <td align="center" width="20%">
       <a href="games/OKUGAFUCHI/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3232860/0e24bc880f8dd40244ac05bc1ea41732caa16538/header.jpg?t=1786100115" alt="OKUGAFUCHI 游戏封面" width="180"></a><br>
       <strong>4. OKUGAFUCHI</strong><br>
-      <a href="games/OKUGAFUCHI/">查看详情（3 次下载）</a>
+      <sub><a href="games/OKUGAFUCHI/">查看详情（3 次下载）</a></sub>
     </td>
     <td align="center" width="20%">
       <a href="games/Unusual-Tales-After-Bark/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4516880/1a00f0306b6506b19b27984a971f266af2e3f6c5/header.jpg?t=1786737888" alt="Unusual Tales: After Bark 游戏封面" width="180"></a><br>
       <strong>5. Unusual Tales: After Bark</strong><br>
-      <a href="games/Unusual-Tales-After-Bark/">查看详情（3 次下载）</a>
+      <sub><a href="games/Unusual-Tales-After-Bark/">查看详情（3 次下载）</a></sub>
     </td>
   </tr>
   <tr>
     <td align="center" width="20%">
       <a href="games/Pih-2/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4547970/707dd5291fd506ef4d3775a25cab19b19435b5a2/header.jpg?t=1785873328" alt="Pih 2 游戏封面" width="180"></a><br>
       <strong>6. Pih 2</strong><br>
-      <a href="games/Pih-2/">查看详情（2 次下载）</a>
+      <sub><a href="games/Pih-2/">查看详情（2 次下载）</a></sub>
     </td>
     <td align="center" width="20%">
       <a href="games/The-Skin-Stapler/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4310610/5147848411ce0dfd06d88513572a98e334a3fd74/header.jpg?t=1786367666" alt="The Skin Stapler（缝皮杀手） 游戏封面" width="180"></a><br>
       <strong>7. The Skin Stapler（缝皮杀手）</strong><br>
-      <a href="games/The-Skin-Stapler/">查看详情（2 次下载）</a>
+      <sub><a href="games/The-Skin-Stapler/">查看详情（2 次下载）</a></sub>
     </td>
     <td align="center" width="20%">
       <a href="games/Agent-64-Spies-Never-Die/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1574480/f281ff155778294664365fbcedc884319ed172fd/header.jpg?t=1786538539" alt="Agent 64: Spies Never Die 游戏封面" width="180"></a><br>
       <strong>8. Agent 64: Spies Never Die</strong><br>
-      <a href="games/Agent-64-Spies-Never-Die/">查看详情（1 次下载）</a>
+      <sub><a href="games/Agent-64-Spies-Never-Die/">查看详情（1 次下载）</a></sub>
     </td>
     <td align="center" width="20%">
       <a href="games/GULLET/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3100790/header.jpg?t=1739902770" alt="GULLET 游戏封面" width="180"></a><br>
       <strong>9. GULLET</strong><br>
-      <a href="games/GULLET/">查看详情（1 次下载）</a>
+      <sub><a href="games/GULLET/">查看详情（1 次下载）</a></sub>
     </td>
     <td align="center" width="20%">
       <a href="games/Hundred-Doors/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3892240/63116ee329c4d74adbf90953eabe2a71f1d072c6/header.jpg?t=1769433045" alt="Hundred Doors 游戏封面" width="180"></a><br>
       <strong>10. Hundred Doors</strong><br>
-      <a href="games/Hundred-Doors/">查看详情（1 次下载）</a>
+      <sub><a href="games/Hundred-Doors/">查看详情（1 次下载）</a></sub>
     </td>
   </tr>
 </table>

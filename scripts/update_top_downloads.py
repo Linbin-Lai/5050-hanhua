@@ -206,7 +206,7 @@ def render_block(games: list[dict]) -> str:
                 "    <td align=\"center\" width=\"20%\">\n"
                 f"      <a href=\"{game_url}\"><img src=\"{cover}\" alt=\"{title} 游戏封面\" width=\"180\"></a><br>\n"
                 f"      <strong>{rank}. {title}</strong><br>\n"
-                f"      <a href=\"{game_url}\">查看详情（{downloads} 次下载）</a>\n"
+                f"      <sub><a href=\"{game_url}\">查看详情（{downloads} 次下载）</a></sub>\n"
                 "    </td>"
             )
         rows.append("  <tr>\n" + "\n".join(cells) + "\n  </tr>")
