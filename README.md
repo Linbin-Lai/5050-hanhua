@@ -248,6 +248,7 @@
 | SPOOKWARE | qsefthuopq | 已收录（外部网盘） | 历史汉化补丁（网盘分发） | [查看](games/SPOOKWARE/) |
 | Spooky's Jump Scare Mansion: HD Renovation | qsefthuopq | 已收录（外部网盘） | 历史汉化补丁（网盘分发） | [查看](games/Spooky-s-Jump-Scare-Mansion-HD-Renovation/) |
 | Strikers Club | Cokepoetry | 已发布 | Unreal IoStore 覆盖容器 | [查看](games/StrikersClub/) |
+| the cabin game | Cokepoetry | 已发布（不完全汉化） | Unreal PAK + UE4SS 运行时界面修正 | [查看](games/The-Cabin-Game/) |
 | The Cattle | qsefthuopq | 已收录（外部网盘） | 历史汉化补丁（网盘分发） | [查看](games/The-Cattle/) |
 | The Dark Legacy | 月见鸟| 已发布（字体修复） | Unity 字体修复插件 | [查看](games/The-Dark-Legacy/) |
 | The Dark Mind | 月见鸟 | 已发布 | Unreal PAK 覆盖 | [查看](games/The-Dark-Mind/) |
