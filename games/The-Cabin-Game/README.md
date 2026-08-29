@@ -17,7 +17,7 @@
 - **适用版本：** Steam AppID 4406280，适配 2026-08-29 的 Steam 抢先体验版本
 - **游戏引擎：** Unreal Engine 4（Windows 64 位）
 - **补丁技术：** Unreal PAK 静态资源覆盖 + UE4SS 运行时界面与设置项修正
-- **Release 文件：** `the cabin game_简体中文覆盖包.zip`
+- **Release 文件：** `the-cabin-game-Chinese-localization.zip`
 - **文件大小：** 26,952,092 字节
 - **SHA-256：** `BF5A30F5EF181C49DE45A3FE9D0AC99E6370C81E6771F59C881C9953DC55EBE0`
 - **压缩包文件数量：** 16
