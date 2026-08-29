@@ -1,8 +1,12 @@
 name: Update top downloads
 
 on:
-  schedule:
-    - cron: "17 3 * * *"
+  push:
+    branches: [main]
+    paths:
+      - "games/**/README.md"
+  release:
+    types: [published, released, edited]
   workflow_dispatch:
 
 permissions:
@@ -30,15 +34,15 @@ jobs:
           GITHUB_REPOSITORY: ${{ github.repository }}
         run: python scripts/update_top_downloads.py
 
-      - name: Commit changed rankings and snapshot
+      - name: Commit changed rankings
         shell: bash
         run: |
-          if git diff --quiet -- README.md data/download-history.json; then
-            echo "Rankings and snapshot are unchanged."
+          if git diff --quiet -- README.md; then
+            echo "Rankings are unchanged."
             exit 0
           fi
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add README.md data/download-history.json
+          git add README.md
           git commit -m "Update localization download rankings"
           git push

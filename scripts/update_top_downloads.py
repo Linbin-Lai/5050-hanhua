@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Update lifetime and rolling 30-day download rankings in the root README."""
+"""Update lifetime downloads and recently updated releases in the root README."""
 
 from __future__ import annotations
 
@@ -9,7 +9,6 @@ import os
 import re
 import sys
 from collections import defaultdict
-from datetime import date, datetime, timedelta, timezone
 from pathlib import Path
 from urllib.parse import quote, unquote
 from urllib.request import Request, urlopen
@@ -20,9 +19,8 @@ README_PATH = ROOT / "README.md"
 GAMES_PATH = ROOT / "games"
 START_MARKER = "<!-- top-downloads:start -->"
 END_MARKER = "<!-- top-downloads:end -->"
-MONTH_START_MARKER = "<!-- monthly-downloads:start -->"
-MONTH_END_MARKER = "<!-- monthly-downloads:end -->"
-HISTORY_PATH = ROOT / "data" / "download-history.json"
+RECENT_START_MARKER = "<!-- recent-updates:start -->"
+RECENT_END_MARKER = "<!-- recent-updates:end -->"
 DEFAULT_REPOSITORY = "Linbin-Lai/5050-hanhua"
 TOP_N = 10
 
@@ -133,61 +131,29 @@ def rank_games(catalog: list[dict], releases: list[dict]) -> list[dict]:
             owned_releases,
             key=lambda release: release.get("published_at") or release.get("created_at") or "",
         )
+        update_times = [
+            release.get("published_at") or release.get("created_at") or ""
+            for release in owned_releases
+        ]
+        update_times.extend(
+            asset.get("updated_at") or asset.get("created_at") or ""
+            for release in owned_releases
+            for asset in release.get("assets", [])
+            if isinstance(asset, dict)
+        )
         ranked.append(
             {
                 **game,
                 "downloads": downloads,
                 "release_url": newest.get("html_url"),
+                "updated_at": max(update_times, default=""),
             }
         )
     ranked.sort(key=lambda game: (-game["downloads"], game["title"].casefold()))
     return ranked
 
 
-def load_history() -> list[dict]:
-    if not HISTORY_PATH.exists():
-        return []
-    payload = json.loads(HISTORY_PATH.read_text(encoding="utf-8"))
-    snapshots = payload.get("snapshots", []) if isinstance(payload, dict) else []
-    return [item for item in snapshots if isinstance(item, dict)]
-
-
-def update_history(ranked: list[dict], today: date) -> list[dict]:
-    snapshots = load_history()
-    current = {game["slug"]: int(game["downloads"]) for game in ranked}
-    snapshot = {"date": today.isoformat(), "downloads": current}
-    snapshots = [item for item in snapshots if item.get("date") != today.isoformat()]
-    snapshots.append(snapshot)
-    snapshots.sort(key=lambda item: item.get("date", ""))
-    cutoff = today - timedelta(days=45)
-    snapshots = [item for item in snapshots if item.get("date", "") >= cutoff.isoformat()]
-    HISTORY_PATH.parent.mkdir(parents=True, exist_ok=True)
-    HISTORY_PATH.write_text(
-        json.dumps({"snapshots": snapshots}, ensure_ascii=False, indent=2) + "\n",
-        encoding="utf-8",
-    )
-    return snapshots
-
-
-def monthly_ranking(
-    ranked: list[dict], snapshots: list[dict], today: date
-) -> tuple[list[dict], str | None]:
-    prior = [item for item in snapshots if item.get("date", "") < today.isoformat()]
-    if not prior:
-        return [], None
-    cutoff = (today - timedelta(days=30)).isoformat()
-    older = [item for item in prior if item.get("date", "") <= cutoff]
-    baseline = older[-1] if older else prior[0]
-    baseline_downloads = baseline.get("downloads", {})
-    monthly = []
-    for game in ranked:
-        previous = int(baseline_downloads.get(game["slug"], game["downloads"]))
-        monthly.append({**game, "downloads": max(0, int(game["downloads"]) - previous)})
-    monthly.sort(key=lambda game: (-game["downloads"], game["title"].casefold()))
-    return monthly, baseline.get("date")
-
-
-def render_block(games: list[dict]) -> str:
+def render_cards(games: list[dict], detail_text) -> str:
     if len(games) < TOP_N:
         raise RuntimeError(
             f"Only {len(games)} unambiguous game releases were found; {TOP_N} are required"
@@ -201,53 +167,61 @@ def render_block(games: list[dict]) -> str:
             title = html.escape(game["title"])
             cover = html.escape(game["cover"], quote=True)
             game_url = html.escape(f"games/{quote(game['slug'])}/", quote=True)
-            downloads = f"{game['downloads']:,}"
             cells.append(
                 "    <td align=\"center\" width=\"20%\">\n"
                 f"      <a href=\"{game_url}\"><img src=\"{cover}\" alt=\"{title} 游戏封面\" width=\"180\"></a><br>\n"
                 f"      <strong>{rank}. {title}</strong><br>\n"
-                f"      <sub><a href=\"{game_url}\">查看详情（{downloads} 次下载）</a></sub>\n"
+                f"      <sub><a href=\"{game_url}\">{html.escape(detail_text(game))}</a></sub>\n"
                 "    </td>"
             )
         rows.append("  <tr>\n" + "\n".join(cells) + "\n  </tr>")
+    return "<table>\n" + "\n".join(rows) + "\n</table>"
+
+
+def render_block(games: list[dict]) -> str:
     return (
         f"{START_MARKER}\n"
         "## 总下载量前十\n\n"
-        "<table>\n"
-        + "\n".join(rows)
+        + render_cards(
+            games,
+            lambda game: f"查看详情（{game['downloads']:,} 次下载）",
+        )
         + "\n"
-        "</table>\n"
         f"{END_MARKER}"
     )
 
 
-def render_month_block(games: list[dict], baseline_date: str | None, today: date) -> str:
-    if baseline_date:
-        body = (
-            f"<p align=\"center\">按 {html.escape(baseline_date)} 至 {today.isoformat()} 的附件下载增量统计；"
-            "快照积累满 30 日后即为完整滚动月榜。</p>\n\n"
-            + render_block(games[:TOP_N])
-            .replace(START_MARKER, "")
-            .replace(END_MARKER, "")
-            .replace("## 总下载量前十\n\n", "")
-            .strip()
-        )
-    else:
-        body = ""
+def render_recent_block(games: list[dict]) -> str:
+    recent = sorted(
+        games,
+        key=lambda game: (game["updated_at"], game["title"].casefold()),
+        reverse=True,
+    )[:TOP_N]
     return (
-        f"{MONTH_START_MARKER}\n"
-        "## 近 30 日下载量前十\n\n"
-        f"{body}\n"
-        f"{MONTH_END_MARKER}"
+        f"{RECENT_START_MARKER}\n"
+        "## 最近更新\n\n"
+        + render_cards(recent, lambda _game: "查看详情")
+        + "\n"
+        f"{RECENT_END_MARKER}"
     )
 
 
-def replace_month_block(readme: str, block: str) -> str:
-    if readme.count(MONTH_START_MARKER) != readme.count(MONTH_END_MARKER):
+def replace_recent_block(readme: str, block: str) -> str:
+    old_start = "<!-- monthly-downloads:start -->"
+    old_end = "<!-- monthly-downloads:end -->"
+    if readme.count(old_start) != readme.count(old_end):
         raise RuntimeError("README contains an incomplete monthly-downloads marker block")
-    if MONTH_START_MARKER in readme:
+    if old_start in readme:
         pattern = re.compile(
-            rf"{re.escape(MONTH_START_MARKER)}.*?{re.escape(MONTH_END_MARKER)}",
+            rf"{re.escape(old_start)}.*?{re.escape(old_end)}",
+            re.DOTALL,
+        )
+        return pattern.sub(block, readme, count=1)
+    if readme.count(RECENT_START_MARKER) != readme.count(RECENT_END_MARKER):
+        raise RuntimeError("README contains an incomplete recent-updates marker block")
+    if RECENT_START_MARKER in readme:
+        pattern = re.compile(
+            rf"{re.escape(RECENT_START_MARKER)}.*?{re.escape(RECENT_END_MARKER)}",
             re.DOTALL,
         )
         return pattern.sub(block, readme, count=1)
@@ -279,13 +253,8 @@ def main() -> int:
     catalog = game_catalog(readme, repository)
     releases = get_releases(repository, token)
     top_games = rank_games(catalog, releases)
-    today = datetime.now(timezone.utc).date()
-    snapshots = update_history(top_games, today)
-    monthly_games, baseline_date = monthly_ranking(top_games, snapshots, today)
     updated = replace_block(readme, render_block(top_games[:TOP_N]))
-    updated = replace_month_block(
-        updated, render_month_block(monthly_games, baseline_date, today)
-    )
+    updated = replace_recent_block(updated, render_recent_block(top_games))
     if updated != readme:
         README_PATH.write_text(updated, encoding="utf-8", newline="\n")
         print("Updated README.md")
@@ -293,11 +262,13 @@ def main() -> int:
         print("README.md is already up to date")
     for rank, game in enumerate(top_games[:TOP_N], start=1):
         print(f"total {rank}. {game['title']}: {game['downloads']} downloads")
-    if baseline_date:
-        for rank, game in enumerate(monthly_games[:TOP_N], start=1):
-            print(f"monthly {rank}. {game['title']}: {game['downloads']} downloads")
-    else:
-        print("monthly ranking: waiting for a second daily snapshot")
+    recent_games = sorted(
+        top_games,
+        key=lambda game: (game["updated_at"], game["title"].casefold()),
+        reverse=True,
+    )[:TOP_N]
+    for rank, game in enumerate(recent_games, start=1):
+        print(f"recent {rank}. {game['title']}: {game['updated_at']}")
     return 0
 
 

@@ -75,68 +75,66 @@
 </table>
 <!-- top-downloads:end -->
 
-<!-- monthly-downloads:start -->
-## 近 30 日下载量前十
-
-<p align="center">按 2026-08-27 至 2026-08-29 的附件下载增量统计；快照积累满 30 日后即为完整滚动月榜。</p>
+<!-- recent-updates:start -->
+## 最近更新
 
 <table>
   <tr>
     <td align="center" width="20%">
-      <a href="games/The-Skin-Stapler/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4310610/5147848411ce0dfd06d88513572a98e334a3fd74/header.jpg?t=1786367666" alt="The Skin Stapler（缝皮杀手） 游戏封面" width="180"></a><br>
-      <strong>1. The Skin Stapler（缝皮杀手）</strong><br>
-      <sub><a href="games/The-Skin-Stapler/">查看详情（2 次下载）</a></sub>
+      <a href="games/The-Cabin-Game/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4406280/d3cad021841c8731a0da86e0a0b1321df341cfd0/header.jpg?t=1787842454" alt="the cabin game 游戏封面" width="180"></a><br>
+      <strong>1. the cabin game</strong><br>
+      <sub><a href="games/The-Cabin-Game/">查看详情</a></sub>
     </td>
     <td align="center" width="20%">
-      <a href="games/Agent-64-Spies-Never-Die/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1574480/f281ff155778294664365fbcedc884319ed172fd/header.jpg?t=1786538539" alt="Agent 64: Spies Never Die 游戏封面" width="180"></a><br>
-      <strong>2. Agent 64: Spies Never Die</strong><br>
-      <sub><a href="games/Agent-64-Spies-Never-Die/">查看详情（1 次下载）</a></sub>
+      <a href="games/CULTIC/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1684930/84bebc2b3ecb36d4ec0ad3aea5126bc0666a9029/header.jpg?t=1786717270" alt="CULTIC 游戏封面" width="180"></a><br>
+      <strong>2. CULTIC</strong><br>
+      <sub><a href="games/CULTIC/">查看详情</a></sub>
     </td>
     <td align="center" width="20%">
-      <a href="games/Endacopia/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2684630/8b5af90a03ce4cc33653c50a998387e3e9082103/header.jpg?t=1786381683" alt="Endacopia 游戏封面" width="180"></a><br>
-      <strong>3. Endacopia</strong><br>
-      <sub><a href="games/Endacopia/">查看详情（1 次下载）</a></sub>
+      <a href="games/The-Cattle/"><img src="https://img.itch.zone/aW1nLzI4NDQ0OTQ1LmpwZw==/original/M9OXtw.jpg" alt="The Cattle 游戏封面" width="180"></a><br>
+      <strong>3. The Cattle</strong><br>
+      <sub><a href="games/The-Cattle/">查看详情</a></sub>
     </td>
     <td align="center" width="20%">
-      <a href="games/Movie-Theater/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3659180/f4ab4b2ea9b06e55830c36488f167aee251e6723/header.jpg?t=1747419233" alt="Movie Theater 游戏封面" width="180"></a><br>
-      <strong>4. Movie Theater</strong><br>
-      <sub><a href="games/Movie-Theater/">查看详情（1 次下载）</a></sub>
+      <a href="games/The-Hust-Banhmi-Banh-Mi-Bach-Khoa/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4530780/571abfcdc7ba7299c7c7187fc88a4245fb7b49ce/header.jpg?t=1784971789" alt="The Hust Banhmi（Bánh Mì Bách Khoa） 游戏封面" width="180"></a><br>
+      <strong>4. The Hust Banhmi（Bánh Mì Bách Khoa）</strong><br>
+      <sub><a href="games/The-Hust-Banhmi-Banh-Mi-Bach-Khoa/">查看详情</a></sub>
     </td>
     <td align="center" width="20%">
-      <a href="games/Unusual-Tales-After-Bark/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4516880/1a00f0306b6506b19b27984a971f266af2e3f6c5/header.jpg?t=1786737888" alt="Unusual Tales: After Bark 游戏封面" width="180"></a><br>
-      <strong>5. Unusual Tales: After Bark</strong><br>
-      <sub><a href="games/Unusual-Tales-After-Bark/">查看详情（1 次下载）</a></sub>
+      <a href="games/Project-Threshold/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4820610/97356f4c7af2ed7b21ffb01e76adf400daa98088/header.jpg?t=1785542366" alt="Project Threshold 游戏封面" width="180"></a><br>
+      <strong>5. Project Threshold</strong><br>
+      <sub><a href="games/Project-Threshold/">查看详情</a></sub>
     </td>
   </tr>
   <tr>
     <td align="center" width="20%">
-      <a href="games/9-Childs-Street/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1895890/header.jpg?t=1709150172" alt="---|---|---|---|---| 游戏封面" width="180"></a><br>
-      <strong>6. ---|---|---|---|---|</strong><br>
-      <sub><a href="games/9-Childs-Street/">查看详情（0 次下载）</a></sub>
+      <a href="games/Barking-from-the-Dark/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4398770/e343338b3fd4b2e9a2e4481a9979530ed78f78a2/header.jpg?t=1776873915" alt="Barking from the Dark 游戏封面" width="180"></a><br>
+      <strong>6. Barking from the Dark</strong><br>
+      <sub><a href="games/Barking-from-the-Dark/">查看详情</a></sub>
     </td>
     <td align="center" width="20%">
-      <a href="games/Nightmare-Files-Clap-Clap/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2933290/header.jpg?t=1765139513" alt="[Nightmare Files] Clap Clap 游戏封面" width="180"></a><br>
-      <strong>7. [Nightmare Files] Clap Clap</strong><br>
-      <sub><a href="games/Nightmare-Files-Clap-Clap/">查看详情（0 次下载）</a></sub>
+      <a href="games/Within-of-Static-Northgate-Mall/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4319350/8dc264af01ae86bc5ff655dd4074c875d53edc6d/header.jpg?t=1772047421" alt="Within of Static - Northgate Mall 游戏封面" width="180"></a><br>
+      <strong>7. Within of Static - Northgate Mall</strong><br>
+      <sub><a href="games/Within-of-Static-Northgate-Mall/">查看详情</a></sub>
     </td>
     <td align="center" width="20%">
-      <a href="games/Stories-to-Tell-The-Stoneville-Incident/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4835250/e5cf0b0a8ef24ccdab5946fd628169db435f9a66/header.jpg?t=1784048465" alt="[Stories to Tell] The Stoneville Incident 游戏封面" width="180"></a><br>
-      <strong>8. [Stories to Tell] The Stoneville Incident</strong><br>
-      <sub><a href="games/Stories-to-Tell-The-Stoneville-Incident/">查看详情（0 次下载）</a></sub>
+      <a href="games/Midnight-Scenes-Among-Graves/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4113480/9a106cab0e21b741df9efd2487a30719541f54a7/header.jpg?t=1774953982" alt="Midnight Scenes: Among Graves 游戏封面" width="180"></a><br>
+      <strong>8. Midnight Scenes: Among Graves</strong><br>
+      <sub><a href="games/Midnight-Scenes-Among-Graves/">查看详情</a></sub>
     </td>
     <td align="center" width="20%">
-      <a href="games/ADACA/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1765780/header.jpg?t=1742945757" alt="ADACA 游戏封面" width="180"></a><br>
-      <strong>9. ADACA</strong><br>
-      <sub><a href="games/ADACA/">查看详情（0 次下载）</a></sub>
+      <a href="games/Living-Dead-Outbreak/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4278170/c647fca993e4b7ec3bc84e596cc284ccaad5d4e0/header.jpg?t=1781710600" alt="Living Dead Outbreak 游戏封面" width="180"></a><br>
+      <strong>9. Living Dead Outbreak</strong><br>
+      <sub><a href="games/Living-Dead-Outbreak/">查看详情</a></sub>
     </td>
     <td align="center" width="20%">
-      <a href="games/Anemoiapolis-Chapter-1/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1522960/header.jpg?t=1692473356" alt="Anemoiapolis: Chapter 1 游戏封面" width="180"></a><br>
-      <strong>10. Anemoiapolis: Chapter 1</strong><br>
-      <sub><a href="games/Anemoiapolis-Chapter-1/">查看详情（0 次下载）</a></sub>
+      <a href="games/She-s-Leaving/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3062610/beaebc3ff3819ab67685da82777e16019247af1e/header.jpg?t=1773665930" alt="She&#x27;s Leaving 游戏封面" width="180"></a><br>
+      <strong>10. She&#x27;s Leaving</strong><br>
+      <sub><a href="games/She-s-Leaving/">查看详情</a></sub>
     </td>
   </tr>
 </table>
-<!-- monthly-downloads:end -->
+<!-- recent-updates:end -->
 
 ## 下载 [![GitHub Release 总下载量](https://img.shields.io/github/downloads/Linbin-Lai/5050-hanhua/total?style=flat-square&label=总下载量&color=2ea44f)](https://github.com/Linbin-Lai/5050-hanhua/releases)
 
