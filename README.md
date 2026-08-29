@@ -22,7 +22,7 @@
     <td align="center" width="20%">
       <a href="games/Endacopia/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2684630/8b5af90a03ce4cc33653c50a998387e3e9082103/header.jpg?t=1786381683" alt="Endacopia 游戏封面" width="180"></a><br>
       <strong>1. Endacopia</strong><br>
-      <sub><a href="games/Endacopia/">查看详情（116 次下载）</a></sub>
+      <sub><a href="games/Endacopia/">查看详情（117 次下载）</a></sub>
     </td>
     <td align="center" width="20%">
       <a href="games/Fallen-Leaf/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1459010/header.jpg?t=1732677410" alt="Fallen Leaf 游戏封面" width="180"></a><br>
@@ -47,14 +47,14 @@
   </tr>
   <tr>
     <td align="center" width="20%">
-      <a href="games/The-Skin-Stapler/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4310610/5147848411ce0dfd06d88513572a98e334a3fd74/header.jpg?t=1786367666" alt="The Skin Stapler（缝皮杀手） 游戏封面" width="180"></a><br>
-      <strong>6. The Skin Stapler（缝皮杀手）</strong><br>
-      <sub><a href="games/The-Skin-Stapler/">查看详情（4 次下载）</a></sub>
+      <a href="games/Movie-Theater/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3659180/f4ab4b2ea9b06e55830c36488f167aee251e6723/header.jpg?t=1747419233" alt="Movie Theater 游戏封面" width="180"></a><br>
+      <strong>6. Movie Theater</strong><br>
+      <sub><a href="games/Movie-Theater/">查看详情（4 次下载）</a></sub>
     </td>
     <td align="center" width="20%">
-      <a href="games/Movie-Theater/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3659180/f4ab4b2ea9b06e55830c36488f167aee251e6723/header.jpg?t=1747419233" alt="Movie Theater 游戏封面" width="180"></a><br>
-      <strong>7. Movie Theater</strong><br>
-      <sub><a href="games/Movie-Theater/">查看详情（3 次下载）</a></sub>
+      <a href="games/The-Skin-Stapler/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4310610/5147848411ce0dfd06d88513572a98e334a3fd74/header.jpg?t=1786367666" alt="The Skin Stapler（缝皮杀手） 游戏封面" width="180"></a><br>
+      <strong>7. The Skin Stapler（缝皮杀手）</strong><br>
+      <sub><a href="games/The-Skin-Stapler/">查看详情（4 次下载）</a></sub>
     </td>
     <td align="center" width="20%">
       <a href="games/OKUGAFUCHI/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3232860/0e24bc880f8dd40244ac05bc1ea41732caa16538/header.jpg?t=1786100115" alt="OKUGAFUCHI 游戏封面" width="180"></a><br>
@@ -78,7 +78,7 @@
 <!-- monthly-downloads:start -->
 ## 近 30 日下载量前十
 
-<p align="center">按 2026-08-27 至 2026-08-28 的附件下载增量统计；快照积累满 30 日后即为完整滚动月榜。</p>
+<p align="center">按 2026-08-27 至 2026-08-29 的附件下载增量统计；快照积累满 30 日后即为完整滚动月榜。</p>
 
 <table>
   <tr>
@@ -93,46 +93,46 @@
       <sub><a href="games/Agent-64-Spies-Never-Die/">查看详情（1 次下载）</a></sub>
     </td>
     <td align="center" width="20%">
+      <a href="games/Endacopia/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2684630/8b5af90a03ce4cc33653c50a998387e3e9082103/header.jpg?t=1786381683" alt="Endacopia 游戏封面" width="180"></a><br>
+      <strong>3. Endacopia</strong><br>
+      <sub><a href="games/Endacopia/">查看详情（1 次下载）</a></sub>
+    </td>
+    <td align="center" width="20%">
+      <a href="games/Movie-Theater/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3659180/f4ab4b2ea9b06e55830c36488f167aee251e6723/header.jpg?t=1747419233" alt="Movie Theater 游戏封面" width="180"></a><br>
+      <strong>4. Movie Theater</strong><br>
+      <sub><a href="games/Movie-Theater/">查看详情（1 次下载）</a></sub>
+    </td>
+    <td align="center" width="20%">
       <a href="games/Unusual-Tales-After-Bark/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4516880/1a00f0306b6506b19b27984a971f266af2e3f6c5/header.jpg?t=1786737888" alt="Unusual Tales: After Bark 游戏封面" width="180"></a><br>
-      <strong>3. Unusual Tales: After Bark</strong><br>
+      <strong>5. Unusual Tales: After Bark</strong><br>
       <sub><a href="games/Unusual-Tales-After-Bark/">查看详情（1 次下载）</a></sub>
-    </td>
-    <td align="center" width="20%">
-      <a href="games/9-Childs-Street/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1895890/header.jpg?t=1709150172" alt="---|---|---|---|---| 游戏封面" width="180"></a><br>
-      <strong>4. ---|---|---|---|---|</strong><br>
-      <sub><a href="games/9-Childs-Street/">查看详情（0 次下载）</a></sub>
-    </td>
-    <td align="center" width="20%">
-      <a href="games/Nightmare-Files-Clap-Clap/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2933290/header.jpg?t=1765139513" alt="[Nightmare Files] Clap Clap 游戏封面" width="180"></a><br>
-      <strong>5. [Nightmare Files] Clap Clap</strong><br>
-      <sub><a href="games/Nightmare-Files-Clap-Clap/">查看详情（0 次下载）</a></sub>
     </td>
   </tr>
   <tr>
     <td align="center" width="20%">
+      <a href="games/9-Childs-Street/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1895890/header.jpg?t=1709150172" alt="---|---|---|---|---| 游戏封面" width="180"></a><br>
+      <strong>6. ---|---|---|---|---|</strong><br>
+      <sub><a href="games/9-Childs-Street/">查看详情（0 次下载）</a></sub>
+    </td>
+    <td align="center" width="20%">
+      <a href="games/Nightmare-Files-Clap-Clap/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2933290/header.jpg?t=1765139513" alt="[Nightmare Files] Clap Clap 游戏封面" width="180"></a><br>
+      <strong>7. [Nightmare Files] Clap Clap</strong><br>
+      <sub><a href="games/Nightmare-Files-Clap-Clap/">查看详情（0 次下载）</a></sub>
+    </td>
+    <td align="center" width="20%">
       <a href="games/Stories-to-Tell-The-Stoneville-Incident/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4835250/e5cf0b0a8ef24ccdab5946fd628169db435f9a66/header.jpg?t=1784048465" alt="[Stories to Tell] The Stoneville Incident 游戏封面" width="180"></a><br>
-      <strong>6. [Stories to Tell] The Stoneville Incident</strong><br>
+      <strong>8. [Stories to Tell] The Stoneville Incident</strong><br>
       <sub><a href="games/Stories-to-Tell-The-Stoneville-Incident/">查看详情（0 次下载）</a></sub>
     </td>
     <td align="center" width="20%">
       <a href="games/ADACA/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1765780/header.jpg?t=1742945757" alt="ADACA 游戏封面" width="180"></a><br>
-      <strong>7. ADACA</strong><br>
+      <strong>9. ADACA</strong><br>
       <sub><a href="games/ADACA/">查看详情（0 次下载）</a></sub>
     </td>
     <td align="center" width="20%">
       <a href="games/Anemoiapolis-Chapter-1/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1522960/header.jpg?t=1692473356" alt="Anemoiapolis: Chapter 1 游戏封面" width="180"></a><br>
-      <strong>8. Anemoiapolis: Chapter 1</strong><br>
+      <strong>10. Anemoiapolis: Chapter 1</strong><br>
       <sub><a href="games/Anemoiapolis-Chapter-1/">查看详情（0 次下载）</a></sub>
-    </td>
-    <td align="center" width="20%">
-      <a href="games/Baby-Blues-Nightmares-Toddler-Horror-Game/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2836820/header.jpg?t=1756561926" alt="Baby Blues Nightmares - Toddler Horror Game 游戏封面" width="180"></a><br>
-      <strong>9. Baby Blues Nightmares - Toddler Horror Game</strong><br>
-      <sub><a href="games/Baby-Blues-Nightmares-Toddler-Horror-Game/">查看详情（0 次下载）</a></sub>
-    </td>
-    <td align="center" width="20%">
-      <a href="games/Back-Then/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1573860/header.jpg?t=1783559811" alt="Back Then 游戏封面" width="180"></a><br>
-      <strong>10. Back Then</strong><br>
-      <sub><a href="games/Back-Then/">查看详情（0 次下载）</a></sub>
     </td>
   </tr>
 </table>
