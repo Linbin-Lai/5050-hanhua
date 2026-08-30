@@ -252,6 +252,7 @@
 | The Dark Mind | 月见鸟 | 已发布 | Unreal PAK 覆盖 | [查看](games/The-Dark-Mind/) |
 | The Hust Banhmi（Bánh Mì Bách Khoa） | qsefthuopq | 已收录（外部网盘） | 历史汉化补丁（网盘分发） | [查看](games/The-Hust-Banhmi-Banh-Mi-Bach-Khoa/) |
 | The Lacerator | 月见鸟 | 已发布 | Unreal PAK 覆盖 | [查看](games/The-Lacerator/) |
+| The Last Letter | 月见鸟 | 已发布 | Unreal PAK 覆盖 | [查看](games/The-Last-Letter/) |
 | The Lightkeeper | 月见鸟 | 已发布 | Unreal PAK 覆盖 | [查看](games/The-Lightkeeper/) |
 | The Long Drive | 月见鸟 | 已发布 | 原生语言文本 | [查看](games/The-Long-Drive/) |
 | The New Flesh | qsefthuopq | 已收录（外部网盘） | 历史汉化补丁（网盘分发） | [查看](games/The-New-Flesh/) |
