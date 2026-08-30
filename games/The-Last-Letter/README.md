@@ -15,7 +15,7 @@
 - **适用版本：** Steam AppID 4508710，制作时的 Windows 正式版
 - **游戏引擎：** Unreal Engine
 - **补丁技术：** Unreal PAK 高优先级覆盖
-- **Release 文件：** `The Last Letter汉化.7z`
+- **Release 文件：** `The.Last.Letter.7z`
 - **文件大小：** 177,509 字节
 - **SHA-256：** `D6263C8A4902AE8B1853B5E9C7BC00033FEEFDCE3589D59AE2DE10EECE185E63`
 - **压缩包文件数量：** 2
