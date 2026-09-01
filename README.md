@@ -22,12 +22,12 @@
     <td align="center" width="20%">
       <a href="games/Endacopia/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2684630/8b5af90a03ce4cc33653c50a998387e3e9082103/header.jpg?t=1786381683" alt="Endacopia 游戏封面" width="180"></a><br>
       <strong>1. Endacopia</strong><br>
-      <sub><a href="games/Endacopia/">查看详情（120 次下载）</a></sub>
+      <sub><a href="games/Endacopia/">查看详情（121 次下载）</a></sub>
     </td>
     <td align="center" width="20%">
       <a href="games/Unusual-Tales-After-Bark/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4516880/1a00f0306b6506b19b27984a971f266af2e3f6c5/header.jpg?t=1786737888" alt="Unusual Tales: After Bark 游戏封面" width="180"></a><br>
       <strong>2. Unusual Tales: After Bark</strong><br>
-      <sub><a href="games/Unusual-Tales-After-Bark/">查看详情（10 次下载）</a></sub>
+      <sub><a href="games/Unusual-Tales-After-Bark/">查看详情（14 次下载）</a></sub>
     </td>
     <td align="center" width="20%">
       <a href="games/Agent-64-Spies-Never-Die/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1574480/f281ff155778294664365fbcedc884319ed172fd/header.jpg?t=1786538539" alt="Agent 64: Spies Never Die 游戏封面" width="180"></a><br>
@@ -35,14 +35,14 @@
       <sub><a href="games/Agent-64-Spies-Never-Die/">查看详情（8 次下载）</a></sub>
     </td>
     <td align="center" width="20%">
-      <a href="games/Fallen-Leaf/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1459010/header.jpg?t=1732677410" alt="Fallen Leaf 游戏封面" width="180"></a><br>
-      <strong>4. Fallen Leaf</strong><br>
-      <sub><a href="games/Fallen-Leaf/">查看详情（8 次下载）</a></sub>
+      <a href="games/CULTIC/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1684930/84bebc2b3ecb36d4ec0ad3aea5126bc0666a9029/header.jpg?t=1786717270" alt="CULTIC 游戏封面" width="180"></a><br>
+      <strong>4. CULTIC</strong><br>
+      <sub><a href="games/CULTIC/">查看详情（8 次下载）</a></sub>
     </td>
     <td align="center" width="20%">
-      <a href="games/CULTIC/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1684930/84bebc2b3ecb36d4ec0ad3aea5126bc0666a9029/header.jpg?t=1786717270" alt="CULTIC 游戏封面" width="180"></a><br>
-      <strong>5. CULTIC</strong><br>
-      <sub><a href="games/CULTIC/">查看详情（6 次下载）</a></sub>
+      <a href="games/Fallen-Leaf/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1459010/header.jpg?t=1732677410" alt="Fallen Leaf 游戏封面" width="180"></a><br>
+      <strong>5. Fallen Leaf</strong><br>
+      <sub><a href="games/Fallen-Leaf/">查看详情（8 次下载）</a></sub>
     </td>
   </tr>
   <tr>
