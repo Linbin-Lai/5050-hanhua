@@ -15,7 +15,7 @@
 - **适用版本：** Steam AppID 4154100，BuildID 23326036（2026-09-01 静态基线）
 - **游戏引擎：** TyranoScript Ver5 / Electron
 - **补丁技术：** 剧本、系统文字与文字图片松散资源覆盖
-- **Release 文件：** `怪异番号~20××~_简体中文覆盖包.zip`
+- **Release 文件：** `Kaibango-20XX-Simplified-Chinese.zip`
 - **文件大小：** 11,301,011 字节
 - **SHA-256：** `771D4110445D5076DC6138FC9CF463F9B83993499FE84E97A7120730B5C7B942`
 - **压缩包文件数量：** 181
