@@ -273,6 +273,7 @@
 | 国際指定怪異123号 廃村 | qsefthuopq | 已收录（外部网盘） | 历史汉化补丁（网盘分发） | [查看](games/International-Stipulated-Weirdness-123/) |
 | 国際指定怪異124号 東京廃村 | qsefthuopq | 已收录（外部网盘） | 历史汉化补丁（网盘分发） | [查看](games/International-Stipulated-Weirdness-124/) |
 | 島津怪談01：クビトリドオルズ・レトリーバー | qsefthuopq | 已收录（外部网盘） | 历史汉化补丁（网盘分发） | [查看](games/Shimazu-Kaidan-01-Kubitori-Dolls-Retriever/) |
+| 怪異番号~20✕✕(ニーマルバツバツ)~ | Cokepoetry | 已发布 | TyranoScript / Electron 松散资源覆盖 | [查看](games/Kaibango-20XX/) |
 | 鳴蟇村（NARIBIKIMURA） | Cokepoetry | 已发布 | Unreal IoStore 覆盖容器（含 120 FPS 修改） | [查看](games/NARIBIKIMURA/) |
 
 
