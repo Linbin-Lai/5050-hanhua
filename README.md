@@ -67,9 +67,9 @@
       <sub><a href="games/Pih-2/">查看详情（2 次下载）</a></sub>
     </td>
     <td align="center" width="20%">
-      <a href="games/GULLET/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3100790/header.jpg?t=1739902770" alt="GULLET 游戏封面" width="180"></a><br>
-      <strong>10. GULLET</strong><br>
-      <sub><a href="games/GULLET/">查看详情（1 次下载）</a></sub>
+      <a href="games/Can-I-Come-In/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4969200/ced187a5a2f19e9e690b8cd3d0f336382b2a1f3d/header.jpg?t=1787862205" alt="Can I Come In? 游戏封面" width="180"></a><br>
+      <strong>10. Can I Come In?</strong><br>
+      <sub><a href="games/Can-I-Come-In/">查看详情（1 次下载）</a></sub>
     </td>
   </tr>
 </table>
