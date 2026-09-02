@@ -171,6 +171,7 @@
 | Brother Hai's Pho Restaurant | 月见鸟 & qsefthuopq | 已发布 | Godot 资源替换 | [查看](games/Brother-Hais-Pho-Restaurant/) |
 | Burger Bots Inc | Cokepoetry | 已发布 | BepInEx + 资源补丁 | [查看](games/Burger-Bots-Inc/) |
 | Butcher's Creek | qsefthuopq | 已收录（外部网盘） | 历史汉化补丁（网盘分发） | [查看](games/Butcher-s-Creek/) |
+| Can I Come In? | 月见鸟 | 已发布 | Unreal PAK / IoStore 覆盖容器 | [查看](games/Can-I-Come-In/) |
 | CashGrab Refunded | Cokepoetry | 已发布 | BepInEx 离线汉化 | [查看](games/CashGrab-Refunded/) |
 | Christmas Mutilator | qsefthuopq | 已收录（外部网盘） | 历史汉化补丁（网盘分发） | [查看](games/Christmas-Mutilator/) |
 | Clown Is Hungry | 月见鸟 & qsefthuopq | 已发布 | Unity BepInEx 汉化 | [查看](games/Clown-Is-Hungry/) |
