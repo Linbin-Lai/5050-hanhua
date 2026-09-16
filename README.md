@@ -22,22 +22,22 @@
     <td align="center" width="20%">
       <a href="games/Endacopia/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2684630/8b5af90a03ce4cc33653c50a998387e3e9082103/header.jpg?t=1786381683" alt="Endacopia 游戏封面" width="180"></a><br>
       <strong>1. Endacopia</strong><br>
-      <sub><a href="games/Endacopia/">查看详情（121 次下载）</a></sub>
+      <sub><a href="games/Endacopia/">查看详情（129 次下载）</a></sub>
     </td>
     <td align="center" width="20%">
       <a href="games/Unusual-Tales-After-Bark/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4516880/1a00f0306b6506b19b27984a971f266af2e3f6c5/header.jpg?t=1786737888" alt="Unusual Tales: After Bark 游戏封面" width="180"></a><br>
       <strong>2. Unusual Tales: After Bark</strong><br>
-      <sub><a href="games/Unusual-Tales-After-Bark/">查看详情（14 次下载）</a></sub>
+      <sub><a href="games/Unusual-Tales-After-Bark/">查看详情（15 次下载）</a></sub>
     </td>
     <td align="center" width="20%">
       <a href="games/Agent-64-Spies-Never-Die/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1574480/f281ff155778294664365fbcedc884319ed172fd/header.jpg?t=1786538539" alt="Agent 64: Spies Never Die 游戏封面" width="180"></a><br>
       <strong>3. Agent 64: Spies Never Die</strong><br>
-      <sub><a href="games/Agent-64-Spies-Never-Die/">查看详情（8 次下载）</a></sub>
+      <sub><a href="games/Agent-64-Spies-Never-Die/">查看详情（9 次下载）</a></sub>
     </td>
     <td align="center" width="20%">
       <a href="games/CULTIC/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1684930/84bebc2b3ecb36d4ec0ad3aea5126bc0666a9029/header.jpg?t=1786717270" alt="CULTIC 游戏封面" width="180"></a><br>
       <strong>4. CULTIC</strong><br>
-      <sub><a href="games/CULTIC/">查看详情（8 次下载）</a></sub>
+      <sub><a href="games/CULTIC/">查看详情（9 次下载）</a></sub>
     </td>
     <td align="center" width="20%">
       <a href="games/Fallen-Leaf/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1459010/header.jpg?t=1732677410" alt="Fallen Leaf 游戏封面" width="180"></a><br>
@@ -47,14 +47,14 @@
   </tr>
   <tr>
     <td align="center" width="20%">
-      <a href="games/Movie-Theater/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3659180/f4ab4b2ea9b06e55830c36488f167aee251e6723/header.jpg?t=1747419233" alt="Movie Theater 游戏封面" width="180"></a><br>
-      <strong>6. Movie Theater</strong><br>
-      <sub><a href="games/Movie-Theater/">查看详情（4 次下载）</a></sub>
+      <a href="games/The-Skin-Stapler/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4310610/5147848411ce0dfd06d88513572a98e334a3fd74/header.jpg?t=1786367666" alt="The Skin Stapler（缝皮杀手） 游戏封面" width="180"></a><br>
+      <strong>6. The Skin Stapler（缝皮杀手）</strong><br>
+      <sub><a href="games/The-Skin-Stapler/">查看详情（5 次下载）</a></sub>
     </td>
     <td align="center" width="20%">
-      <a href="games/The-Skin-Stapler/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4310610/5147848411ce0dfd06d88513572a98e334a3fd74/header.jpg?t=1786367666" alt="The Skin Stapler（缝皮杀手） 游戏封面" width="180"></a><br>
-      <strong>7. The Skin Stapler（缝皮杀手）</strong><br>
-      <sub><a href="games/The-Skin-Stapler/">查看详情（4 次下载）</a></sub>
+      <a href="games/Movie-Theater/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3659180/f4ab4b2ea9b06e55830c36488f167aee251e6723/header.jpg?t=1747419233" alt="Movie Theater 游戏封面" width="180"></a><br>
+      <strong>7. Movie Theater</strong><br>
+      <sub><a href="games/Movie-Theater/">查看详情（4 次下载）</a></sub>
     </td>
     <td align="center" width="20%">
       <a href="games/OKUGAFUCHI/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3232860/0e24bc880f8dd40244ac05bc1ea41732caa16538/header.jpg?t=1786100115" alt="OKUGAFUCHI 游戏封面" width="180"></a><br>
@@ -62,14 +62,14 @@
       <sub><a href="games/OKUGAFUCHI/">查看详情（3 次下载）</a></sub>
     </td>
     <td align="center" width="20%">
-      <a href="games/Pih-2/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4547970/707dd5291fd506ef4d3775a25cab19b19435b5a2/header.jpg?t=1785873328" alt="Pih 2 游戏封面" width="180"></a><br>
-      <strong>9. Pih 2</strong><br>
-      <sub><a href="games/Pih-2/">查看详情（2 次下载）</a></sub>
+      <a href="games/Deep-Sleep-Trilogy/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1146510/header.jpg?t=1726580656" alt="Deep Sleep Trilogy 游戏封面" width="180"></a><br>
+      <strong>9. Deep Sleep Trilogy</strong><br>
+      <sub><a href="games/Deep-Sleep-Trilogy/">查看详情（2 次下载）</a></sub>
     </td>
     <td align="center" width="20%">
-      <a href="games/Can-I-Come-In/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4969200/ced187a5a2f19e9e690b8cd3d0f336382b2a1f3d/header.jpg?t=1787862205" alt="Can I Come In? 游戏封面" width="180"></a><br>
-      <strong>10. Can I Come In?</strong><br>
-      <sub><a href="games/Can-I-Come-In/">查看详情（1 次下载）</a></sub>
+      <a href="games/Pih-2/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4547970/707dd5291fd506ef4d3775a25cab19b19435b5a2/header.jpg?t=1785873328" alt="Pih 2 游戏封面" width="180"></a><br>
+      <strong>10. Pih 2</strong><br>
+      <sub><a href="games/Pih-2/">查看详情（2 次下载）</a></sub>
     </td>
   </tr>
 </table>
@@ -81,24 +81,24 @@
 <table>
   <tr>
     <td align="center" width="20%">
+      <a href="games/The-Cabin-Game/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4406280/d3cad021841c8731a0da86e0a0b1321df341cfd0/header.jpg?t=1787842454" alt="the cabin game 游戏封面" width="180"></a><br>
+      <strong>1. the cabin game</strong><br>
+      <sub><a href="games/The-Cabin-Game/">查看详情</a></sub>
+    </td>
+    <td align="center" width="20%">
       <a href="games/Can-I-Come-In/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4969200/ced187a5a2f19e9e690b8cd3d0f336382b2a1f3d/header.jpg?t=1787862205" alt="Can I Come In? 游戏封面" width="180"></a><br>
-      <strong>1. Can I Come In?</strong><br>
+      <strong>2. Can I Come In?</strong><br>
       <sub><a href="games/Can-I-Come-In/">查看详情</a></sub>
     </td>
     <td align="center" width="20%">
       <a href="games/Kaibango-20XX/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4154100/145c515115a6b554c9e350cab18f22cc9d92101d/header.jpg?t=1775744484" alt="怪異番号~20✕✕(ニーマルバツバツ)~ 游戏封面" width="180"></a><br>
-      <strong>2. 怪異番号~20✕✕(ニーマルバツバツ)~</strong><br>
+      <strong>3. 怪異番号~20✕✕(ニーマルバツバツ)~</strong><br>
       <sub><a href="games/Kaibango-20XX/">查看详情</a></sub>
     </td>
     <td align="center" width="20%">
       <a href="games/The-Last-Letter/"><img src="https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4508710/f34472f838adc1f0c5f909f98835d5c07e6bcad9/header.jpg?t=1776955886" alt="The Last Letter 游戏封面" width="180"></a><br>
-      <strong>3. The Last Letter</strong><br>
+      <strong>4. The Last Letter</strong><br>
       <sub><a href="games/The-Last-Letter/">查看详情</a></sub>
-    </td>
-    <td align="center" width="20%">
-      <a href="games/The-Cabin-Game/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4406280/d3cad021841c8731a0da86e0a0b1321df341cfd0/header.jpg?t=1787842454" alt="the cabin game 游戏封面" width="180"></a><br>
-      <strong>4. the cabin game</strong><br>
-      <sub><a href="games/The-Cabin-Game/">查看详情</a></sub>
     </td>
     <td align="center" width="20%">
       <a href="games/CULTIC/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1684930/84bebc2b3ecb36d4ec0ad3aea5126bc0666a9029/header.jpg?t=1786717270" alt="CULTIC 游戏封面" width="180"></a><br>
