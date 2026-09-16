@@ -1,12 +1,14 @@
 name: Update top downloads
 
 on:
+  schedule:
+    - cron: "17 * * * *"
   push:
     branches: [main]
     paths:
       - "games/**/README.md"
   release:
-    types: [published, released, edited]
+    types: [published, edited]
   workflow_dispatch:
 
 permissions:
