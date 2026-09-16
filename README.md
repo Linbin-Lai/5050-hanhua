@@ -192,6 +192,7 @@
 | Flesh Made Fear | 月见鸟 | 已发布 | Unreal IoStore 覆盖容器 | [查看](games/Flesh-Made-Fear/) |
 | Forbidden Solitaire | 月见鸟 & qsefthuopq | 已发布 | 文本、字体与脚本资源 | [查看](games/Forbidden-Solitaire/) |
 | Forest Asylum 2 | 月见鸟 | 已发布 | Unreal PAK 覆盖 | [查看](games/Forest-Asylum-2/) |
+| Frostrail | 月见鸟 | 已发布（Playtest） | Unreal PAK / IoStore 覆盖容器 | [查看](games/Frostrail/) |
 | FrogLegs | Cokepoetry | 已发布 | Unreal IoStore 覆盖容器 | [查看](games/FrogLegs/) |
 | Funnel Runners | Cokepoetry | 已发布 | Unreal IoStore 覆盖容器 | [查看](games/Funnel-Runners/) |
 | GULLET | 月见鸟（GitHub: kurikomoe） | 已发布 | Godot PCK 替换 | [查看](games/GULLET/) |
@@ -268,6 +269,7 @@
 | Unusual Tales: After Bark | Cokepoetry | 已发布 | Unity 静态资源与本地化表替换 | [查看](games/Unusual-Tales-After-Bark/) |
 | Victor's Test Night: REVES | qsefthuopq | 已收录（外部网盘） | 历史汉化补丁（网盘分发） | [查看](games/Victor-s-Test-Night-REVES/) |
 | White Knuckle | qsefthuopq | 已发布 | Unity BepInEx 汉化 | [查看](games/White-Knuckle/) |
+| Withering Realms | qsefthuopq | 已发布（v0.8；后续汉化） | Unity 资源与 Addressables Bundle 覆盖 | [查看](games/Withering-Realms/) |
 | Within of Static - Northgate Mall | qsefthuopq | 已收录（外部网盘） | 历史汉化补丁（网盘分发） | [查看](games/Within-of-Static-Northgate-Mall/) |
 | Wretched Depths | qsefthuopq | 已收录（外部网盘） | 历史汉化补丁（网盘分发） | [查看](games/Wretched-Depths/) |
 | デテイケ -GetOut- | Cokepoetry | 已发布 | Unreal IoStore 覆盖容器 | [查看](games/GetOut/) |
