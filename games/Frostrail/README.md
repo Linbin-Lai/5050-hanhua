@@ -3,7 +3,7 @@
 <!-- game-cover:start -->
 <p align="center">
   <a href="https://store.steampowered.com/app/3517740/Frostrail/">
-    <img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3517740/header.jpg" alt="Frostrail 游戏封面" width="460">
+    <img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3517740/24567900b45648a5b962cabf9898258b1c1d50ba/header.jpg?t=1788856599" alt="Frostrail 游戏封面" width="460">
   </a>
 </p>
 <!-- game-cover:end -->
