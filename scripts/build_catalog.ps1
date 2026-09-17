@@ -20,6 +20,7 @@ $projects = [ordered]@{
     'GetOut_简体中文覆盖包.zip'                             = @('GetOut', 'デテイケ -GetOut-', 'Unreal Engine 5.3', 'published')
     'Hell of a Birthday_简体中文覆盖包.zip'                 = @('Hell-of-a-Birthday', 'Hell of a Birthday', 'Unity 2022.3.20f1 Mono', 'published')
     'Jeffrey Eggstein_简体中文覆盖包.zip'                   = @('Jeffrey-Eggstein', 'Jeffrey Eggstein', 'Unity 6000.5.0f1 Mono', 'published')
+    'Midnight News Report_简体中文覆盖包.zip'               = @('Midnight-News-Report', 'Midnight News Report', 'Unity 2022.3.10f1 Mono（含 120 FPS 修改）', 'published')
     'Mine of My Mind_简体中文覆盖包.zip'                    = @('Mine-of-My-Mind', 'Mine of My Mind', 'Unity 6000.0.59f2 IL2CPP', 'published')
     'NARIBIKIMURA_简体中文覆盖包.zip'                     = @('NARIBIKIMURA', '鳴蟇村（NARIBIKIMURA）', 'Unreal Engine IoStore（含 120 FPS 修改）', 'published')
     'OKUGAFUCHI_简体中文覆盖包.zip'                       = @('OKUGAFUCHI', 'OKUGAFUCHI', 'Unreal Engine IoStore（含 120 FPS 修改）', 'published')

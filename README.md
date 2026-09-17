@@ -81,56 +81,56 @@
 <table>
   <tr>
     <td align="center" width="20%">
+      <a href="games/Midnight-News-Report/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4894100/0d935314f696690010007f529440878d281a37c0/header.jpg?t=1789585726" alt="Midnight News Report 游戏封面" width="180"></a><br>
+      <strong>1. Midnight News Report</strong><br>
+      <sub><a href="games/Midnight-News-Report/">查看详情</a></sub>
+    </td>
+    <td align="center" width="20%">
       <a href="games/Withering-Realms/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3441990/header.jpg" alt="Withering Realms 游戏封面" width="180"></a><br>
-      <strong>1. Withering Realms</strong><br>
+      <strong>2. Withering Realms</strong><br>
       <sub><a href="games/Withering-Realms/">查看详情</a></sub>
     </td>
     <td align="center" width="20%">
       <a href="games/Frostrail/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3517740/24567900b45648a5b962cabf9898258b1c1d50ba/header.jpg?t=1788856599" alt="Frostrail 游戏封面" width="180"></a><br>
-      <strong>2. Frostrail</strong><br>
+      <strong>3. Frostrail</strong><br>
       <sub><a href="games/Frostrail/">查看详情</a></sub>
     </td>
     <td align="center" width="20%">
       <a href="games/The-Cabin-Game/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4406280/d3cad021841c8731a0da86e0a0b1321df341cfd0/header.jpg?t=1787842454" alt="the cabin game 游戏封面" width="180"></a><br>
-      <strong>3. the cabin game</strong><br>
+      <strong>4. the cabin game</strong><br>
       <sub><a href="games/The-Cabin-Game/">查看详情</a></sub>
     </td>
     <td align="center" width="20%">
       <a href="games/Can-I-Come-In/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4969200/ced187a5a2f19e9e690b8cd3d0f336382b2a1f3d/header.jpg?t=1787862205" alt="Can I Come In? 游戏封面" width="180"></a><br>
-      <strong>4. Can I Come In?</strong><br>
+      <strong>5. Can I Come In?</strong><br>
       <sub><a href="games/Can-I-Come-In/">查看详情</a></sub>
-    </td>
-    <td align="center" width="20%">
-      <a href="games/Kaibango-20XX/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4154100/145c515115a6b554c9e350cab18f22cc9d92101d/header.jpg?t=1775744484" alt="怪異番号~20✕✕(ニーマルバツバツ)~ 游戏封面" width="180"></a><br>
-      <strong>5. 怪異番号~20✕✕(ニーマルバツバツ)~</strong><br>
-      <sub><a href="games/Kaibango-20XX/">查看详情</a></sub>
     </td>
   </tr>
   <tr>
     <td align="center" width="20%">
+      <a href="games/Kaibango-20XX/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4154100/145c515115a6b554c9e350cab18f22cc9d92101d/header.jpg?t=1775744484" alt="怪異番号~20✕✕(ニーマルバツバツ)~ 游戏封面" width="180"></a><br>
+      <strong>6. 怪異番号~20✕✕(ニーマルバツバツ)~</strong><br>
+      <sub><a href="games/Kaibango-20XX/">查看详情</a></sub>
+    </td>
+    <td align="center" width="20%">
       <a href="games/The-Last-Letter/"><img src="https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4508710/f34472f838adc1f0c5f909f98835d5c07e6bcad9/header.jpg?t=1776955886" alt="The Last Letter 游戏封面" width="180"></a><br>
-      <strong>6. The Last Letter</strong><br>
+      <strong>7. The Last Letter</strong><br>
       <sub><a href="games/The-Last-Letter/">查看详情</a></sub>
     </td>
     <td align="center" width="20%">
       <a href="games/CULTIC/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1684930/84bebc2b3ecb36d4ec0ad3aea5126bc0666a9029/header.jpg?t=1786717270" alt="CULTIC 游戏封面" width="180"></a><br>
-      <strong>7. CULTIC</strong><br>
+      <strong>8. CULTIC</strong><br>
       <sub><a href="games/CULTIC/">查看详情</a></sub>
     </td>
     <td align="center" width="20%">
       <a href="games/The-Cattle/"><img src="https://img.itch.zone/aW1nLzI4NDQ0OTQ1LmpwZw==/original/M9OXtw.jpg" alt="The Cattle 游戏封面" width="180"></a><br>
-      <strong>8. The Cattle</strong><br>
+      <strong>9. The Cattle</strong><br>
       <sub><a href="games/The-Cattle/">查看详情</a></sub>
     </td>
     <td align="center" width="20%">
       <a href="games/The-Hust-Banhmi-Banh-Mi-Bach-Khoa/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4530780/571abfcdc7ba7299c7c7187fc88a4245fb7b49ce/header.jpg?t=1784971789" alt="The Hust Banhmi（Bánh Mì Bách Khoa） 游戏封面" width="180"></a><br>
-      <strong>9. The Hust Banhmi（Bánh Mì Bách Khoa）</strong><br>
+      <strong>10. The Hust Banhmi（Bánh Mì Bách Khoa）</strong><br>
       <sub><a href="games/The-Hust-Banhmi-Banh-Mi-Bach-Khoa/">查看详情</a></sub>
-    </td>
-    <td align="center" width="20%">
-      <a href="games/Project-Threshold/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4820610/97356f4c7af2ed7b21ffb01e76adf400daa98088/header.jpg?t=1785542366" alt="Project Threshold 游戏封面" width="180"></a><br>
-      <strong>10. Project Threshold</strong><br>
-      <sub><a href="games/Project-Threshold/">查看详情</a></sub>
     </td>
   </tr>
 </table>
@@ -221,6 +221,7 @@
 | Microbial Sector | qsefthuopq | 已收录（外部网盘） | 历史汉化补丁（网盘分发） | [查看](games/Microbial-Sector/) |
 | Midnight Crane | 月见鸟 | 已发布 | Unreal PAK / IoStore 覆盖 | [查看](games/Midnight-Crane/) |
 | Midnight Hoops | 月见鸟 | 已发布 | 资源替换（按包内说明） | [查看](games/Midnight-Hoops/) |
+| Midnight News Report | Cokepoetry | 已发布（含 120 FPS 修改） | Unity 静态资源与程序集替换 | [查看](games/Midnight-News-Report/) |
 | Midnight Scenes: A Safe Place | qsefthuopq | 已收录（外部网盘） | 历史汉化补丁（网盘分发） | [查看](games/Midnight-Scenes-A-Safe-Place/) |
 | Midnight Scenes: Among Graves | qsefthuopq | 已收录（外部网盘） | 历史汉化补丁（网盘分发） | [查看](games/Midnight-Scenes-Among-Graves/) |
 | Midnight Scenes: From the Woods | qsefthuopq | 已收录（外部网盘） | 历史汉化补丁（网盘分发） | [查看](games/Midnight-Scenes-From-the-Woods/) |

@@ -362,6 +362,24 @@
         "published_asset_size":  43102128
     },
     {
+        "game":  "Midnight News Report",
+        "slug":  "Midnight-News-Report",
+        "package":  "Midnight News Report_简体中文覆盖包.zip",
+        "bytes":  41671749,
+        "sha256":  "7F4AF2277ABDA55ADCB5FA030878BE134D39512BB5872BCBE0C27A7DCD3DFAEB",
+        "engine":  "Unity 2022.3.10f1 Mono（含 120 FPS 修改）",
+        "publication_status":  "published",
+        "zip_entries":  13,
+        "top_level":  [
+                          "Midnight News Report_Data",
+                          "汉化说明.txt"
+                      ],
+        "last_modified":  "2026-09-17T17:03:30+08:00",
+        "release_tag":  "midnight-news-report-cn-20260917",
+        "release_url":  "https://github.com/Linbin-Lai/5050-hanhua/releases/tag/midnight-news-report-cn-20260917",
+        "published_asset_size":  41671749
+    },
+    {
         "game":  "鳴蟇村（NARIBIKIMURA）",
         "slug":  "NARIBIKIMURA",
         "package":  "NARIBIKIMURA_简体中文覆盖包.zip",
