@@ -380,6 +380,24 @@
         "published_asset_size":  41671749
     },
     {
+        "game":  "The Event",
+        "slug":  "The-Event",
+        "package":  "The Event_简体中文覆盖包.zip",
+        "bytes":  4401260,
+        "sha256":  "E7F0C7D5EF80D430A329C490B2C93EA468436E9B7823C9D12ED0470C9F3A7C2D",
+        "engine":  "Unreal Engine 4.27 Win64",
+        "publication_status":  "published",
+        "zip_entries":  2,
+        "top_level":  [
+                          "TheEvent",
+                          "安装说明.txt"
+                      ],
+        "last_modified":  "2026-09-18T06:33:05+08:00",
+        "release_tag":  "the-event-cn-20260918",
+        "release_url":  "https://github.com/Linbin-Lai/5050-hanhua/releases/tag/the-event-cn-20260918",
+        "published_asset_size":  4401260
+    },
+    {
         "game":  "鳴蟇村（NARIBIKIMURA）",
         "slug":  "NARIBIKIMURA",
         "package":  "NARIBIKIMURA_简体中文覆盖包.zip",
