@@ -81,14 +81,14 @@
 <table>
   <tr>
     <td align="center" width="20%">
-      <a href="games/The-Event/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2444700/header.jpg" alt="The Event 游戏封面" width="180"></a><br>
-      <strong>1. The Event</strong><br>
-      <sub><a href="games/The-Event/">查看详情</a></sub>
+      <a href="games/Midnight-News-Report/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4894100/0d935314f696690010007f529440878d281a37c0/header.jpg?t=1789585726" alt="Midnight News Report 游戏封面" width="180"></a><br>
+      <strong>1. Midnight News Report</strong><br>
+      <sub><a href="games/Midnight-News-Report/">查看详情</a></sub>
     </td>
     <td align="center" width="20%">
-      <a href="games/Midnight-News-Report/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4894100/0d935314f696690010007f529440878d281a37c0/header.jpg?t=1789585726" alt="Midnight News Report 游戏封面" width="180"></a><br>
-      <strong>2. Midnight News Report</strong><br>
-      <sub><a href="games/Midnight-News-Report/">查看详情</a></sub>
+      <a href="games/The-Event/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2444700/header.jpg" alt="The Event 游戏封面" width="180"></a><br>
+      <strong>2. The Event</strong><br>
+      <sub><a href="games/The-Event/">查看详情</a></sub>
     </td>
     <td align="center" width="20%">
       <a href="games/Withering-Realms/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3441990/header.jpg" alt="Withering Realms 游戏封面" width="180"></a><br>
