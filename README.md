@@ -67,9 +67,9 @@
       <sub><a href="games/Deep-Sleep-Trilogy/">查看详情（2 次下载）</a></sub>
     </td>
     <td align="center" width="20%">
-      <a href="games/Midnight-News-Report/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4894100/0d935314f696690010007f529440878d281a37c0/header.jpg?t=1789585726" alt="Midnight News Report 游戏封面" width="180"></a><br>
-      <strong>10. Midnight News Report</strong><br>
-      <sub><a href="games/Midnight-News-Report/">查看详情（2 次下载）</a></sub>
+      <a href="games/Only-Good-Babysitters-Go-To-Heaven/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4344730/ae8bff3891a6ca1f437b4456adb22a4eb2f9da29/header.jpg?t=1784653229" alt="Only Good Babysitters Go To Heaven 游戏封面" width="180"></a><br>
+      <strong>10. Only Good Babysitters Go To Heaven</strong><br>
+      <sub><a href="games/Only-Good-Babysitters-Go-To-Heaven/">查看详情（2 次下载）</a></sub>
     </td>
   </tr>
 </table>
