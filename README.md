@@ -49,7 +49,7 @@
     <td align="center" width="20%">
       <a href="games/The-Skin-Stapler/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4310610/5147848411ce0dfd06d88513572a98e334a3fd74/header.jpg?t=1786367666" alt="The Skin Stapler（缝皮杀手） 游戏封面" width="180"></a><br>
       <strong>6. The Skin Stapler（缝皮杀手）</strong><br>
-      <sub><a href="games/The-Skin-Stapler/">查看详情（5 次下载）</a></sub>
+      <sub><a href="games/The-Skin-Stapler/">查看详情（6 次下载）</a></sub>
     </td>
     <td align="center" width="20%">
       <a href="games/Movie-Theater/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3659180/f4ab4b2ea9b06e55830c36488f167aee251e6723/header.jpg?t=1747419233" alt="Movie Theater 游戏封面" width="180"></a><br>
