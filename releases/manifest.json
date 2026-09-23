@@ -413,5 +413,21 @@
         "release_tag":  "naribikimura-cn-20260815",
         "release_url":  "https://github.com/Linbin-Lai/5050-hanhua/releases/tag/naribikimura-cn-20260815",
         "published_asset_size":  322060
+    },
+    {
+        "game": "Happy Wheels",
+        "slug": "Happy-Wheels",
+        "package": "Happy Wheels_精选关卡_简体中文覆盖包.zip",
+        "published_asset_name": "Happy-Wheels-Featured-Simplified-Chinese-v0.8.1.zip",
+        "bytes": 12650664,
+        "sha256": "F8EB7FFD49DCD73CD8AC8C8D761AD1ED64E36701347BF34A3B701868495E71A0",
+        "engine": "Electron / JavaScript（v0.8.1 标准版，不修改帧率）",
+        "publication_status": "published",
+        "zip_entries": 121,
+        "top_level": ["resources", "HappyWheels_汉化清单.json", "汉化说明.txt"],
+        "last_modified": "2026-09-23T10:01:02+08:00",
+        "release_tag": "happy-wheels-cn-v0.8.1-20260923",
+        "release_url": "https://github.com/Linbin-Lai/5050-hanhua/releases/tag/happy-wheels-cn-v0.8.1-20260923",
+        "published_asset_size": 12650664
     }
 ]

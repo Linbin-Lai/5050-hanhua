@@ -81,56 +81,56 @@
 <table>
   <tr>
     <td align="center" width="20%">
+      <a href="games/Happy-Wheels/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4705510/acd7fedba57cc1d506f18886ae6c937f754da6c1/header.jpg?t=1790029771" alt="Happy Wheels（父子单车） 游戏封面" width="180"></a><br>
+      <strong>1. Happy Wheels（父子单车）</strong><br>
+      <sub><a href="games/Happy-Wheels/">查看详情</a></sub>
+    </td>
+    <td align="center" width="20%">
       <a href="games/Midnight-News-Report/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4894100/0d935314f696690010007f529440878d281a37c0/header.jpg?t=1789585726" alt="Midnight News Report 游戏封面" width="180"></a><br>
-      <strong>1. Midnight News Report</strong><br>
+      <strong>2. Midnight News Report</strong><br>
       <sub><a href="games/Midnight-News-Report/">查看详情</a></sub>
     </td>
     <td align="center" width="20%">
       <a href="games/The-Event/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2444700/header.jpg" alt="The Event 游戏封面" width="180"></a><br>
-      <strong>2. The Event</strong><br>
+      <strong>3. The Event</strong><br>
       <sub><a href="games/The-Event/">查看详情</a></sub>
     </td>
     <td align="center" width="20%">
       <a href="games/Withering-Realms/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3441990/header.jpg" alt="Withering Realms 游戏封面" width="180"></a><br>
-      <strong>3. Withering Realms</strong><br>
+      <strong>4. Withering Realms</strong><br>
       <sub><a href="games/Withering-Realms/">查看详情</a></sub>
     </td>
     <td align="center" width="20%">
       <a href="games/Frostrail/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3517740/24567900b45648a5b962cabf9898258b1c1d50ba/header.jpg?t=1788856599" alt="Frostrail 游戏封面" width="180"></a><br>
-      <strong>4. Frostrail</strong><br>
+      <strong>5. Frostrail</strong><br>
       <sub><a href="games/Frostrail/">查看详情</a></sub>
-    </td>
-    <td align="center" width="20%">
-      <a href="games/The-Cabin-Game/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4406280/d3cad021841c8731a0da86e0a0b1321df341cfd0/header.jpg?t=1787842454" alt="the cabin game 游戏封面" width="180"></a><br>
-      <strong>5. the cabin game</strong><br>
-      <sub><a href="games/The-Cabin-Game/">查看详情</a></sub>
     </td>
   </tr>
   <tr>
     <td align="center" width="20%">
+      <a href="games/The-Cabin-Game/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4406280/d3cad021841c8731a0da86e0a0b1321df341cfd0/header.jpg?t=1787842454" alt="the cabin game 游戏封面" width="180"></a><br>
+      <strong>6. the cabin game</strong><br>
+      <sub><a href="games/The-Cabin-Game/">查看详情</a></sub>
+    </td>
+    <td align="center" width="20%">
       <a href="games/Can-I-Come-In/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4969200/ced187a5a2f19e9e690b8cd3d0f336382b2a1f3d/header.jpg?t=1787862205" alt="Can I Come In? 游戏封面" width="180"></a><br>
-      <strong>6. Can I Come In?</strong><br>
+      <strong>7. Can I Come In?</strong><br>
       <sub><a href="games/Can-I-Come-In/">查看详情</a></sub>
     </td>
     <td align="center" width="20%">
       <a href="games/Kaibango-20XX/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4154100/145c515115a6b554c9e350cab18f22cc9d92101d/header.jpg?t=1775744484" alt="怪異番号~20✕✕(ニーマルバツバツ)~ 游戏封面" width="180"></a><br>
-      <strong>7. 怪異番号~20✕✕(ニーマルバツバツ)~</strong><br>
+      <strong>8. 怪異番号~20✕✕(ニーマルバツバツ)~</strong><br>
       <sub><a href="games/Kaibango-20XX/">查看详情</a></sub>
     </td>
     <td align="center" width="20%">
       <a href="games/The-Last-Letter/"><img src="https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4508710/f34472f838adc1f0c5f909f98835d5c07e6bcad9/header.jpg?t=1776955886" alt="The Last Letter 游戏封面" width="180"></a><br>
-      <strong>8. The Last Letter</strong><br>
+      <strong>9. The Last Letter</strong><br>
       <sub><a href="games/The-Last-Letter/">查看详情</a></sub>
     </td>
     <td align="center" width="20%">
       <a href="games/CULTIC/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1684930/84bebc2b3ecb36d4ec0ad3aea5126bc0666a9029/header.jpg?t=1786717270" alt="CULTIC 游戏封面" width="180"></a><br>
-      <strong>9. CULTIC</strong><br>
+      <strong>10. CULTIC</strong><br>
       <sub><a href="games/CULTIC/">查看详情</a></sub>
-    </td>
-    <td align="center" width="20%">
-      <a href="games/The-Cattle/"><img src="https://img.itch.zone/aW1nLzI4NDQ0OTQ1LmpwZw==/original/M9OXtw.jpg" alt="The Cattle 游戏封面" width="180"></a><br>
-      <strong>10. The Cattle</strong><br>
-      <sub><a href="games/The-Cattle/">查看详情</a></sub>
     </td>
   </tr>
 </table>
@@ -197,6 +197,7 @@
 | Funnel Runners | Cokepoetry | 已发布 | Unreal IoStore 覆盖容器 | [查看](games/Funnel-Runners/) |
 | GULLET | 月见鸟（GitHub: kurikomoe） | 已发布 | Godot PCK 替换 | [查看](games/GULLET/) |
 | Happy Hills Homicide 2（欢乐山凶案2） | qsefthuopq | 已收录（外部网盘） | 历史汉化补丁（网盘分发） | [查看](games/Happy-Hills-Homicide-2/) |
+| Happy Wheels（父子单车） | Cokepoetry | 已发布 v0.8.1 | 精选关卡简体中文覆盖包（不修改帧率） | [查看](games/Happy-Wheels/) |
 | Heartworm | qsefthuopq | 已收录（外部网盘） | 历史汉化补丁（网盘分发） | [查看](games/Heartworm/) |
 | Hell of a Birthday | Cokepoetry | 已发布 | Unity 静态资源 | [查看](games/Hell-of-a-Birthday/) |
 | Holes | 月见鸟 | 已发布 | Unity BepInEx 插件包 | [查看](games/Holes/) |
