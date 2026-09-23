@@ -67,9 +67,9 @@
       <sub><a href="games/Deep-Sleep-Trilogy/">查看详情（2 次下载）</a></sub>
     </td>
     <td align="center" width="20%">
-      <a href="games/Only-Good-Babysitters-Go-To-Heaven/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4344730/ae8bff3891a6ca1f437b4456adb22a4eb2f9da29/header.jpg?t=1784653229" alt="Only Good Babysitters Go To Heaven 游戏封面" width="180"></a><br>
-      <strong>10. Only Good Babysitters Go To Heaven</strong><br>
-      <sub><a href="games/Only-Good-Babysitters-Go-To-Heaven/">查看详情（2 次下载）</a></sub>
+      <a href="games/Happy-Wheels/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4705510/acd7fedba57cc1d506f18886ae6c937f754da6c1/header.jpg?t=1790029771" alt="Happy Wheels（父子单车） 游戏封面" width="180"></a><br>
+      <strong>10. Happy Wheels（父子单车）</strong><br>
+      <sub><a href="games/Happy-Wheels/">查看详情（2 次下载）</a></sub>
     </td>
   </tr>
 </table>
