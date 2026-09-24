@@ -40,26 +40,26 @@
       <sub><a href="games/Agent-64-Spies-Never-Die/">查看详情（9 次下载）</a></sub>
     </td>
     <td align="center" width="20%">
-      <a href="games/Fallen-Leaf/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1459010/header.jpg?t=1732677410" alt="Fallen Leaf 游戏封面" width="180"></a><br>
-      <strong>5. Fallen Leaf</strong><br>
-      <sub><a href="games/Fallen-Leaf/">查看详情（8 次下载）</a></sub>
+      <a href="games/Happy-Wheels/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4705510/acd7fedba57cc1d506f18886ae6c937f754da6c1/header.jpg?t=1790029771" alt="Happy Wheels（父子单车） 游戏封面" width="180"></a><br>
+      <strong>5. Happy Wheels（父子单车）</strong><br>
+      <sub><a href="games/Happy-Wheels/">查看详情（9 次下载）</a></sub>
     </td>
   </tr>
   <tr>
     <td align="center" width="20%">
+      <a href="games/Fallen-Leaf/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1459010/header.jpg?t=1732677410" alt="Fallen Leaf 游戏封面" width="180"></a><br>
+      <strong>6. Fallen Leaf</strong><br>
+      <sub><a href="games/Fallen-Leaf/">查看详情（8 次下载）</a></sub>
+    </td>
+    <td align="center" width="20%">
       <a href="games/The-Skin-Stapler/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4310610/5147848411ce0dfd06d88513572a98e334a3fd74/header.jpg?t=1786367666" alt="The Skin Stapler（缝皮杀手） 游戏封面" width="180"></a><br>
-      <strong>6. The Skin Stapler（缝皮杀手）</strong><br>
+      <strong>7. The Skin Stapler（缝皮杀手）</strong><br>
       <sub><a href="games/The-Skin-Stapler/">查看详情（7 次下载）</a></sub>
     </td>
     <td align="center" width="20%">
       <a href="games/Movie-Theater/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3659180/f4ab4b2ea9b06e55830c36488f167aee251e6723/header.jpg?t=1747419233" alt="Movie Theater 游戏封面" width="180"></a><br>
-      <strong>7. Movie Theater</strong><br>
+      <strong>8. Movie Theater</strong><br>
       <sub><a href="games/Movie-Theater/">查看详情（4 次下载）</a></sub>
-    </td>
-    <td align="center" width="20%">
-      <a href="games/Happy-Wheels/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4705510/acd7fedba57cc1d506f18886ae6c937f754da6c1/header.jpg?t=1790029771" alt="Happy Wheels（父子单车） 游戏封面" width="180"></a><br>
-      <strong>8. Happy Wheels（父子单车）</strong><br>
-      <sub><a href="games/Happy-Wheels/">查看详情（3 次下载）</a></sub>
     </td>
     <td align="center" width="20%">
       <a href="games/OKUGAFUCHI/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3232860/0e24bc880f8dd40244ac05bc1ea41732caa16538/header.jpg?t=1786100115" alt="OKUGAFUCHI 游戏封面" width="180"></a><br>
