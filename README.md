@@ -27,7 +27,7 @@
     <td align="center" width="20%">
       <a href="games/Happy-Wheels/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4705510/acd7fedba57cc1d506f18886ae6c937f754da6c1/header.jpg?t=1790029771" alt="Happy Wheels（父子单车） 游戏封面" width="180"></a><br>
       <strong>2. Happy Wheels（父子单车）</strong><br>
-      <sub><a href="games/Happy-Wheels/">查看详情（25 次下载）</a></sub>
+      <sub><a href="games/Happy-Wheels/">查看详情（30 次下载）</a></sub>
     </td>
     <td align="center" width="20%">
       <a href="games/Unusual-Tales-After-Bark/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4516880/1a00f0306b6506b19b27984a971f266af2e3f6c5/header.jpg?t=1786737888" alt="Unusual Tales: After Bark 游戏封面" width="180"></a><br>
@@ -67,9 +67,9 @@
       <sub><a href="games/OKUGAFUCHI/">查看详情（3 次下载）</a></sub>
     </td>
     <td align="center" width="20%">
-      <a href="games/Deep-Sleep-Trilogy/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1146510/header.jpg?t=1726580656" alt="Deep Sleep Trilogy 游戏封面" width="180"></a><br>
-      <strong>10. Deep Sleep Trilogy</strong><br>
-      <sub><a href="games/Deep-Sleep-Trilogy/">查看详情（2 次下载）</a></sub>
+      <a href="games/The-Cabin-Game/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4406280/d3cad021841c8731a0da86e0a0b1321df341cfd0/header.jpg?t=1787842454" alt="the cabin game 游戏封面" width="180"></a><br>
+      <strong>10. the cabin game</strong><br>
+      <sub><a href="games/The-Cabin-Game/">查看详情（3 次下载）</a></sub>
     </td>
   </tr>
 </table>
