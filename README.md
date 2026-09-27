@@ -62,14 +62,14 @@
       <sub><a href="games/Movie-Theater/">查看详情（4 次下载）</a></sub>
     </td>
     <td align="center" width="20%">
-      <a href="games/OKUGAFUCHI/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3232860/0e24bc880f8dd40244ac05bc1ea41732caa16538/header.jpg?t=1786100115" alt="OKUGAFUCHI 游戏封面" width="180"></a><br>
-      <strong>9. OKUGAFUCHI</strong><br>
-      <sub><a href="games/OKUGAFUCHI/">查看详情（3 次下载）</a></sub>
+      <a href="games/The-Cabin-Game/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4406280/d3cad021841c8731a0da86e0a0b1321df341cfd0/header.jpg?t=1787842454" alt="the cabin game 游戏封面" width="180"></a><br>
+      <strong>9. the cabin game</strong><br>
+      <sub><a href="games/The-Cabin-Game/">查看详情（4 次下载）</a></sub>
     </td>
     <td align="center" width="20%">
-      <a href="games/The-Cabin-Game/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4406280/d3cad021841c8731a0da86e0a0b1321df341cfd0/header.jpg?t=1787842454" alt="the cabin game 游戏封面" width="180"></a><br>
-      <strong>10. the cabin game</strong><br>
-      <sub><a href="games/The-Cabin-Game/">查看详情（3 次下载）</a></sub>
+      <a href="games/OKUGAFUCHI/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3232860/0e24bc880f8dd40244ac05bc1ea41732caa16538/header.jpg?t=1786100115" alt="OKUGAFUCHI 游戏封面" width="180"></a><br>
+      <strong>10. OKUGAFUCHI</strong><br>
+      <sub><a href="games/OKUGAFUCHI/">查看详情（3 次下载）</a></sub>
     </td>
   </tr>
 </table>
