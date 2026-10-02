@@ -67,9 +67,9 @@
       <sub><a href="games/The-Cabin-Game/">查看详情（4 次下载）</a></sub>
     </td>
     <td align="center" width="20%">
-      <a href="games/OKUGAFUCHI/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3232860/0e24bc880f8dd40244ac05bc1ea41732caa16538/header.jpg?t=1786100115" alt="OKUGAFUCHI 游戏封面" width="180"></a><br>
-      <strong>10. OKUGAFUCHI</strong><br>
-      <sub><a href="games/OKUGAFUCHI/">查看详情（3 次下载）</a></sub>
+      <a href="games/Deep-Sleep-Trilogy/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1146510/header.jpg?t=1726580656" alt="Deep Sleep Trilogy 游戏封面" width="180"></a><br>
+      <strong>10. Deep Sleep Trilogy</strong><br>
+      <sub><a href="games/Deep-Sleep-Trilogy/">查看详情（3 次下载）</a></sub>
     </td>
   </tr>
 </table>
