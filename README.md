@@ -81,7 +81,7 @@
 <table>
   <tr>
     <td align="center" width="20%">
-      <a href="games/VESSELS-Noiret-Mansion/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4884960/header.jpg" alt="VESSELS: Noiret Mansion 游戏封面" width="180"></a><br>
+      <a href="games/VESSELS-Noiret-Mansion/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4884960/a883d176f8c4f97ddfb304062487b29a9239762a/header.jpg?t=1790853435" alt="VESSELS: Noiret Mansion 游戏封面" width="180"></a><br>
       <strong>1. VESSELS: Noiret Mansion</strong><br>
       <sub><a href="games/VESSELS-Noiret-Mansion/">查看详情</a></sub>
     </td>
