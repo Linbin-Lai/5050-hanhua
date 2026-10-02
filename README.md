@@ -271,6 +271,7 @@
 | UNBEATABLE | Cokepoetry | 已有官方简体中文 | 历史民间汉化（建议优先使用官方中文） | [查看](games/UNBEATABLE/) |
 | Unusual Tales: After Bark | Cokepoetry | 已发布 | Unity 静态资源与本地化表替换 | [查看](games/Unusual-Tales-After-Bark/) |
 | Victor's Test Night: REVES | qsefthuopq | 已收录（外部网盘） | 历史汉化补丁（网盘分发） | [查看](games/Victor-s-Test-Night-REVES/) |
+| VESSELS: Noiret Mansion | Cokepoetry | 已发布 v1.2 | Unity 英语文本槽位、墙面贴图与菜单署名覆盖 | [查看](games/VESSELS-Noiret-Mansion/) |
 | White Knuckle | qsefthuopq | 已发布 | Unity BepInEx 汉化 | [查看](games/White-Knuckle/) |
 | Withering Realms | qsefthuopq | 已发布（v0.8；后续汉化） | Unity 资源与 Addressables Bundle 覆盖 | [查看](games/Withering-Realms/) |
 | Within of Static - Northgate Mall | qsefthuopq | 已收录（外部网盘） | 历史汉化补丁（网盘分发） | [查看](games/Within-of-Static-Northgate-Mall/) |

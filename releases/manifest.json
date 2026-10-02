@@ -429,5 +429,21 @@
         "release_tag": "happy-wheels-cn-v0.8.1-20260923",
         "release_url": "https://github.com/Linbin-Lai/5050-hanhua/releases/tag/happy-wheels-cn-v0.8.1-20260923",
         "published_asset_size": 12650664
+    },
+    {
+        "game": "VESSELS: Noiret Mansion",
+        "slug": "VESSELS-Noiret-Mansion",
+        "package": "VESSELS_Noiret_Mansion_简体中文覆盖包.zip",
+        "published_asset_name": "VESSELS-Noiret-Mansion-Simplified-Chinese-v1.2.zip",
+        "bytes": 4301335,
+        "sha256": "959841FDBB594DB83EC6C75BAB9A71B48952C472FB6CDBDB9706610A4BB46A01",
+        "engine": "Unity 6000.2.13f1 Mono",
+        "publication_status": "published",
+        "zip_entries": 9,
+        "top_level": ["VESSELS Noiret Mansion_Data", "安装说明.txt", "构建清单.json"],
+        "last_modified": "2026-10-02T17:35:29+08:00",
+        "release_tag": "vessels-noiret-mansion-cn-v1.2-20261002",
+        "release_url": "https://github.com/Linbin-Lai/5050-hanhua/releases/tag/vessels-noiret-mansion-cn-v1.2-20261002",
+        "published_asset_size": 4301335
     }
 ]
