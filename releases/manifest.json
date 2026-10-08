@@ -433,17 +433,18 @@
     {
         "game": "VESSELS: Noiret Mansion",
         "slug": "VESSELS-Noiret-Mansion",
-        "package": "VESSELS_Noiret_Mansion_简体中文覆盖包.zip",
-        "published_asset_name": "VESSELS-Noiret-Mansion-Simplified-Chinese-v1.2.zip",
-        "bytes": 4301335,
-        "sha256": "959841FDBB594DB83EC6C75BAB9A71B48952C472FB6CDBDB9706610A4BB46A01",
-        "engine": "Unity 6000.2.13f1 Mono",
+        "package": "VESSELS Noiret Mansion修复.7z",
+        "published_asset_name": "VESSELS-Noiret-Mansion-Simplified-Chinese-20261008.7z",
+        "bytes": 23862216,
+        "sha256": "4F2714E791E57C6D0A261FB27D212281BEC41B878E1573B6D5370D106B4041D1",
+        "engine": "Unity 6000.2.13f1（资源头）",
         "publication_status": "published",
-        "zip_entries": 9,
-        "top_level": ["VESSELS Noiret Mansion_Data", "安装说明.txt", "构建清单.json"],
-        "last_modified": "2026-10-02T17:35:29+08:00",
+        "archive_format": "7z",
+        "archive_entries": 8,
+        "top_level": ["resources.assets", "resources.assets.resS", "sharedassets0F.assets", "sharedassets0F.assets.resS", "sharedassets1.assets", "sharedassets1.assets.resS", "sharedassets1.resource", "使用说明.txt"],
+        "last_modified": "2026-10-08T16:23:04+01:00",
         "release_tag": "vessels-noiret-mansion-cn-v1.2-20261002",
         "release_url": "https://github.com/Linbin-Lai/5050-hanhua/releases/tag/vessels-noiret-mansion-cn-v1.2-20261002",
-        "published_asset_size": 4301335
+        "published_asset_size": 23862216
     }
 ]

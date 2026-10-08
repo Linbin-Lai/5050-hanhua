@@ -1,4 +1,4 @@
-# VESSELS: Noiret Mansion 简体中文汉化 v1.2
+# VESSELS: Noiret Mansion 简体中文汉化（2026-10-08 更新修复版）
 
 <!-- game-cover:start -->
 <p align="center">
@@ -12,32 +12,29 @@
 
 ## 下载与版本
 
-- **补丁版本：** v1.2 修正版
-- **下载：** [GitHub Release](https://github.com/Linbin-Lai/5050-hanhua/releases/tag/vessels-noiret-mansion-cn-v1.2-20261002)
-- **附件：** `VESSELS-Noiret-Mansion-Simplified-Chinese-v1.2.zip`
-- **本地成品名：** `VESSELS_Noiret_Mansion_简体中文覆盖包.zip`；附件仅改用英文文件名，ZIP 内容不变。
-- **适用版本：** 制作时安装的 Windows 版，Unity 6000.2.13f1。更新后可能需要重新适配。
-- **文件大小：** 4,301,335 字节；ZIP 共 9 个文件。
-- **SHA-256：** `959841FDBB594DB83EC6C75BAB9A71B48952C472FB6CDBDB9706610A4BB46A01`
+- **当前附件：** [VESSELS 更新修复版 .7z](https://github.com/Linbin-Lai/5050-hanhua/releases/download/vessels-noiret-mansion-cn-v1.2-20261002/VESSELS-Noiret-Mansion-Simplified-Chinese-20261008.7z)
+- **原始成品名：** `VESSELS Noiret Mansion修复.7z`。GitHub 附件仅改用英文文件名，内容不变。
+- **文件大小：** 23,862,216 字节；7z 内有 7 个 Unity 资源文件和一份使用说明。
+- **SHA-256：** `4F2714E791E57C6D0A261FB27D212281BEC41B878E1573B6D5370D106B4041D1`
+- **适用范围：** 用户提供的 2026-10-08 更新修复资源；资源头为 Unity 6000.2.13f1。未附对应 Steam BuildID。
 
-## 汉化内容
+## 本次修复
 
-- 直接替换英语语言槽位的 517 条文本，不新增语言选项，也不修改日文译文。
-- 中文 UI 使用系统 Microsoft YaHei 字体，缺失时尝试 SimHei，保留游戏原有字号。
-- 主菜单右下角加入青蛙头像及汉化署名；进入关卡后随菜单场景消失。
-- 1.1 修复中文显示的程序集访问权限错误；1.2 将两张墙面文字贴图译为“她们还活着”和“快逃”。
-- 报纸、笔记等其他小尺寸场景贴图上的英文尚未重绘。可阅读正文、线索和任务文本已在英语文本槽位翻译。
+此包针对游戏更新后旧版汉化覆盖包导致闪退的问题，改用更新后的 Unity 资源文件。包内 `resources.assets` 可静态读到简体中文界面和正文。旧版 ZIP 已从 Release 移除，**不要叠加安装旧版**。
 
-## 安装与卸载
+新版只包含资源文件，不含旧版独立的 `Assembly-CSharp.dll`、`ChineseWatermark.dll`、青蛙图片或场景文件；不保证旧版菜单水印仍可显示，也不应把旧版这些文件加入新包。
 
-1. 完全退出游戏，备份原有同名文件。
-2. 将 ZIP 内的 `VESSELS Noiret Mansion_Data` 文件夹解压到游戏 EXE 所在目录，允许覆盖同名文件。不要额外多套一层目录。
-3. 若此前选中了其他语言，请在设置中选择“简体中文”。
+## 安装
 
-卸载时恢复备份，或使用 Steam 验证游戏文件完整性，并移除新增的 `ChineseWatermark.dll` 与 `5050_watermark_frog.png`。
+1. 完全退出游戏，备份存档和将被覆盖的游戏文件。
+2. 如果装过旧版 v1.2 ZIP，先通过 Steam 验证游戏文件完整性，恢复它修改过的 `level1`、`Assembly-CSharp.dll`、`ScriptingAssemblies.json`、`sharedassets3.assets` 等文件；再删除旧包额外添加的 `VESSELS Noiret Mansion_Data/Managed/ChineseWatermark.dll` 与 `VESSELS Noiret Mansion_Data/5050_watermark_frog.png`。验证完整性不一定会删除额外文件。
+3. 将 7z 中的七个资源文件直接放到游戏的 `VESSELS Noiret Mansion_Data` 目录，允许覆盖同名文件。压缩包顶层没有 `VESSELS Noiret Mansion_Data` 文件夹，不要解压到游戏 EXE 所在的上一级目录。
+4. 启动游戏并检查中文显示。若游戏仍闪退，请附游戏版本、安装方式和错误日志反馈。
+
+卸载时通过 Steam 验证游戏文件完整性，或恢复安装前备份的同名文件。
 
 ## 验证范围
 
-已检查 ZIP 结构和文件校验值。本次发布未启动游戏，实际显示效果与完整流程仍需玩家手动验证。本补丁不能独立运行，必须配合合法取得的完整原版游戏使用。
+已验证 7z 可完整解压、文件数量与路径、资源头及附件哈希；未进行实机启动或完整流程测试，因此不能独立确认所有更新场景都不再闪退。本补丁不能独立运行，必须配合合法取得的完整原版游戏使用。
 
 本汉化为非官方免费补丁，不得倒卖；转载时请保留汉化署名与原游戏作者署名。
