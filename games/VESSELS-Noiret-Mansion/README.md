@@ -12,6 +12,7 @@
 
 ## 下载与版本
 
+- **发布页面：** [GitHub Release](https://github.com/Linbin-Lai/5050-hanhua/releases/tag/vessels-noiret-mansion-cn-v1.2-20261002)
 - **当前附件：** [VESSELS 更新修复版 .7z](https://github.com/Linbin-Lai/5050-hanhua/releases/download/vessels-noiret-mansion-cn-v1.2-20261002/VESSELS-Noiret-Mansion-Simplified-Chinese-20261008.7z)
 - **原始成品名：** `VESSELS Noiret Mansion修复.7z`。GitHub 附件仅改用英文文件名，内容不变。
 - **文件大小：** 23,862,216 字节；7z 内有 7 个 Unity 资源文件和一份使用说明。

@@ -68,7 +68,7 @@ def root_game_names(readme: str) -> dict[str, str]:
 def game_catalog(readme: str, repository: str) -> list[dict]:
     names = root_game_names(readme)
     release_pattern = re.compile(
-        rf"https://github\.com/{re.escape(repository)}/releases/tag/([^\s)\"'<>]+)",
+        rf"https://github\.com/{re.escape(repository)}/releases/(?:tag|download)/([^/\s)\"'<>]+)",
         re.IGNORECASE,
     )
     cover_pattern = re.compile(
