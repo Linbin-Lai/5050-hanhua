@@ -59,7 +59,7 @@
     <td align="center" width="20%">
       <a href="games/Deep-Sleep-Trilogy/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1146510/header.jpg?t=1726580656" alt="Deep Sleep Trilogy 游戏封面" width="180"></a><br>
       <strong>8. Deep Sleep Trilogy</strong><br>
-      <sub><a href="games/Deep-Sleep-Trilogy/">查看详情（4 次下载）</a></sub>
+      <sub><a href="games/Deep-Sleep-Trilogy/">查看详情（7 次下载）</a></sub>
     </td>
     <td align="center" width="20%">
       <a href="games/Movie-Theater/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3659180/f4ab4b2ea9b06e55830c36488f167aee251e6723/header.jpg?t=1747419233" alt="Movie Theater 游戏封面" width="180"></a><br>
