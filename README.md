@@ -27,7 +27,7 @@
     <td align="center" width="20%">
       <a href="games/Happy-Wheels/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4705510/acd7fedba57cc1d506f18886ae6c937f754da6c1/header.jpg?t=1790029771" alt="Happy Wheels（父子单车） 游戏封面" width="180"></a><br>
       <strong>2. Happy Wheels（父子单车）</strong><br>
-      <sub><a href="games/Happy-Wheels/">查看详情（110 次下载）</a></sub>
+      <sub><a href="games/Happy-Wheels/">查看详情（113 次下载）</a></sub>
     </td>
     <td align="center" width="20%">
       <a href="games/Unusual-Tales-After-Bark/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4516880/1a00f0306b6506b19b27984a971f266af2e3f6c5/header.jpg?t=1786737888" alt="Unusual Tales: After Bark 游戏封面" width="180"></a><br>
@@ -52,24 +52,24 @@
       <sub><a href="games/Agent-64-Spies-Never-Die/">查看详情（9 次下载）</a></sub>
     </td>
     <td align="center" width="20%">
+      <a href="games/The-Cabin-Game/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4406280/d3cad021841c8731a0da86e0a0b1321df341cfd0/header.jpg?t=1787842454" alt="the cabin game 游戏封面" width="180"></a><br>
+      <strong>7. the cabin game</strong><br>
+      <sub><a href="games/The-Cabin-Game/">查看详情（9 次下载）</a></sub>
+    </td>
+    <td align="center" width="20%">
       <a href="games/Fallen-Leaf/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1459010/header.jpg?t=1732677410" alt="Fallen Leaf 游戏封面" width="180"></a><br>
-      <strong>7. Fallen Leaf</strong><br>
+      <strong>8. Fallen Leaf</strong><br>
       <sub><a href="games/Fallen-Leaf/">查看详情（8 次下载）</a></sub>
     </td>
     <td align="center" width="20%">
       <a href="games/Deep-Sleep-Trilogy/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1146510/header.jpg?t=1726580656" alt="Deep Sleep Trilogy 游戏封面" width="180"></a><br>
-      <strong>8. Deep Sleep Trilogy</strong><br>
+      <strong>9. Deep Sleep Trilogy</strong><br>
       <sub><a href="games/Deep-Sleep-Trilogy/">查看详情（7 次下载）</a></sub>
     </td>
     <td align="center" width="20%">
-      <a href="games/Movie-Theater/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3659180/f4ab4b2ea9b06e55830c36488f167aee251e6723/header.jpg?t=1747419233" alt="Movie Theater 游戏封面" width="180"></a><br>
-      <strong>9. Movie Theater</strong><br>
-      <sub><a href="games/Movie-Theater/">查看详情（4 次下载）</a></sub>
-    </td>
-    <td align="center" width="20%">
-      <a href="games/The-Cabin-Game/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4406280/d3cad021841c8731a0da86e0a0b1321df341cfd0/header.jpg?t=1787842454" alt="the cabin game 游戏封面" width="180"></a><br>
-      <strong>10. the cabin game</strong><br>
-      <sub><a href="games/The-Cabin-Game/">查看详情（4 次下载）</a></sub>
+      <a href="games/VESSELS-Noiret-Mansion/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4884960/a883d176f8c4f97ddfb304062487b29a9239762a/header.jpg?t=1790853435" alt="VESSELS: Noiret Mansion 游戏封面" width="180"></a><br>
+      <strong>10. VESSELS: Noiret Mansion</strong><br>
+      <sub><a href="games/VESSELS-Noiret-Mansion/">查看详情（5 次下载）</a></sub>
     </td>
   </tr>
 </table>
