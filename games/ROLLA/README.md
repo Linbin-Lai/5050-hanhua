@@ -21,7 +21,7 @@
 - SHA-256：`DD781926690CC90B394FF0A05DB66FEB7DC879077B7502BF57BD5BE001692791`
 - ZIP 条目：19（17 个游戏资源文件、使用说明、翻译对照表）
 - 发布状态：已发布；Release 附件已下载回读，SHA-256 与本地原包一致
-- 下载地址：[ROLLA 简体中文汉化 v1.7](https://github.com/Linbin-Lai/5050-hanhua/releases/download/rolla-cn-20261016/ROLLA_._v1.7_20261016.zip)
+- 发布页面：[ROLLA 简体中文汉化 v1.7](https://github.com/Linbin-Lai/5050-hanhua/releases/tag/rolla-cn-20261016)
 
 ## 汉化内容
 
