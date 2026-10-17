@@ -30,14 +30,14 @@
       <sub><a href="games/Happy-Wheels/">查看详情（117 次下载）</a></sub>
     </td>
     <td align="center" width="20%">
-      <a href="games/Unusual-Tales-After-Bark/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4516880/1a00f0306b6506b19b27984a971f266af2e3f6c5/header.jpg?t=1786737888" alt="Unusual Tales: After Bark 游戏封面" width="180"></a><br>
-      <strong>3. Unusual Tales: After Bark</strong><br>
-      <sub><a href="games/Unusual-Tales-After-Bark/">查看详情（19 次下载）</a></sub>
+      <a href="games/Tenebris-Somnia/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2121510/61f3fb4ddb5387876aa498f621386e1d4442c219/header.jpg?t=1792175122" alt="Tenebris Somnia 游戏封面" width="180"></a><br>
+      <strong>3. Tenebris Somnia</strong><br>
+      <sub><a href="games/Tenebris-Somnia/">查看详情（25 次下载）</a></sub>
     </td>
     <td align="center" width="20%">
-      <a href="games/Tenebris-Somnia/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2121510/61f3fb4ddb5387876aa498f621386e1d4442c219/header.jpg?t=1792175122" alt="Tenebris Somnia 游戏封面" width="180"></a><br>
-      <strong>4. Tenebris Somnia</strong><br>
-      <sub><a href="games/Tenebris-Somnia/">查看详情（15 次下载）</a></sub>
+      <a href="games/Unusual-Tales-After-Bark/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4516880/1a00f0306b6506b19b27984a971f266af2e3f6c5/header.jpg?t=1786737888" alt="Unusual Tales: After Bark 游戏封面" width="180"></a><br>
+      <strong>4. Unusual Tales: After Bark</strong><br>
+      <sub><a href="games/Unusual-Tales-After-Bark/">查看详情（19 次下载）</a></sub>
     </td>
     <td align="center" width="20%">
       <a href="games/The-Cabin-Game/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4406280/d3cad021841c8731a0da86e0a0b1321df341cfd0/header.jpg?t=1787842454" alt="the cabin game 游戏封面" width="180"></a><br>
