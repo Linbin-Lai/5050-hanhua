@@ -83,7 +83,7 @@
     <td align="center" width="20%">
       <a href="games/Meat-Train/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3216230/20c9a63ae957f2463e3ad1f54610097d165a0c9b/header.jpg?t=1792682970" alt="MEAT TRAIN 游戏封面" width="180"></a><br>
       <strong>1. MEAT TRAIN</strong><br>
-      <sub><a href="games/Meat-Train/">查看详情（测试版）</a></sub>
+      <sub><a href="games/Meat-Train/">查看详情</a></sub>
     </td>
     <td align="center" width="20%">
       <a href="games/ALYSSA/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2420580/f376a4c40cc801aa5f83a6a120afce4624a5f17f/header.jpg?t=1792689104" alt="ALYSSA 游戏封面" width="180"></a><br>
