@@ -154,6 +154,7 @@
 | Abandoned Stories: Inherited Silence | 月见鸟 & qsefthuopq | 已发布 | Unity BepInEx 汉化 | [查看](games/Abandoned-Stories-Inherited-Silence/) |
 | ADACA | qsefthuopq | 已收录（外部网盘） | 历史汉化补丁（网盘分发） | [查看](games/ADACA/) |
 | Agent 64: Spies Never Die | Cokepoetry | 已发布 | Unity 静态语言文件 | [查看](games/Agent-64-Spies-Never-Die/) |
+| ALYSSA | 5050汉化组：Cokepoetry汉化 | 待发布 | Unity 二进制差分安装包（含自动移动 Bug 修复） | [查看](games/ALYSSA/) |
 | Anemoiapolis: Chapter 1 | qsefthuopq | 已收录（外部网盘） | 历史汉化补丁（网盘分发） | [查看](games/Anemoiapolis-Chapter-1/) |
 | Are We There Yet? | 月见鸟 | 已发布 | Unreal 汉化 + 8 人组队包 | [查看](games/Are-We-There-Yet/) |
 | AUTO-CRISIS | 月见鸟 | 已发布 | Unreal PAK 覆盖 | [查看](games/AUTO-CRISIS/) |
