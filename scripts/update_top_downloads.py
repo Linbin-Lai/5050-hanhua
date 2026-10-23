@@ -99,7 +99,9 @@ def game_catalog(readme: str, repository: str) -> list[dict]:
     return catalog
 
 
-def rank_games(catalog: list[dict], releases: list[dict]) -> list[dict]:
+def rank_games(
+    catalog: list[dict], releases: list[dict], *, include_prereleases: bool = False
+) -> list[dict]:
     tag_owners: dict[str, list[str]] = defaultdict(list)
     for game in catalog:
         for tag in game["tags"]:
@@ -108,7 +110,9 @@ def rank_games(catalog: list[dict], releases: list[dict]) -> list[dict]:
     release_by_tag = {
         item.get("tag_name"): item
         for item in releases
-        if item.get("tag_name") and not item.get("draft") and not item.get("prerelease")
+        if item.get("tag_name")
+        and not item.get("draft")
+        and (include_prereleases or not item.get("prerelease"))
     }
     ranked: list[dict] = []
     for game in catalog:
@@ -146,6 +150,7 @@ def rank_games(catalog: list[dict], releases: list[dict]) -> list[dict]:
                 **game,
                 "downloads": downloads,
                 "release_url": newest.get("html_url"),
+                "prerelease": bool(newest.get("prerelease")),
                 "updated_at": max(update_times, default=""),
             }
         )
@@ -200,7 +205,10 @@ def render_recent_block(games: list[dict]) -> str:
     return (
         f"{RECENT_START_MARKER}\n"
         "## 最近更新\n\n"
-        + render_cards(recent, lambda _game: "查看详情")
+        + render_cards(
+            recent,
+            lambda game: "查看详情（测试版）" if game.get("prerelease") else "查看详情",
+        )
         + "\n"
         f"{RECENT_END_MARKER}"
     )
@@ -253,8 +261,9 @@ def main() -> int:
     catalog = game_catalog(readme, repository)
     releases = get_releases(repository, token)
     top_games = rank_games(catalog, releases)
+    recent_candidates = rank_games(catalog, releases, include_prereleases=True)
     updated = replace_block(readme, render_block(top_games[:TOP_N]))
-    updated = replace_recent_block(updated, render_recent_block(top_games))
+    updated = replace_recent_block(updated, render_recent_block(recent_candidates))
     if updated != readme:
         README_PATH.write_text(updated, encoding="utf-8", newline="\n")
         print("Updated README.md")
@@ -263,7 +272,7 @@ def main() -> int:
     for rank, game in enumerate(top_games[:TOP_N], start=1):
         print(f"total {rank}. {game['title']}: {game['downloads']} downloads")
     recent_games = sorted(
-        top_games,
+        recent_candidates,
         key=lambda game: (game["updated_at"], game["title"].casefold()),
         reverse=True,
     )[:TOP_N]
