@@ -269,7 +269,7 @@
 | The Skin Stapler（缝皮杀手） | qsefthuopq | 已发布 | Unreal PAK / IoStore 覆盖容器 | [查看](games/The-Skin-Stapler/) |
 | The Supper: New Blood | qsefthuopq | 已收录（外部网盘） | 历史汉化补丁（网盘分发） | [查看](games/The-Supper-New-Blood/) |
 | The Tartarus Key | qsefthuopq | 已收录（外部网盘） | 历史汉化补丁（网盘分发） | [查看](games/The-Tartarus-Key/) |
-| The Wrong Way（误入歧途） | 5050汉化组：Cokepoetry汉化 | 准备发布（不完全汉化） | Unity 静态资源覆盖包（标题修正版） | [查看](games/The-Wrong-Way/) |
+| The Wrong Way（误入歧途） | 5050汉化组：Cokepoetry汉化 | 已发布（不完全汉化） | Unity 静态资源覆盖包（标题修正版） | [查看](games/The-Wrong-Way/) |
 | They See Us | 月见鸟 | 已发布（繁体中文） | Unreal PAK + 教程视频 | [查看](games/They-See-Us/) |
 | Total Chaos | 月见鸟 & qsefthuopq | 已发布 | Unity BepInEx 汉化 | [查看](games/Total-Chaos/) |
 | Uktena 64 - Ultimate | qsefthuopq | 已收录（外部网盘） | 历史汉化补丁（网盘分发） | [查看](games/Uktena-64-Ultimate/) |
