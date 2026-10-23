@@ -16,8 +16,8 @@
 - 适用版本：2026-10-22 制作时的 Windows 英文资源；未记录 Steam BuildID，以包内 manifest.json 的五个原版文件哈希为准，不适用于 Demo。
 - 引擎：Unity；补丁技术：HDiffPatch 5.1.3 二进制差分，在玩家本机生成修改后的资源和程序集。
 - 补丁版本：2026-10-23 自动移动修复版（2026-10-23-idle-movement-guard）。
-- 发布状态：待发布。
-- 附件：`ALYSSA_简体中文差分安装包.zip`。
+- 发布状态：已发布；静态校验完成，完整流程及修复后移动效果仍需玩家手动确认。
+- 附件：`ALYSSA_CN_20261023.zip`（本地原名 `ALYSSA_简体中文差分安装包.zip`，内容完全相同；使用英文附件名避免 GitHub 自动删去中文）。
 - 大小：24,199,129 字节（约 23.08 MiB）；ZIP 共 17 个文件，无独立目录条目。
 - SHA-256：`22028930752E75978B3A8CA1E8F88591B769ED9550B716FF278F6150AFFB9CC6`。
 - 下载地址：[ALYSSA 简体中文汉化（含自动移动 Bug 修复）发布页面](https://github.com/Linbin-Lai/5050-hanhua/releases/tag/alyssa-cn-20261023)。
