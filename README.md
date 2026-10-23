@@ -220,7 +220,7 @@
 | Living Dead Outbreak | qsefthuopq | 已收录（外部网盘） | 历史汉化补丁（网盘分发） | [查看](games/Living-Dead-Outbreak/) |
 | Love Love School Days | qsefthuopq | 已收录（外部网盘） | 历史汉化补丁（网盘分发） | [查看](games/Love-Love-School-Days/) |
 | Massacre At The Mirage | qsefthuopq | 已收录（外部网盘） | 历史汉化补丁（网盘分发） | [查看](games/Massacre-At-The-Mirage/) |
-| MEAT TRAIN | 5050汉化组：Cokepoetry汉化 | 已发布 | Unity 小体量二进制差分安装包 | [查看](games/Meat-Train/) |
+| MEAT TRAIN | 5050汉化组：Cokepoetry汉化 | 已发布（日记兼容修复测试版） | Unity 小体量二进制差分安装包 | [查看](games/Meat-Train/) |
 | Microbial Sector | qsefthuopq | 已收录（外部网盘） | 历史汉化补丁（网盘分发） | [查看](games/Microbial-Sector/) |
 | Midnight Crane | 月见鸟 | 已发布 | Unreal PAK / IoStore 覆盖 | [查看](games/Midnight-Crane/) |
 | Midnight Hoops | 月见鸟 | 已发布 | 资源替换（按包内说明） | [查看](games/Midnight-Hoops/) |
