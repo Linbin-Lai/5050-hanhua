@@ -19,7 +19,7 @@
 - 状态：已发布（不完全汉化／文字优化测试版）；GitHub Pre-release，未设为 Latest。
 - 适用版本：Windows x64，Unreal Engine **5.8 / CL-58210709**；主程序 **190,975,560 字节**。未取得可靠 Steam BuildID，安装器以文件 SHA-256 判断兼容性。
 - 补丁形式：**静态主程序文字修复安装器 + 独立中文语言表 PAK**，支持校验、备份和还原；不是直接解压即可生效的覆盖包。
-- Release 附件：`ASPIS_简体中文文字优化.zip`。
+- Release 附件：`ASPIS_CN_Text_Optimization_v0.2.zip`。对应本地 `ASPIS_简体中文文字优化.zip`，仅附件重命名，内容与SHA-256不变。
 - 大小：**382,709 字节（约373.74 KiB）**；ZIP 内 **12个文件、2个目录条目**，第一层为 `ASPIS_简体中文文字优化/`。
 - SHA-256：`45b7f31a6fb440c32a5b63532d6cca0a38ca987303d48da66eab5f451dfe4bb8`。
 - 下载地址：[ASPIS v0.2 发布页面](https://github.com/Linbin-Lai/5050-hanhua/releases/tag/aspis-cn-20261024)（进入发布页后选择附件，不直接触发下载）。
