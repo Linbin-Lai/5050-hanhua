@@ -157,7 +157,7 @@
 | ALYSSA | 5050汉化组：Cokepoetry汉化 | 已发布 | Unity 二进制差分安装包（含自动移动 Bug 修复） | [查看](games/ALYSSA/) |
 | Anemoiapolis: Chapter 1 | qsefthuopq | 已收录（外部网盘） | 历史汉化补丁（网盘分发） | [查看](games/Anemoiapolis-Chapter-1/) |
 | Are We There Yet? | 月见鸟 | 已发布 | Unreal 汉化 + 8 人组队包 | [查看](games/Are-We-There-Yet/) |
-| ASPIS | 5050汉化组：Cokepoetry汉化 | 已发布（不完全汉化／文字优化测试版） | 静态文字修复安装器 + 中文 PAK（可还原） | [查看](games/ASPIS/) |
+| ASPIS | 5050汉化组：Cokepoetry汉化 | 已发布（v0.3 文字补漏测试版） | 可还原文字安装器 + 中文 PAK / IoStore | [查看](games/ASPIS/) |
 | AUTO-CRISIS | 月见鸟 | 已发布 | Unreal PAK 覆盖 | [查看](games/AUTO-CRISIS/) |
 | Baby Blues Nightmares - Toddler Horror Game | qsefthuopq | 已收录（外部网盘） | 历史汉化补丁（网盘分发） | [查看](games/Baby-Blues-Nightmares-Toddler-Horror-Game/) |
 | Back Then | qsefthuopq | 已收录（外部网盘） | 历史汉化补丁（网盘分发） | [查看](games/Back-Then/) |
