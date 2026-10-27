@@ -27,7 +27,7 @@
     <td align="center" width="20%">
       <a href="games/Happy-Wheels/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4705510/acd7fedba57cc1d506f18886ae6c937f754da6c1/header.jpg?t=1790029771" alt="Happy Wheels（父子单车） 游戏封面" width="180"></a><br>
       <strong>2. Happy Wheels（父子单车）</strong><br>
-      <sub><a href="games/Happy-Wheels/">查看详情（126 次下载）</a></sub>
+      <sub><a href="games/Happy-Wheels/">查看详情（128 次下载）</a></sub>
     </td>
     <td align="center" width="20%">
       <a href="games/Tenebris-Somnia/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2121510/61f3fb4ddb5387876aa498f621386e1d4442c219/header.jpg?t=1792175122" alt="Tenebris Somnia 游戏封面" width="180"></a><br>
