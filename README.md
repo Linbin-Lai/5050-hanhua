@@ -247,6 +247,7 @@
 | Rip Current | 月见鸟 | 已发布 | Unity BepInEx 汉化 | [查看](games/Rip-Current/) |
 | ROLLA | 5050汉化组 / Cokepoetry | 已发布（v1.7） | Unity 静态资源与程序集覆盖 | [查看](games/ROLLA/) |
 | Salvage Protocol | 月见鸟 & qsefthuopq | 已发布 | Unity BepInEx 汉化 | [查看](games/Salvage-Protocol/) |
+| SEVERANCE | 5050汉化组：Cokepoetry汉化 | 待发布（不完全汉化） | Unity 静态资源与程序集覆盖 | [查看](games/SEVERANCE/) |
 | Shards Of Solitude | 月见鸟 | 已发布 | Unreal IoStore 中文修复 | [查看](games/Shards-Of-Solitude/) |
 | She's Leaving | qsefthuopq | 已收录（外部网盘） | 历史汉化补丁（网盘分发） | [查看](games/She-s-Leaving/) |
 | Skinfreak | 月见鸟 & qsefthuopq | 已发布 | Unity BepInEx 汉化 | [查看](games/Skinfreak/) |
