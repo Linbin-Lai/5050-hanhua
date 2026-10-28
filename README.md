@@ -154,10 +154,10 @@
 | Abandoned Stories: Inherited Silence | 月见鸟 & qsefthuopq | 已发布 | Unity BepInEx 汉化 | [查看](games/Abandoned-Stories-Inherited-Silence/) |
 | ADACA | qsefthuopq | 已收录（外部网盘） | 历史汉化补丁（网盘分发） | [查看](games/ADACA/) |
 | Agent 64: Spies Never Die | Cokepoetry | 已发布 | Unity 静态语言文件 | [查看](games/Agent-64-Spies-Never-Die/) |
-| ALYSSA | 5050汉化组：Cokepoetry汉化 | 已发布 | Unity 二进制差分安装包（含自动移动 Bug 修复） | [查看](games/ALYSSA/) |
+| ALYSSA | Cokepoetry | 已发布 | Unity 二进制差分安装包（含自动移动 Bug 修复） | [查看](games/ALYSSA/) |
 | Anemoiapolis: Chapter 1 | qsefthuopq | 已收录（外部网盘） | 历史汉化补丁（网盘分发） | [查看](games/Anemoiapolis-Chapter-1/) |
 | Are We There Yet? | 月见鸟 | 已发布 | Unreal 汉化 + 8 人组队包 | [查看](games/Are-We-There-Yet/) |
-| ASPIS | 5050汉化组：Cokepoetry汉化 | 已发布（v0.3 文字补漏测试版） | 可还原文字安装器 + 中文 PAK / IoStore | [查看](games/ASPIS/) |
+| ASPIS | Cokepoetry | 已发布（v0.3 文字补漏测试版） | 可还原文字安装器 + 中文 PAK / IoStore | [查看](games/ASPIS/) |
 | AUTO-CRISIS | 月见鸟 | 已发布 | Unreal PAK 覆盖 | [查看](games/AUTO-CRISIS/) |
 | Baby Blues Nightmares - Toddler Horror Game | qsefthuopq | 已收录（外部网盘） | 历史汉化补丁（网盘分发） | [查看](games/Baby-Blues-Nightmares-Toddler-Horror-Game/) |
 | Back Then | qsefthuopq | 已收录（外部网盘） | 历史汉化补丁（网盘分发） | [查看](games/Back-Then/) |
@@ -221,7 +221,7 @@
 | Living Dead Outbreak | qsefthuopq | 已收录（外部网盘） | 历史汉化补丁（网盘分发） | [查看](games/Living-Dead-Outbreak/) |
 | Love Love School Days | qsefthuopq | 已收录（外部网盘） | 历史汉化补丁（网盘分发） | [查看](games/Love-Love-School-Days/) |
 | Massacre At The Mirage | qsefthuopq | 已收录（外部网盘） | 历史汉化补丁（网盘分发） | [查看](games/Massacre-At-The-Mirage/) |
-| MEAT TRAIN | 5050汉化组：Cokepoetry汉化 | 已发布（日记兼容修复测试版） | Unity 小体量二进制差分安装包 | [查看](games/Meat-Train/) |
+| MEAT TRAIN | Cokepoetry | 已发布（日记兼容修复测试版） | Unity 小体量二进制差分安装包 | [查看](games/Meat-Train/) |
 | Microbial Sector | qsefthuopq | 已收录（外部网盘） | 历史汉化补丁（网盘分发） | [查看](games/Microbial-Sector/) |
 | Midnight Crane | 月见鸟 | 已发布 | Unreal PAK / IoStore 覆盖 | [查看](games/Midnight-Crane/) |
 | Midnight Hoops | 月见鸟 | 已发布 | 资源替换（按包内说明） | [查看](games/Midnight-Hoops/) |
@@ -245,9 +245,9 @@
 | Pyromaniac | 月见鸟 & qsefthuopq | 已发布 | Unity BepInEx 汉化 | [查看](games/Pyromaniac/) |
 | RAVENOUS | 月见鸟 | 已发布 | Unreal IoStore 覆盖容器 | [查看](games/RAVENOUS/) |
 | Rip Current | 月见鸟 | 已发布 | Unity BepInEx 汉化 | [查看](games/Rip-Current/) |
-| ROLLA | 5050汉化组 / Cokepoetry | 已发布（v1.7） | Unity 静态资源与程序集覆盖 | [查看](games/ROLLA/) |
+| ROLLA | Cokepoetry | 已发布（v1.7） | Unity 静态资源与程序集覆盖 | [查看](games/ROLLA/) |
 | Salvage Protocol | 月见鸟 & qsefthuopq | 已发布 | Unity BepInEx 汉化 | [查看](games/Salvage-Protocol/) |
-| SEVERANCE | 5050汉化组：Cokepoetry汉化 | 已发布（不完全汉化） | Unity 静态资源与程序集覆盖 | [查看](games/SEVERANCE/) |
+| SEVERANCE | Cokepoetry | 已发布（不完全汉化） | Unity 静态资源与程序集覆盖 | [查看](games/SEVERANCE/) |
 | Shards Of Solitude | 月见鸟 | 已发布 | Unreal IoStore 中文修复 | [查看](games/Shards-Of-Solitude/) |
 | She's Leaving | qsefthuopq | 已收录（外部网盘） | 历史汉化补丁（网盘分发） | [查看](games/She-s-Leaving/) |
 | Skinfreak | 月见鸟 & qsefthuopq | 已发布 | Unity BepInEx 汉化 | [查看](games/Skinfreak/) |
@@ -255,7 +255,7 @@
 | SPOOKWARE | qsefthuopq | 已收录（外部网盘） | 历史汉化补丁（网盘分发） | [查看](games/SPOOKWARE/) |
 | Spooky's Jump Scare Mansion: HD Renovation | qsefthuopq | 已收录（外部网盘） | 历史汉化补丁（网盘分发） | [查看](games/Spooky-s-Jump-Scare-Mansion-HD-Renovation/) |
 | Strikers Club | Cokepoetry | 已发布 | Unreal IoStore 覆盖容器 | [查看](games/StrikersClub/) |
-| Tenebris Somnia | 5050汉化组：Cokepoetry汉化 | 已发布 | Unreal PAK V11 覆盖容器 | [查看](games/Tenebris-Somnia/) |
+| Tenebris Somnia | Cokepoetry | 已发布 | Unreal PAK V11 覆盖容器 | [查看](games/Tenebris-Somnia/) |
 | the cabin game | Cokepoetry | 已发布 | Unreal PAK / IoStore 覆盖容器 | [查看](games/The-Cabin-Game/) |
 | The Cattle | qsefthuopq | 已收录（外部网盘） | 历史汉化补丁（网盘分发） | [查看](games/The-Cattle/) |
 | The Dark Legacy | 月见鸟| 已发布（字体修复） | Unity 字体修复插件 | [查看](games/The-Dark-Legacy/) |
@@ -271,7 +271,7 @@
 | The Skin Stapler（缝皮杀手） | qsefthuopq | 已发布 | Unreal PAK / IoStore 覆盖容器 | [查看](games/The-Skin-Stapler/) |
 | The Supper: New Blood | qsefthuopq | 已收录（外部网盘） | 历史汉化补丁（网盘分发） | [查看](games/The-Supper-New-Blood/) |
 | The Tartarus Key | qsefthuopq | 已收录（外部网盘） | 历史汉化补丁（网盘分发） | [查看](games/The-Tartarus-Key/) |
-| The Wrong Way（误入歧途） | 5050汉化组：Cokepoetry汉化 | 已发布（不完全汉化） | Unity 静态资源覆盖包（标题修正版） | [查看](games/The-Wrong-Way/) |
+| The Wrong Way（误入歧途） | Cokepoetry | 已发布（不完全汉化） | Unity 静态资源覆盖包（标题修正版） | [查看](games/The-Wrong-Way/) |
 | They See Us | 月见鸟 | 已发布（繁体中文） | Unreal PAK + 教程视频 | [查看](games/They-See-Us/) |
 | Total Chaos | 月见鸟 & qsefthuopq | 已发布 | Unity BepInEx 汉化 | [查看](games/Total-Chaos/) |
 | Uktena 64 - Ultimate | qsefthuopq | 已收录（外部网盘） | 历史汉化补丁（网盘分发） | [查看](games/Uktena-64-Ultimate/) |
