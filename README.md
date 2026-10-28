@@ -81,14 +81,14 @@
 <table>
   <tr>
     <td align="center" width="20%">
-      <a href="games/Welcome-to-Sunnybrook/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4816420/267b8b01e459ac36949712c866e0777fdb47d77e/header.jpg?t=1793119179" alt="Welcome to Sunnybrook（欢迎来到桑尼布鲁克） 游戏封面" width="180"></a><br>
-      <strong>1. Welcome to Sunnybrook（欢迎来到桑尼布鲁克）</strong><br>
-      <sub><a href="games/Welcome-to-Sunnybrook/">查看详情</a></sub>
+      <a href="games/SEVERANCE/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3815750/06e6f359bcde19d12a965368a12597c2d5572be4/header.jpg?t=1793035138" alt="SEVERANCE 游戏封面" width="180"></a><br>
+      <strong>1. SEVERANCE</strong><br>
+      <sub><a href="games/SEVERANCE/">查看详情</a></sub>
     </td>
     <td align="center" width="20%">
-      <a href="games/SEVERANCE/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3815750/06e6f359bcde19d12a965368a12597c2d5572be4/header.jpg?t=1793035138" alt="SEVERANCE 游戏封面" width="180"></a><br>
-      <strong>2. SEVERANCE</strong><br>
-      <sub><a href="games/SEVERANCE/">查看详情</a></sub>
+      <a href="games/Welcome-to-Sunnybrook/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4816420/267b8b01e459ac36949712c866e0777fdb47d77e/header.jpg?t=1793119179" alt="Welcome to Sunnybrook（欢迎来到桑尼布鲁克） 游戏封面" width="180"></a><br>
+      <strong>2. Welcome to Sunnybrook（欢迎来到桑尼布鲁克）</strong><br>
+      <sub><a href="games/Welcome-to-Sunnybrook/">查看详情</a></sub>
     </td>
     <td align="center" width="20%">
       <a href="games/ASPIS/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3129420/507fd94ee53a1e99e149e6d1ed585d44e74bb8cf/header.jpg?t=1792767697" alt="ASPIS 游戏封面" width="180"></a><br>
