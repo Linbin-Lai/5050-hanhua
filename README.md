@@ -81,7 +81,7 @@
 <table>
   <tr>
     <td align="center" width="20%">
-      <a href="games/SEVERANCE/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3815750/06e6f359bcde19d12a965368a12597c2d5572be4/header.jpg?t=1793035138" alt="SEVERANCE 游戏封面" width="180"></a><br>
+      <a href="games/SEVERANCE/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3815750/06e6f359bcde19d12a965368a12597c2d5572be4/header.jpg?t=1793134297" alt="SEVERANCE 游戏封面" width="180"></a><br>
       <strong>1. SEVERANCE</strong><br>
       <sub><a href="games/SEVERANCE/">查看详情</a></sub>
     </td>
