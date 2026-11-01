@@ -22,54 +22,54 @@
     <td align="center" width="20%">
       <a href="games/Endacopia/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2684630/8b5af90a03ce4cc33653c50a998387e3e9082103/header.jpg?t=1786381683" alt="Endacopia 游戏封面" width="180"></a><br>
       <strong>1. Endacopia</strong><br>
-      <sub><a href="games/Endacopia/">查看详情（131 次下载）</a></sub>
+      <sub><a href="games/Endacopia/">查看详情（132 次下载）</a></sub>
     </td>
     <td align="center" width="20%">
       <a href="games/Happy-Wheels/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4705510/acd7fedba57cc1d506f18886ae6c937f754da6c1/header.jpg?t=1790029771" alt="Happy Wheels（父子单车） 游戏封面" width="180"></a><br>
       <strong>2. Happy Wheels（父子单车）</strong><br>
-      <sub><a href="games/Happy-Wheels/">查看详情（129 次下载）</a></sub>
+      <sub><a href="games/Happy-Wheels/">查看详情（130 次下载）</a></sub>
     </td>
     <td align="center" width="20%">
       <a href="games/Tenebris-Somnia/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2121510/61f3fb4ddb5387876aa498f621386e1d4442c219/header.jpg?t=1792175122" alt="Tenebris Somnia 游戏封面" width="180"></a><br>
       <strong>3. Tenebris Somnia</strong><br>
-      <sub><a href="games/Tenebris-Somnia/">查看详情（79 次下载）</a></sub>
+      <sub><a href="games/Tenebris-Somnia/">查看详情（80 次下载）</a></sub>
     </td>
     <td align="center" width="20%">
       <a href="games/The-Cabin-Game/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4406280/d3cad021841c8731a0da86e0a0b1321df341cfd0/header.jpg?t=1787842454" alt="the cabin game 游戏封面" width="180"></a><br>
       <strong>4. the cabin game</strong><br>
-      <sub><a href="games/The-Cabin-Game/">查看详情（27 次下载）</a></sub>
+      <sub><a href="games/The-Cabin-Game/">查看详情（28 次下载）</a></sub>
     </td>
     <td align="center" width="20%">
       <a href="games/Unusual-Tales-After-Bark/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4516880/1a00f0306b6506b19b27984a971f266af2e3f6c5/header.jpg?t=1786737888" alt="Unusual Tales: After Bark 游戏封面" width="180"></a><br>
       <strong>5. Unusual Tales: After Bark</strong><br>
-      <sub><a href="games/Unusual-Tales-After-Bark/">查看详情（19 次下载）</a></sub>
+      <sub><a href="games/Unusual-Tales-After-Bark/">查看详情（20 次下载）</a></sub>
     </td>
   </tr>
   <tr>
     <td align="center" width="20%">
       <a href="games/CULTIC/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1684930/84bebc2b3ecb36d4ec0ad3aea5126bc0666a9029/header.jpg?t=1786717270" alt="CULTIC 游戏封面" width="180"></a><br>
       <strong>6. CULTIC</strong><br>
-      <sub><a href="games/CULTIC/">查看详情（13 次下载）</a></sub>
+      <sub><a href="games/CULTIC/">查看详情（15 次下载）</a></sub>
     </td>
     <td align="center" width="20%">
       <a href="games/The-Skin-Stapler/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4310610/5147848411ce0dfd06d88513572a98e334a3fd74/header.jpg?t=1786367666" alt="The Skin Stapler（缝皮杀手） 游戏封面" width="180"></a><br>
       <strong>7. The Skin Stapler（缝皮杀手）</strong><br>
-      <sub><a href="games/The-Skin-Stapler/">查看详情（12 次下载）</a></sub>
+      <sub><a href="games/The-Skin-Stapler/">查看详情（13 次下载）</a></sub>
     </td>
     <td align="center" width="20%">
       <a href="games/Agent-64-Spies-Never-Die/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1574480/f281ff155778294664365fbcedc884319ed172fd/header.jpg?t=1786538539" alt="Agent 64: Spies Never Die 游戏封面" width="180"></a><br>
       <strong>8. Agent 64: Spies Never Die</strong><br>
-      <sub><a href="games/Agent-64-Spies-Never-Die/">查看详情（9 次下载）</a></sub>
+      <sub><a href="games/Agent-64-Spies-Never-Die/">查看详情（10 次下载）</a></sub>
     </td>
     <td align="center" width="20%">
       <a href="games/Fallen-Leaf/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1459010/header.jpg?t=1732677410" alt="Fallen Leaf 游戏封面" width="180"></a><br>
       <strong>9. Fallen Leaf</strong><br>
-      <sub><a href="games/Fallen-Leaf/">查看详情（8 次下载）</a></sub>
+      <sub><a href="games/Fallen-Leaf/">查看详情（10 次下载）</a></sub>
     </td>
     <td align="center" width="20%">
       <a href="games/Deep-Sleep-Trilogy/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1146510/header.jpg?t=1726580656" alt="Deep Sleep Trilogy 游戏封面" width="180"></a><br>
       <strong>10. Deep Sleep Trilogy</strong><br>
-      <sub><a href="games/Deep-Sleep-Trilogy/">查看详情（7 次下载）</a></sub>
+      <sub><a href="games/Deep-Sleep-Trilogy/">查看详情（8 次下载）</a></sub>
     </td>
   </tr>
 </table>
