@@ -81,14 +81,14 @@
 <table>
   <tr>
     <td align="center" width="20%">
-      <a href="games/CH13-Rest-Stop/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3927170/b6836ace98d5068e093b3a53fa67e9e22879d381/header.jpg?t=1793378250" alt="CH13: Rest Stop 游戏封面" width="180"></a><br>
-      <strong>1. CH13: Rest Stop</strong><br>
-      <sub><a href="games/CH13-Rest-Stop/">查看详情</a></sub>
+      <a href="games/Welcome-to-Sunnybrook/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4816420/267b8b01e459ac36949712c866e0777fdb47d77e/header.jpg?t=1793119179" alt="Welcome to Sunnybrook 游戏封面" width="180"></a><br>
+      <strong>1. Welcome to Sunnybrook</strong><br>
+      <sub><a href="games/Welcome-to-Sunnybrook/">查看详情</a></sub>
     </td>
     <td align="center" width="20%">
-      <a href="games/Welcome-to-Sunnybrook/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4816420/267b8b01e459ac36949712c866e0777fdb47d77e/header.jpg?t=1793119179" alt="Welcome to Sunnybrook 游戏封面" width="180"></a><br>
-      <strong>2. Welcome to Sunnybrook</strong><br>
-      <sub><a href="games/Welcome-to-Sunnybrook/">查看详情</a></sub>
+      <a href="games/CH13-Rest-Stop/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3927170/b6836ace98d5068e093b3a53fa67e9e22879d381/header.jpg?t=1793378250" alt="CH13: Rest Stop 游戏封面" width="180"></a><br>
+      <strong>2. CH13: Rest Stop</strong><br>
+      <sub><a href="games/CH13-Rest-Stop/">查看详情</a></sub>
     </td>
     <td align="center" width="20%">
       <a href="games/SEVERANCE/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3815750/06e6f359bcde19d12a965368a12597c2d5572be4/header.jpg?t=1793134297" alt="SEVERANCE 游戏封面" width="180"></a><br>
