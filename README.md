@@ -32,7 +32,7 @@
     <td align="center" width="20%">
       <a href="games/Tenebris-Somnia/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2121510/61f3fb4ddb5387876aa498f621386e1d4442c219/header.jpg?t=1792175122" alt="Tenebris Somnia 游戏封面" width="180"></a><br>
       <strong>3. Tenebris Somnia</strong><br>
-      <sub><a href="games/Tenebris-Somnia/">查看详情（80 次下载）</a></sub>
+      <sub><a href="games/Tenebris-Somnia/">查看详情（81 次下载）</a></sub>
     </td>
     <td align="center" width="20%">
       <a href="games/The-Cabin-Game/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4406280/d3cad021841c8731a0da86e0a0b1321df341cfd0/header.jpg?t=1787842454" alt="the cabin game 游戏封面" width="180"></a><br>
@@ -67,9 +67,9 @@
       <sub><a href="games/Fallen-Leaf/">查看详情（10 次下载）</a></sub>
     </td>
     <td align="center" width="20%">
-      <a href="games/Deep-Sleep-Trilogy/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1146510/header.jpg?t=1726580656" alt="Deep Sleep Trilogy 游戏封面" width="180"></a><br>
-      <strong>10. Deep Sleep Trilogy</strong><br>
-      <sub><a href="games/Deep-Sleep-Trilogy/">查看详情（8 次下载）</a></sub>
+      <a href="games/Poop-Killer-The-Golden-Fart/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5173660/ac524212c21a5496dde13e365e85daa88a248265/header.jpg?t=1793394023" alt="Poop Killer - The Golden Fart（大便杀手：黄金之屁） 游戏封面" width="180"></a><br>
+      <strong>10. Poop Killer - The Golden Fart（大便杀手：黄金之屁）</strong><br>
+      <sub><a href="games/Poop-Killer-The-Golden-Fart/">查看详情（9 次下载）</a></sub>
     </td>
   </tr>
 </table>
