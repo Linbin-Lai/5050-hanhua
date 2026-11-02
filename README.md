@@ -25,8 +25,8 @@
       <sub><a href="games/Endacopia/">查看详情（132 次下载）</a></sub>
     </td>
     <td align="center" width="20%">
-      <a href="games/Happy-Wheels/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4705510/acd7fedba57cc1d506f18886ae6c937f754da6c1/header.jpg?t=1790029771" alt="Happy Wheels（父子单车） 游戏封面" width="180"></a><br>
-      <strong>2. Happy Wheels（父子单车）</strong><br>
+      <a href="games/Happy-Wheels/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4705510/acd7fedba57cc1d506f18886ae6c937f754da6c1/header.jpg?t=1790029771" alt="Happy Wheels（父子单车）精选关卡简体中文汉化 游戏封面" width="180"></a><br>
+      <strong>2. Happy Wheels（父子单车）精选关卡简体中文汉化</strong><br>
       <sub><a href="games/Happy-Wheels/">查看详情（130 次下载）</a></sub>
     </td>
     <td align="center" width="20%">
@@ -52,8 +52,8 @@
       <sub><a href="games/CULTIC/">查看详情（15 次下载）</a></sub>
     </td>
     <td align="center" width="20%">
-      <a href="games/The-Skin-Stapler/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4310610/5147848411ce0dfd06d88513572a98e334a3fd74/header.jpg?t=1786367666" alt="The Skin Stapler（缝皮杀手） 游戏封面" width="180"></a><br>
-      <strong>7. The Skin Stapler（缝皮杀手）</strong><br>
+      <a href="games/The-Skin-Stapler/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4310610/5147848411ce0dfd06d88513572a98e334a3fd74/header.jpg?t=1786367666" alt="The Skin Stapler（缝皮杀手）简体中文汉化 游戏封面" width="180"></a><br>
+      <strong>7. The Skin Stapler（缝皮杀手）简体中文汉化</strong><br>
       <sub><a href="games/The-Skin-Stapler/">查看详情（13 次下载）</a></sub>
     </td>
     <td align="center" width="20%">
@@ -81,13 +81,13 @@
 <table>
   <tr>
     <td align="center" width="20%">
-      <a href="games/CH13-Rest-Stop/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3927170/b6836ace98d5068e093b3a53fa67e9e22879d381/header.jpg?t=1793378250" alt="CH13: Rest Stop（休息站） 游戏封面" width="180"></a><br>
-      <strong>1. CH13: Rest Stop（休息站）</strong><br>
+      <a href="games/CH13-Rest-Stop/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3927170/b6836ace98d5068e093b3a53fa67e9e22879d381/header.jpg?t=1793378250" alt="CH13: Rest Stop 游戏封面" width="180"></a><br>
+      <strong>1. CH13: Rest Stop</strong><br>
       <sub><a href="games/CH13-Rest-Stop/">查看详情</a></sub>
     </td>
     <td align="center" width="20%">
-      <a href="games/Welcome-to-Sunnybrook/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4816420/267b8b01e459ac36949712c866e0777fdb47d77e/header.jpg?t=1793119179" alt="Welcome to Sunnybrook（欢迎来到桑尼布鲁克） 游戏封面" width="180"></a><br>
-      <strong>2. Welcome to Sunnybrook（欢迎来到桑尼布鲁克）</strong><br>
+      <a href="games/Welcome-to-Sunnybrook/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4816420/267b8b01e459ac36949712c866e0777fdb47d77e/header.jpg?t=1793119179" alt="Welcome to Sunnybrook 游戏封面" width="180"></a><br>
+      <strong>2. Welcome to Sunnybrook</strong><br>
       <sub><a href="games/Welcome-to-Sunnybrook/">查看详情</a></sub>
     </td>
     <td align="center" width="20%">
@@ -96,13 +96,13 @@
       <sub><a href="games/SEVERANCE/">查看详情</a></sub>
     </td>
     <td align="center" width="20%">
-      <a href="games/ASPIS/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3129420/507fd94ee53a1e99e149e6d1ed585d44e74bb8cf/header.jpg?t=1792767697" alt="ASPIS 游戏封面" width="180"></a><br>
-      <strong>4. ASPIS</strong><br>
+      <a href="games/ASPIS/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3129420/507fd94ee53a1e99e149e6d1ed585d44e74bb8cf/header.jpg?t=1792767697" alt="ASPIS 简体中文文字优化 游戏封面" width="180"></a><br>
+      <strong>4. ASPIS 简体中文文字优化</strong><br>
       <sub><a href="games/ASPIS/">查看详情（测试版）</a></sub>
     </td>
     <td align="center" width="20%">
-      <a href="games/The-Wrong-Way/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5341070/3ac6e7dfb8775d231d40291418d2036a280c23a8/header.jpg?t=1792597951" alt="The Wrong Way（误入歧途） 游戏封面" width="180"></a><br>
-      <strong>5. The Wrong Way（误入歧途）</strong><br>
+      <a href="games/The-Wrong-Way/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5341070/3ac6e7dfb8775d231d40291418d2036a280c23a8/header.jpg?t=1792597951" alt="The Wrong Way（误入歧途）简体中文汉化 游戏封面" width="180"></a><br>
+      <strong>5. The Wrong Way（误入歧途）简体中文汉化</strong><br>
       <sub><a href="games/The-Wrong-Way/">查看详情</a></sub>
     </td>
   </tr>
