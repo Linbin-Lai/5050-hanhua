@@ -4,6 +4,10 @@ import update_top_downloads as catalog
 
 
 class ReleaseVisibilityTests(unittest.TestCase):
+    def test_game_names_accept_nonbreaking_detail_links(self):
+        readme = "| Poop Killer（大便杀手） | Cokepoetry | 已发布 | 覆盖包 | [查&#8288;看](games/Poop-Killer/) |"
+        self.assertEqual(catalog.root_game_names(readme), {"Poop-Killer": "Poop Killer（大便杀手）"})
+
     def setUp(self):
         self.games = [
             {"slug": "Meat-Train", "title": "MEAT TRAIN", "cover": "cover.png", "tags": ["meat-test"]},

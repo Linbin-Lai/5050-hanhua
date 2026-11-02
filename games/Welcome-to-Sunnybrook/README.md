@@ -10,6 +10,10 @@
 
 **汉化作者：Cokepoetry**
 
+> **2026-11-02 兼容性提醒：** 本页公开附件仍为旧 Build 26263825，仅用于匹配的原版。不要用于新版 Build 26335028。新版本地覆盖包已制作，但完整容器含开发方私钥，不能公开上传；新版安全差分附件尚未发布。请勿把旧版下载当作新版修复。
+
+发布页新增 `Sunnybrook_Build26335028_COMPATIBILITY.txt`，仅为兼容性提醒，不是新版补丁；旧版 ZIP 的名称、内容和哈希没有更改。
+
 ## 发布信息
 
 - 正式名称：Welcome to Sunnybrook，Steam AppID **4816420**。开发商 Breaking Dimensions、Polygon Dust Entertainment Ltd.，发行商 Breaking Dimensions。

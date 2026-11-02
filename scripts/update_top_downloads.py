@@ -56,7 +56,7 @@ def get_releases(repository: str, token: str | None) -> list[dict]:
 def root_game_names(readme: str) -> dict[str, str]:
     names: dict[str, str] = {}
     pattern = re.compile(
-        r"^\|\s*(?P<name>.*?)\s*\|.*?\[查看\]\(games/(?P<slug>[^/)]+)/?\)\s*\|\s*$",
+        r"^\|\s*(?P<name>.*?)\s*\|.*?\[查(?:&#8288;)?看\]\(games/(?P<slug>[^/)]+)/?\)\s*\|\s*$",
         re.MULTILINE,
     )
     for match in pattern.finditer(readme):
