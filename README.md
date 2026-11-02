@@ -240,7 +240,7 @@
 | Pih 2 | Cokepoetry | 已发布 | Unreal PAK 本地化 | [查&#8288;看](games/Pih-2/) |
 | Playable Mockup | qsefthuopq | 已收录（外部网盘） | 历史汉化补丁（网盘分发） | [查&#8288;看](games/Playable-Mockup/) |
 | Poco | qsefthuopq | 已收录（外部网盘） | 历史汉化补丁（网盘分发） | [查&#8288;看](games/Poco/) |
-| Poop Killer - The Golden Fart（大便杀手：黄金之屁） | Cokepoetry | 附件上传和校验中 | Unity 静态资源直接覆盖包（ZIP 分卷） | [查&#8288;看](games/Poop-Killer-The-Golden-Fart/) |
+| Poop Killer - The Golden Fart（大便杀手：黄金之屁） | Cokepoetry | 已发布（不完全汉化，v1.3） | Unity 静态资源直接覆盖包（ZIP 分卷） | [查&#8288;看](games/Poop-Killer-The-Golden-Fart/) |
 | Poppy Playtime: Chapter 4 | 月见鸟 | 已发布 | RAR 汉化包（按包内说明） | [查&#8288;看](games/Poppy-Playtime-Chapter-4/) |
 | Project Threshold | qsefthuopq | 已收录（外部网盘） | 历史汉化补丁（网盘分发） | [查&#8288;看](games/Project-Threshold/) |
 | Psycho Fear | qsefthuopq | 已收录（外部网盘） | 历史汉化补丁（网盘分发） | [查&#8288;看](games/Psycho-Fear/) |

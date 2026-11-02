@@ -16,7 +16,7 @@
 - 适用版本：Windows x64，Steam **Build 26346415**；补丁 **v1.3**，2026-11-02。
 - 引擎：Unity **2023.1.20f1 / IL2CPP**。
 - 补丁形式：**静态 UnityFS 直接覆盖包，5个 ZIP 分卷，不是差分安装器**。
-- 发布状态：**附件上传和线上校验中**。
+- 发布状态：**已发布（不完全汉化，部分装饰图片保留原文）**。
 - 下载：[GitHub Release 发布页面](https://github.com/Linbin-Lai/5050-hanhua/releases/tag/poop-killer-the-golden-fart-cn-20261102)。
 - 完整 ZIP 名称：`Poop_Killer_The_Golden_Fart_CN_v1.3_Build26346415.zip`，**8,014,895,643 字节（约7.46 GiB）**，7个文件。
 - 完整 ZIP SHA-256：`41df8ffa5b050250b12d89bbdc662838ed9aae55502f5e41da2e29557ac2a121`。
@@ -55,6 +55,8 @@
 ## 静态校验
 
 发布用分卷已通过7-Zip完整性测试：5卷、7文件；公开版仅修订安装说明并分卷，游戏资源与本地v1.3逐字节一致。
+
+7个线上附件均已回下载并重新计算SHA-256，与本地一致；按顺序拼接5卷所得ZIP的SHA-256也与上列完整ZIP校验值一致。
 
 主文件 `data.unity3d`：8,014,883,048字节，SHA-256 `15977b437de5c679baa7c85059d3f34a75c6f4daeee7a03b0fb1270e1475d6da`。已扫描全部107,296个UnityFS解压块，未检出同类PEM私钥。不包含游戏EXE、GameAssembly、存档、无关缓存或运行时注入工具。
 
