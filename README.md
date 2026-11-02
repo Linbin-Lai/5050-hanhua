@@ -42,7 +42,7 @@
     <td align="center" width="20%">
       <a href="games/Unusual-Tales-After-Bark/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4516880/1a00f0306b6506b19b27984a971f266af2e3f6c5/header.jpg?t=1786737888" alt="Unusual Tales: After Bark 游戏封面" width="180"></a><br>
       <strong>5. Unusual Tales: After Bark</strong><br>
-      <sub><a href="games/Unusual-Tales-After-Bark/">查看详情（20 次下载）</a></sub>
+      <sub><a href="games/Unusual-Tales-After-Bark/">查看详情（21 次下载）</a></sub>
     </td>
   </tr>
   <tr>
