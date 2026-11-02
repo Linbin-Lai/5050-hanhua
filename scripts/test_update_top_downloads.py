@@ -8,6 +8,16 @@ class ReleaseVisibilityTests(unittest.TestCase):
         readme = "| Poop Killer（大便杀手） | Cokepoetry | 已发布 | 覆盖包 | [查&#8288;看](games/Poop-Killer/) |"
         self.assertEqual(catalog.root_game_names(readme), {"Poop-Killer": "Poop Killer（大便杀手）"})
 
+    def test_refresh_can_keep_existing_recent_position(self):
+        games = [{"slug": "Sunnybrook", "title": "Sunnybrook", "cover": "cover.png",
+                  "tags": ["sunny"], "recent_update_at": "2026-11-02T03:02:56Z"}]
+        releases = [{"tag_name": "sunny", "draft": False, "prerelease": False,
+                     "published_at": "2026-10-28T00:00:00Z", "assets": [
+                         {"download_count": 2, "updated_at": "2026-11-02T12:00:00Z"}]}]
+        ranked = catalog.rank_games(games, releases)
+        self.assertEqual(ranked[0]["updated_at"], "2026-11-02T03:02:56Z")
+        self.assertEqual(ranked[0]["downloads"], 2)
+
     def setUp(self):
         self.games = [
             {"slug": "Meat-Train", "title": "MEAT TRAIN", "cover": "cover.png", "tags": ["meat-test"]},

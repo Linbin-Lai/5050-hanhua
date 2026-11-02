@@ -83,6 +83,9 @@ def game_catalog(readme: str, repository: str) -> list[dict]:
         if not cover_match or not tags:
             continue
         slug = game_readme.parent.name
+        recent_override = re.search(
+            r"<!-- recent-update-at: (\d{4}-\d{2}-\d{2}T\d{2}:\d{2}:\d{2}Z) -->", text
+        )
         title = names.get(slug)
         if not title:
             heading = re.search(r"^#\s+(.+?)\s*$", text, re.MULTILINE)
@@ -94,6 +97,7 @@ def game_catalog(readme: str, repository: str) -> list[dict]:
                 "title": title,
                 "cover": cover_match.group(1),
                 "tags": tags,
+                "recent_update_at": recent_override.group(1) if recent_override else None,
             }
         )
     return catalog
@@ -151,7 +155,7 @@ def rank_games(
                 "downloads": downloads,
                 "release_url": newest.get("html_url"),
                 "prerelease": bool(newest.get("prerelease")),
-                "updated_at": max(update_times, default=""),
+                "updated_at": game.get("recent_update_at") or max(update_times, default=""),
             }
         )
     ranked.sort(key=lambda game: (-game["downloads"], game["title"].casefold()))
