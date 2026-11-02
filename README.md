@@ -281,7 +281,7 @@
 | Unusual Tales: After Bark | Cokepoetry | 已发布 | Unity 静态资源与本地化表替换 | [查&#8288;看](games/Unusual-Tales-After-Bark/) |
 | Victor's Test Night: REVES | qsefthuopq | 已收录（外部网盘） | 历史汉化补丁（网盘分发） | [查&#8288;看](games/Victor-s-Test-Night-REVES/) |
 | VESSELS: Noiret Mansion | Cokepoetry | 已发布（2026-10-08 更新修复版） | Unity 资源文件覆盖；修复旧版在游戏更新后闪退 | [查&#8288;看](games/VESSELS-Noiret-Mansion/) |
-| Welcome to Sunnybrook（欢迎来到桑尼布鲁克） | Cokepoetry | 已发布（旧 Build 26263825；新版 26335028 暂未公开，新增10张读物保留英文） | Unity 安全差分安装包（可还原） | [查&#8288;看](games/Welcome-to-Sunnybrook/) |
+| Welcome to Sunnybrook（欢迎来到桑尼布鲁克） | Cokepoetry | 已发布（Build 26335028 兼容修复，10张读物保留英文） | Unity 安全差分安装包（可还原） | [查&#8288;看](games/Welcome-to-Sunnybrook/) |
 | White Knuckle | qsefthuopq | 已发布 | Unity BepInEx 汉化 | [查&#8288;看](games/White-Knuckle/) |
 | Withering Realms | qsefthuopq | 已发布（v0.8；后续汉化） | Unity 资源与 Addressables Bundle 覆盖 | [查&#8288;看](games/Withering-Realms/) |
 | Within of Static - Northgate Mall | qsefthuopq | 已收录（外部网盘） | 历史汉化补丁（网盘分发） | [查&#8288;看](games/Within-of-Static-Northgate-Mall/) |
