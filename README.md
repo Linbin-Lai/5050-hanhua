@@ -22,7 +22,7 @@
     <td align="center" width="20%">
       <a href="games/Happy-Wheels/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4705510/acd7fedba57cc1d506f18886ae6c937f754da6c1/header.jpg?t=1790029771" alt="Happy Wheels（父子单车） 游戏封面" width="180"></a><br>
       <strong>1. Happy Wheels（父子单车）</strong><br>
-      <sub><a href="games/Happy-Wheels/">查看详情（136 次下载）</a></sub>
+      <sub><a href="games/Happy-Wheels/">查看详情（140 次下载）</a></sub>
     </td>
     <td align="center" width="20%">
       <a href="games/Endacopia/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2684630/8b5af90a03ce4cc33653c50a998387e3e9082103/header.jpg?t=1786381683" alt="Endacopia 游戏封面" width="180"></a><br>
@@ -40,16 +40,16 @@
       <sub><a href="games/The-Cabin-Game/">查看详情（28 次下载）</a></sub>
     </td>
     <td align="center" width="20%">
-      <a href="games/Unusual-Tales-After-Bark/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4516880/1a00f0306b6506b19b27984a971f266af2e3f6c5/header.jpg?t=1786737888" alt="Unusual Tales: After Bark 游戏封面" width="180"></a><br>
-      <strong>5. Unusual Tales: After Bark</strong><br>
-      <sub><a href="games/Unusual-Tales-After-Bark/">查看详情（21 次下载）</a></sub>
+      <a href="games/Poop-Killer-The-Golden-Fart/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5173660/ac524212c21a5496dde13e365e85daa88a248265/header.jpg?t=1793394023" alt="Poop Killer - The Golden Fart（大便杀手：黄金之屁） 游戏封面" width="180"></a><br>
+      <strong>5. Poop Killer - The Golden Fart（大便杀手：黄金之屁）</strong><br>
+      <sub><a href="games/Poop-Killer-The-Golden-Fart/">查看详情（24 次下载）</a></sub>
     </td>
   </tr>
   <tr>
     <td align="center" width="20%">
-      <a href="games/Poop-Killer-The-Golden-Fart/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5173660/ac524212c21a5496dde13e365e85daa88a248265/header.jpg?t=1793394023" alt="Poop Killer - The Golden Fart（大便杀手：黄金之屁） 游戏封面" width="180"></a><br>
-      <strong>6. Poop Killer - The Golden Fart（大便杀手：黄金之屁）</strong><br>
-      <sub><a href="games/Poop-Killer-The-Golden-Fart/">查看详情（18 次下载）</a></sub>
+      <a href="games/Unusual-Tales-After-Bark/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4516880/1a00f0306b6506b19b27984a971f266af2e3f6c5/header.jpg?t=1786737888" alt="Unusual Tales: After Bark 游戏封面" width="180"></a><br>
+      <strong>6. Unusual Tales: After Bark</strong><br>
+      <sub><a href="games/Unusual-Tales-After-Bark/">查看详情（21 次下载）</a></sub>
     </td>
     <td align="center" width="20%">
       <a href="games/CULTIC/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1684930/84bebc2b3ecb36d4ec0ad3aea5126bc0666a9029/header.jpg?t=1786717270" alt="CULTIC 游戏封面" width="180"></a><br>
