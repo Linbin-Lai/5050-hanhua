@@ -1,3 +1,5 @@
+**Steam 版本回退（Build 23126121，按发布时间推定，未验证补丁兼容性）：** **`download_depot 2779400 2779401 6384595444884740426`** · [核对 SteamDB Depot](https://steamdb.info/app/2779400/depots/) · [操作教程](../../README.md#steam-游戏版本回退)
+
 # Intown Nightmares
 
 <!-- game-cover:start -->

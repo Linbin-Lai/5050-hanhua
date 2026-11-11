@@ -1,3 +1,5 @@
+**Steam 版本回退（Build 25985370，按发布时间推定，未验证补丁兼容性）：** **`download_depot 3975830 3975831 9157425883338839737`** · [历史构建记录](https://steamraw.com/app/3975830/) · [操作教程](../../README.md#steam-游戏版本回退)
+
 # ROLLA 简体中文汉化
 
 <!-- game-cover:start -->

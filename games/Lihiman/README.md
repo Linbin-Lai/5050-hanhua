@@ -1,3 +1,5 @@
+**Steam 版本回退（Build 22582944，按发布时间推定，未验证补丁兼容性）：** **`download_depot 4504460 4504461 292002094943540802`** · [核对 SteamDB Depot](https://steamdb.info/app/4504460/depots/) · [操作教程](../../README.md#steam-游戏版本回退)
+
 # Lihiman
 
 <!-- game-cover:start -->

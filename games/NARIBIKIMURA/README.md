@@ -1,3 +1,5 @@
+**Steam 版本回退（Build 15411433，按发布时间推定，未验证补丁兼容性）：** **`download_depot 2693860 2693861 1773498394344324345`** · [核对 SteamDB Depot](https://steamdb.info/app/2693860/depots/) · [操作教程](../../README.md#steam-游戏版本回退)
+
 # 鳴蟇村（NARIBIKIMURA）简体中文汉化
 
 <!-- game-cover:start -->

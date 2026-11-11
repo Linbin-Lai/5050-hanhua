@@ -1,3 +1,5 @@
+**Steam 版本回退（Build 24598217，按发布时间推定，未验证补丁兼容性）：** **`download_depot 4310610 4310611 5630578549776190471`** · [核对 SteamDB Depot](https://steamdb.info/app/4310610/depots/) · [操作教程](../../README.md#steam-游戏版本回退)
+
 # The Skin Stapler（缝皮杀手）简体中文汉化
 
 <!-- game-cover:start -->

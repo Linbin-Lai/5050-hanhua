@@ -1,3 +1,5 @@
+**Steam 版本回退（Build 26339105）：** **`download_depot 3927170 3927171 8272339074971536629`** · [核对 SteamDB Depot](https://steamdb.info/app/3927170/depots/) · [操作教程](../../README.md#steam-游戏版本回退)
+
 # CH13: Rest Stop 简体中文汉化
 
 <!-- game-cover:start -->

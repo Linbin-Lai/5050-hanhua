@@ -1,3 +1,5 @@
+**Steam 版本回退（命令待核实）：** 需同时匹配本体和 DLC，不能只下载一个 Depot。 · [查 SteamDB 历史](https://steamdb.info/app/3008670/history/) · [操作教程](../../README.md#steam-游戏版本回退)
+
 # Poppy Playtime: Chapter 4
 
 <!-- game-cover:start -->

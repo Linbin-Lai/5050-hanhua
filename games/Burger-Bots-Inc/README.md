@@ -1,3 +1,5 @@
+**Steam 版本回退（Build 23859484，按发布时间推定，未验证补丁兼容性）：** **`download_depot 3795760 3795761 2206828276103967269`** · [核对 SteamDB Depot](https://steamdb.info/app/3795760/depots/) · [操作教程](../../README.md#steam-游戏版本回退)
+
 # Burger Bots Inc 简体中文汉化
 
 <!-- game-cover:start -->

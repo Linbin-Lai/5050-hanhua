@@ -1,3 +1,5 @@
+**Steam 版本回退（Build 20564340，按发布时间推定，未验证补丁兼容性）：** **`download_depot 4007340 4007341 6079576131007371025`** · [核对 SteamDB Depot](https://steamdb.info/app/4007340/depots/) · [操作教程](../../README.md#steam-游戏版本回退)
+
 # Skinfreak
 
 <!-- game-cover:start -->

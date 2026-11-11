@@ -1,3 +1,5 @@
+**Steam 版本回退（Build 20905757，按发布时间推定，未验证补丁兼容性）：** **`download_depot 3679470 3679471 3294142129782808079`** · [核对 SteamDB Depot](https://steamdb.info/app/3679470/depots/) · [操作教程](../../README.md#steam-游戏版本回退)
+
 # The Dark Legacy
 
 <!-- game-cover:start -->

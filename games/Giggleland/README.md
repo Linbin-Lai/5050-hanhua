@@ -1,3 +1,5 @@
+**Steam 版本回退（Build 26527345）：** **`download_depot 3370490 3370492 6322648434907831984`** · [核对 SteamDB Depot](https://steamdb.info/app/3370490/depots/) · [操作教程](../../README.md#steam-游戏版本回退)
+
 # Giggleland（危笑乐园）简体中文汉化
 
 <!-- game-cover:start -->

@@ -1,3 +1,5 @@
+**Steam 版本回退（Build 4395050，按发布时间推定，未验证补丁兼容性）：** **`download_depot 611760 611761 8000058202325083169`** · [核对 SteamDB Depot](https://steamdb.info/app/611760/depots/) · [操作教程](../../README.md#steam-游戏版本回退)
+
 # Don't Escape: 4 Days to Survive
 
 <!-- game-cover:start -->

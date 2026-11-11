@@ -1,3 +1,5 @@
+**Steam 版本回退（命令待核实）：** 未能核实完整的 Windows 游戏 Depot 与公开 Manifest。 · [查 SteamDB 历史](https://steamdb.info/app/1574250/history/) · [操作教程](../../README.md#steam-游戏版本回退)
+
 # SPOOKWARE 简体中文汉化
 
 <!-- game-cover:start -->

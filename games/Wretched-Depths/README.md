@@ -1,3 +1,5 @@
+**Steam 版本回退（Build 11117289，按发布时间推定，未验证补丁兼容性）：** **`download_depot 2343240 2343241 8995387278192902228`** · [核对 SteamDB Depot](https://steamdb.info/app/2343240/depots/) · [操作教程](../../README.md#steam-游戏版本回退)
+
 # Wretched Depths 简体中文汉化
 
 <!-- game-cover:start -->

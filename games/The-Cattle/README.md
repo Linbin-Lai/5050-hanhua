@@ -1,3 +1,5 @@
+**Steam 版本回退（命令待核实）：** 该补丁对应 itch.io 版，请参考原作者说明。 · [操作教程](../../README.md#steam-游戏版本回退)
+
 # The Cattle 简体中文汉化
 
 <!-- game-cover:start -->

@@ -144,6 +144,44 @@
 
 所有 Release 附件均为不能独立运行的汉化文件，必须配合从 Steam 合法取得的对应完整原版游戏使用。发布状态不代表全部低概率内容均已通过运行验证。
 
+## Steam 游戏版本回退
+
+本节适用于 Windows 上的 Steam 版游戏。汉化补丁如果与当前游戏不兼容，先看该游戏项目页顶部的「Steam 版本回退」。**当前版本能正常安装就不用回退。** 如果开发者在 Steam 库 → 游戏属性 → 测试版中提供了对应旧版，优先使用官方分支。
+
+### 1. 确认要下载哪个版本
+
+- 项目页有明确适配的游戏版本或 **BuildID** 时，优先用它。没有明确版本时，仓库托管的补丁按最新对应附件的上传时间回查，外链补丁按原作者页面的发布时间回查。项目页写的是查到的 **BuildID**，不是发布日期。标为「按发布时间推定」的命令只是候选，下载后还要核对版本或原版文件哈希；标为「命令待核实」的项目暂无可靠命令。
+- 打开 [SteamDB](https://steamdb.info/)，搜索游戏，核对是正式版、Demo、Playtest 还是 DLC。游戏页面上的 **App ID** 通常不会随更新改变，但正式版和 Demo 可能是不同应用。
+- 在 **Depots** 中找到目标平台的游戏文件库（**Depot ID**），打开它的 **Manifests**，找到目标版本的 **Manifest ID**。可用 **Patches**、**History** 对照 BuildID、分支和更新时间。**BuildID 不是 Manifest ID，不能填到命令最后。** 游戏若把程序、数据或语言拆成多个库，需要下载同一构建所需的各个 Depot，不能混用不同版本。没有足够信息时，先问补丁作者，不要随便选一个旧版。
+
+### 2. 用 Steam 控制台下载
+
+1. 登录有该游戏及所需内容权限的 Steam 账号。按 **Win + R**，输入下面的地址并回车：
+
+   ```text
+   steam://open/console
+   ```
+
+2. 在 Steam 的 **控制台（Console）** 页粘贴项目页的完整命令，或按下面格式自行填写。三个编号都用纯数字，中间用空格，不加括号：
+
+   ```text
+   download_depot APPID DEPOTID MANIFESTID
+   ```
+
+   例如，[CH13: Rest Stop](games/CH13-Rest-Stop/) 的 Build 26339105 对应 `download_depot 3927170 3927171 8272339074971536629`。这条只适用于该游戏。
+
+3. 等待控制台提示 `Depot download complete`。控制台可能不显示常规下载进度，请保持 Steam 在线；完成后同一条提示会给出实际目录，常见位置是 `Steam\steamapps\content\app_<AppID>\depot_<DepotID>`。以提示里的实际路径为准。
+
+### 3. 在旧版目录安装汉化
+
+1. 完全退出游戏，备份存档和将被覆盖的文件。把下载完的旧版复制到一个**单独目录**保存，不要直接覆盖 Steam 库里的现版。Steam 的「验证游戏文件完整性」会恢复库里当前分支的文件，不用于验证这个独立旧版。
+2. 如果同一构建有多个必需 Depot，按该游戏说明将它们的内容合并到同一个旧版根目录，保留目录结构，再按项目说明安装汉化。确认补丁版本、游戏版本与文件哈希相符；安装器拒绝时不要绕过。
+3. Steam 保持登录，从旧版目录的游戏 `.exe` 启动，不要用库里的「开始游戏」按钮来选旧版。部分游戏会依赖启动器、Steam DRM 或联机服务，可能无法从独立目录启动，或不再支持旧版联机；这种情况优先用官方旧版分支。
+
+**常见问题：** 如果控制台报权限不足、Manifest 不可用或下载失败，先检查账号是否拥有正确版本和内容，再核对三组编号。开发者也可能限制或移除旧 Manifest，SteamDB 有历史记录不代表该版本一定能下载。旧版与新版可能共用存档和 Steam 云同步，旧版读取新版存档前尤其要先备份。
+
+参考：[B 站视频教程](https://www.bilibili.com/video/BV16wGB6zEKd/) · [SteamDB 下载路径示例](https://steamdb.info/blog/steam-music-download-soundtracks/) · [Steamworks：Depot](https://partner.steamgames.com/doc/store/application/depots) · [Steamworks：Build 与 Manifest](https://partner.steamgames.com/doc/store/application/builds)
+
 ## 汉化项目
 
 | 游戏 | 汉化作者 | 状态 | 补丁形式 | 项&#8288;目&#8288;说&#8288;明 |

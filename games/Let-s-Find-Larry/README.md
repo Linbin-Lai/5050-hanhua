@@ -1,3 +1,5 @@
+**Steam 版本回退（命令待核实）：** 未确认该补丁对应的 Steam 应用。 · [操作教程](../../README.md#steam-游戏版本回退)
+
 # Let's Find Larry!（寻找拉利） 简体中文汉化
 
 <!-- game-cover:start -->

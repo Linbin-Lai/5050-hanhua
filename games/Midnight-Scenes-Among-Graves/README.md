@@ -1,3 +1,5 @@
+**Steam 版本回退（Build 22360430，按发布时间推定，未验证补丁兼容性）：** **`download_depot 4113480 4113481 7221773813401677748`** · [核对 SteamDB Depot](https://steamdb.info/app/4113480/depots/) · [操作教程](../../README.md#steam-游戏版本回退)
+
 # Midnight Scenes: Among Graves 简体中文汉化
 
 <!-- game-cover:start -->

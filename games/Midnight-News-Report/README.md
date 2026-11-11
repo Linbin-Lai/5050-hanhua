@@ -1,3 +1,5 @@
+**Steam 版本回退（Build 25404154）：** **`download_depot 4894100 4894101 6123046830199066848`** · [历史构建记录](https://steamraw.com/app/4894100/) · [操作教程](../../README.md#steam-游戏版本回退)
+
 # Midnight News Report 简体中文汉化（120 FPS）
 
 <!-- game-cover:start -->

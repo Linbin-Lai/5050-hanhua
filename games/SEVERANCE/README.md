@@ -1,3 +1,5 @@
+**Steam 版本回退（Build 26270415）：** **`download_depot 3815750 3815751 2177660156989632843`** · [历史构建记录](https://steamraw.com/app/3815750/) · [操作教程](../../README.md#steam-游戏版本回退)
+
 # SEVERANCE 简体中文汉化
 
 <!-- game-cover:start -->

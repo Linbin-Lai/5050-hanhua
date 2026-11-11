@@ -1,3 +1,5 @@
+**Steam 版本回退（Build 23986566，按发布时间推定，未验证补丁兼容性）：** **`download_depot 4260190 4260191 1259339962589123293`** · [核对 SteamDB Depot](https://steamdb.info/app/4260190/depots/) · [操作教程](../../README.md#steam-游戏版本回退)
+
 # Mine of My Mind 简体中文汉化
 
 <!-- game-cover:start -->

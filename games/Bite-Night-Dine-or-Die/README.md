@@ -1,3 +1,5 @@
+**Steam 版本回退（Build 21626502，按发布时间推定，未验证补丁兼容性）：** **`download_depot 3834480 3834481 2466288102384551783`** · [核对 SteamDB Depot](https://steamdb.info/app/3834480/depots/) · [操作教程](../../README.md#steam-游戏版本回退)
+
 # Bite Night: Dine or Die 简体中文汉化
 
 <!-- game-cover:start -->

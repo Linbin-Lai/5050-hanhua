@@ -1,3 +1,5 @@
+**Steam 版本回退（Build 17121038，按发布时间推定，未验证补丁兼容性）：** **`download_depot 2512560 2512561 7540055131463730689`** · [核对 SteamDB Depot](https://steamdb.info/app/2512560/depots/) · [操作教程](../../README.md#steam-游戏版本回退)
+
 # Butcher's Creek 简体中文汉化
 
 <!-- game-cover:start -->

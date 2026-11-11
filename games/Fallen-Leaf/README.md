@@ -1,3 +1,5 @@
+**Steam 版本回退（Build 18573781，按发布时间推定，未验证补丁兼容性）：** **`download_depot 1459010 1459011 7950851048740506226`** · [核对 SteamDB Depot](https://steamdb.info/app/1459010/depots/) · [操作教程](../../README.md#steam-游戏版本回退)
+
 # Fallen Leaf 简体中文汉化
 
 <!-- game-cover:start -->

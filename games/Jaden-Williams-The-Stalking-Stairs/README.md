@@ -1,3 +1,5 @@
+**Steam 版本回退（Build 21858457，按发布时间推定，未验证补丁兼容性）：** **`download_depot 4167960 4167961 5880359157097152507`** · [核对 SteamDB Depot](https://steamdb.info/app/4167960/depots/) · [操作教程](../../README.md#steam-游戏版本回退)
+
 # Jaden Williams' The Stalking Stairs
 
 <!-- game-cover:start -->

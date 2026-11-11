@@ -1,3 +1,5 @@
+**Steam 版本回退（Build 12920749，按发布时间推定，未验证补丁兼容性）：** **`download_depot 2181100 2181101 1062808012709800009`** · [核对 SteamDB Depot](https://steamdb.info/app/2181100/depots/) · [操作教程](../../README.md#steam-游戏版本回退)
+
 # Nevermind This 简体中文汉化
 
 <!-- game-cover:start -->

@@ -1,3 +1,5 @@
+**Steam 版本回退（Build 21075099，按发布时间推定，未验证补丁兼容性）：** **`download_depot 4059360 4059361 6993036569737036556`** · [核对 SteamDB Depot](https://steamdb.info/app/4059360/depots/) · [操作教程](../../README.md#steam-游戏版本回退)
+
 # The Salesman
 
 <!-- game-cover:start -->

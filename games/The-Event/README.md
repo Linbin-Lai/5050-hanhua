@@ -1,3 +1,5 @@
+**Steam 版本回退（Build 25371943，按发布时间推定，未验证补丁兼容性）：** **`download_depot 2444700 2444701 3984761478206913777`** · [历史构建记录](https://steamraw.com/app/2444700/) · [操作教程](../../README.md#steam-游戏版本回退)
+
 # The Event 简体中文汉化
 
 <!-- game-cover:start -->

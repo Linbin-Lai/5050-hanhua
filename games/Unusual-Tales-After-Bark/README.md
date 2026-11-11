@@ -1,3 +1,5 @@
+**Steam 版本回退（Build 24754568，按发布时间推定，未验证补丁兼容性）：** **`download_depot 4516880 4516881 3904786029374320984`** · [核对 SteamDB Depot](https://steamdb.info/app/4516880/depots/) · [操作教程](../../README.md#steam-游戏版本回退)
+
 # Unusual Tales: After Bark 简体中文汉化
 
 <!-- game-cover:start -->

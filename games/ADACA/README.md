@@ -1,3 +1,5 @@
+**Steam 版本回退（Build 13697029，按发布时间推定，未验证补丁兼容性）：** **`download_depot 1765780 1765781 2473703751122058829`** · [核对 SteamDB Depot](https://steamdb.info/app/1765780/depots/) · [操作教程](../../README.md#steam-游戏版本回退)
+
 # ADACA 简体中文汉化
 
 <!-- game-cover:start -->

@@ -1,3 +1,5 @@
+**Steam 版本回退（Build 24264959，按发布时间推定，未验证补丁兼容性）：** **`download_depot 4835250 4835251 8516388022232213083`** · [核对 SteamDB Depot](https://steamdb.info/app/4835250/depots/) · [操作教程](../../README.md#steam-游戏版本回退)
+
 # [Stories to Tell] The Stoneville Incident 简体中文汉化
 
 <!-- game-cover:start -->

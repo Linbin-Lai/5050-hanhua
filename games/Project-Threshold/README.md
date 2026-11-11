@@ -1,3 +1,5 @@
+**Steam 版本回退（Build 23924330，按发布时间推定，未验证补丁兼容性）：** **`download_depot 4820610 4820611 6139355855912709006`** · [核对 SteamDB Depot](https://steamdb.info/app/4820610/depots/) · [操作教程](../../README.md#steam-游戏版本回退)
+
 # Project Threshold 简体中文汉化
 
 <!-- game-cover:start -->

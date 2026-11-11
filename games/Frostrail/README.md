@@ -1,3 +1,5 @@
+**Steam 版本回退（命令待核实）：** 补丁适用于 Playtest，不能使用正式版 Depot。 · [查 SteamDB 历史](https://steamdb.info/app/3517740/history/) · [操作教程](../../README.md#steam-游戏版本回退)
+
 # Frostrail 简体中文汉化
 
 <!-- game-cover:start -->

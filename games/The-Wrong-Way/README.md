@@ -1,3 +1,5 @@
+**Steam 版本回退（Build 26097490）：** **`download_depot 5341070 5341071 3467634536584136969`** · [核对 SteamDB Depot](https://steamdb.info/app/5341070/depots/) · [操作教程](../../README.md#steam-游戏版本回退)
+
 # The Wrong Way（误入歧途）简体中文汉化
 
 <!-- game-cover:start -->

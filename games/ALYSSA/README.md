@@ -1,3 +1,5 @@
+**Steam 版本回退（Build 26138679，按发布时间推定，未验证补丁兼容性）：** **`download_depot 2420580 2420581 784846652957615656`** · [历史构建记录](https://steamraw.com/app/2420580/) · [操作教程](../../README.md#steam-游戏版本回退)
+
 # ALYSSA 简体中文汉化
 
 <!-- game-cover:start -->

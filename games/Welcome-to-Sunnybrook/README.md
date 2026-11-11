@@ -1,3 +1,5 @@
+**Steam 版本回退（Build 26335028）：** **`download_depot 4816420 4816421 5554678664381335237`** · [核对 SteamDB Depot](https://steamdb.info/app/4816420/depots/) · [操作教程](../../README.md#steam-游戏版本回退)
+
 # Welcome to Sunnybrook 简体中文汉化
 
 <!-- game-cover:start -->

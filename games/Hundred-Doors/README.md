@@ -1,3 +1,5 @@
+**Steam 版本回退（Build 21728869）：** **`download_depot 3892240 3892241 6463335744280835173`** · [核对 SteamDB Depot](https://steamdb.info/app/3892240/depots/) · [操作教程](../../README.md#steam-游戏版本回退)
+
 # Hundred Doors 简体中文汉化
 
 <!-- game-cover:start -->

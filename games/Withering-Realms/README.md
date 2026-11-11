@@ -1,3 +1,5 @@
+**Steam 版本回退（Build 25315612，按发布时间推定，未验证补丁兼容性）：** **`download_depot 3441990 3441991 3849828470865623824`** · [历史构建记录](https://steamraw.com/app/3441990/) · [操作教程](../../README.md#steam-游戏版本回退)
+
 # Withering Realms 简体中文汉化 v0.8
 
 <!-- game-cover:start -->

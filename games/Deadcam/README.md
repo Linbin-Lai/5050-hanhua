@@ -1,3 +1,5 @@
+**Steam 版本回退（Build 20670715，按发布时间推定，未验证补丁兼容性）：** **`download_depot 3865340 3865341 2377654223159683104`** · [历史构建记录](https://steamraw.com/app/3865340/) · [操作教程](../../README.md#steam-游戏版本回退)
+
 # Deadcam
 
 <!-- game-cover:start -->

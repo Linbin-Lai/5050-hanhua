@@ -1,3 +1,5 @@
+**Steam 版本回退（Build 24995059）：** **`download_depot 4969200 4969201 1030161028254046851`** · [核对 SteamDB Depot](https://steamdb.info/app/4969200/depots/) · [操作教程](../../README.md#steam-游戏版本回退)
+
 # Can I Come In? 简体中文汉化
 
 <!-- game-cover:start -->

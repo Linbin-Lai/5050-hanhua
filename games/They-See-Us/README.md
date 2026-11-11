@@ -1,3 +1,5 @@
+**Steam 版本回退（Build 19887547，按发布时间推定，未验证补丁兼容性）：** **`download_depot 3551100 3551101 4067262970531660375`** · [核对 SteamDB Depot](https://steamdb.info/app/3551100/depots/) · [操作教程](../../README.md#steam-游戏版本回退)
+
 # They See Us
 
 <!-- game-cover:start -->

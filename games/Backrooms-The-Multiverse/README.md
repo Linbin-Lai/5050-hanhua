@@ -1,3 +1,5 @@
+**Steam 版本回退（Build 24164408，按发布时间推定，未验证补丁兼容性）：** **`download_depot 4380850 4380851 2793648700599175431`** · [核对 SteamDB Depot](https://steamdb.info/app/4380850/depots/) · [操作教程](../../README.md#steam-游戏版本回退)
+
 # Backrooms The Multiverse 简体中文汉化
 
 <!-- game-cover:start -->

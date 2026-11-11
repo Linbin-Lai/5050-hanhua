@@ -1,3 +1,5 @@
+**Steam 版本回退（Build 19222026，按发布时间推定，未验证补丁兼容性）：** **`download_depot 3873400 3873401 2019506746872422346`** · [核对 SteamDB Depot](https://steamdb.info/app/3873400/depots/) · [操作教程](../../README.md#steam-游戏版本回退)
+
 # RAVENOUS
 
 <!-- game-cover:start -->

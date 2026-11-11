@@ -1,3 +1,5 @@
+**Steam 版本回退（命令待核实）：** 补丁以原版文件哈希校验，原说明未确认 Steam BuildID。 · [查 SteamDB 历史](https://steamdb.info/app/3129420/history/) · [操作教程](../../README.md#steam-游戏版本回退)
+
 # ASPIS 简体中文文字优化
 
 <!-- game-cover:start -->

@@ -1,3 +1,5 @@
+**Steam 版本回退（Build 24385192，按发布时间推定，未验证补丁兼容性）：** **`download_depot 4530780 4530781 7050168615871326076`** · [核对 SteamDB Depot](https://steamdb.info/app/4530780/depots/) · [操作教程](../../README.md#steam-游戏版本回退)
+
 # The Hust Banhmi（Bánh Mì Bách Khoa） 简体中文汉化
 
 <!-- game-cover:start -->

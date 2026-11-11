@@ -1,3 +1,5 @@
+**Steam 版本回退（Build 4321375，按发布时间推定，未验证补丁兼容性）：** **`download_depot 1070550 1070551 3757896911610906754`** · [核对 SteamDB Depot](https://steamdb.info/app/1070550/depots/) · [操作教程](../../README.md#steam-游戏版本回退)
+
 # Don't Escape Trilogy
 
 <!-- game-cover:start -->

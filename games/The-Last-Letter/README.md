@@ -1,3 +1,5 @@
+**Steam 版本回退（Build 22924305，按发布时间推定，未验证补丁兼容性）：** **`download_depot 4508710 4508711 8089032351895444898`** · [核对 SteamDB Depot](https://steamdb.info/app/4508710/depots/) · [操作教程](../../README.md#steam-游戏版本回退)
+
 # The Last Letter 简体中文汉化
 
 <!-- game-cover:start -->

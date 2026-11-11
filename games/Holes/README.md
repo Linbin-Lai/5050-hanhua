@@ -1,3 +1,5 @@
+**Steam 版本回退（Build 20460400，按发布时间推定，未验证补丁兼容性）：** **`download_depot 3333310 3333311 774759961878931364`** · [核对 SteamDB Depot](https://steamdb.info/app/3333310/depots/) · [操作教程](../../README.md#steam-游戏版本回退)
+
 # Holes
 
 <!-- game-cover:start -->

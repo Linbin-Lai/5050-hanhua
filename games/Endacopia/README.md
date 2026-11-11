@@ -1,3 +1,5 @@
+**Steam 版本回退（Build 24625223，按发布时间推定，未验证补丁兼容性）：** **`download_depot 2684630 2684631 2756021161177554259`** · [核对 SteamDB Depot](https://steamdb.info/app/2684630/depots/) · [操作教程](../../README.md#steam-游戏版本回退)
+
 # Endacopia 简体中文汉化
 
 <!-- game-cover:start -->

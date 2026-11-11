@@ -1,3 +1,5 @@
+**Steam 版本回退（Build 20472262，按发布时间推定，未验证补丁兼容性）：** **`download_depot 2816410 2816411 6380800769487511314`** · [历史构建记录](https://steamraw.com/app/2816410/) · [操作教程](../../README.md#steam-游戏版本回退)
+
 # The Dark Mind
 
 <!-- game-cover:start -->

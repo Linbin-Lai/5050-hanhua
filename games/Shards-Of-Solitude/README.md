@@ -1,3 +1,5 @@
+**Steam 版本回退（命令待核实）：** 尚未找到与补丁时间对应的历史构建和 Manifest。 · [查 SteamDB 历史](https://steamdb.info/app/4256690/history/) · [操作教程](../../README.md#steam-游戏版本回退)
+
 # Shards Of Solitude
 
 <!-- game-cover:start -->

@@ -1,3 +1,5 @@
+**Steam 版本回退（Build 15961295，按发布时间推定，未验证补丁兼容性）：** **`download_depot 2951520 2951521 2539347085962764175`** · [核对 SteamDB Depot](https://steamdb.info/app/2951520/depots/) · [操作教程](../../README.md#steam-游戏版本回退)
+
 # Bite Night 简体中文汉化
 
 <!-- game-cover:start -->

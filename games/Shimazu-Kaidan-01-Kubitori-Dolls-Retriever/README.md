@@ -1,3 +1,5 @@
+**Steam 版本回退（命令待核实）：** 未能核实完整的 Windows 游戏 Depot 与公开 Manifest。 · [查 SteamDB 历史](https://steamdb.info/app/2750410/history/) · [操作教程](../../README.md#steam-游戏版本回退)
+
 # 島津怪談01：クビトリドオルズ・レトリーバー 简体中文汉化
 
 <!-- game-cover:start -->

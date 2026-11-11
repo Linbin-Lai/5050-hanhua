@@ -1,3 +1,5 @@
+**Steam 版本回退（Build 20685175，按发布时间推定，未验证补丁兼容性）：** **`download_depot 2005870 2005871 1229719578180739353`** · [核对 SteamDB Depot](https://steamdb.info/app/2005870/depots/) · [操作教程](../../README.md#steam-游戏版本回退)
+
 # House of Necrosis
 
 <!-- game-cover:start -->

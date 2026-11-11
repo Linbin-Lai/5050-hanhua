@@ -1,3 +1,5 @@
+**Steam 版本回退（命令待核实）：** 尚未找到与补丁时间对应的历史构建和 Manifest。 · [查 SteamDB 历史](https://steamdb.info/app/1522960/history/) · [操作教程](../../README.md#steam-游戏版本回退)
+
 # Anemoiapolis: Chapter 1 简体中文汉化
 
 <!-- game-cover:start -->

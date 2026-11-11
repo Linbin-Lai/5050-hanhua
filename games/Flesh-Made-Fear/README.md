@@ -1,3 +1,5 @@
+**Steam 版本回退（Build 20564545，按发布时间推定，未验证补丁兼容性）：** **`download_depot 3316350 3316351 6976959784543813714`** · [核对 SteamDB Depot](https://steamdb.info/app/3316350/depots/) · [操作教程](../../README.md#steam-游戏版本回退)
+
 # Flesh Made Fear
 
 <!-- game-cover:start -->

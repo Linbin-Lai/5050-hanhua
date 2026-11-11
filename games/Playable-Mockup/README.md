@@ -1,3 +1,5 @@
+**Steam 版本回退（Build 8891232，按发布时间推定，未验证补丁兼容性）：** **`download_depot 1955390 1955391 877298343219712321`** · [核对 SteamDB Depot](https://steamdb.info/app/1955390/depots/) · [操作教程](../../README.md#steam-游戏版本回退)
+
 # Playable Mockup 简体中文汉化
 
 <!-- game-cover:start -->

@@ -1,3 +1,5 @@
+**Steam 版本回退（Build 15856119，按发布时间推定，未验证补丁兼容性）：** **`download_depot 2357910 2357911 3457763883071404833`** · [核对 SteamDB Depot](https://steamdb.info/app/2357910/depots/) · [操作教程](../../README.md#steam-游戏版本回退)
+
 # Home Safety Hotline 简体中文汉化
 
 <!-- game-cover:start -->

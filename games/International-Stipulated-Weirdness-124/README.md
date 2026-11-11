@@ -1,3 +1,5 @@
+**Steam 版本回退（Build 12796474，按发布时间推定，未验证补丁兼容性）：** **`download_depot 2563160 2563161 1299719906556781186`** · [核对 SteamDB Depot](https://steamdb.info/app/2563160/depots/) · [操作教程](../../README.md#steam-游戏版本回退)
+
 # 国際指定怪異124号 東京廃村 简体中文汉化
 
 <!-- game-cover:start -->

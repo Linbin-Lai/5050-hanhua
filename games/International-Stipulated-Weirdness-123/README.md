@@ -1,3 +1,5 @@
+**Steam 版本回退（Build 9978593，按发布时间推定，未验证补丁兼容性）：** **`download_depot 2001460 2001464 8347907995800380419`** · [核对 SteamDB Depot](https://steamdb.info/app/2001460/depots/) · [操作教程](../../README.md#steam-游戏版本回退)
+
 # 国際指定怪異123号 廃村 简体中文汉化
 
 <!-- game-cover:start -->

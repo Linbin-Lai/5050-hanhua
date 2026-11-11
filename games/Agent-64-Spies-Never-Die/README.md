@@ -1,3 +1,5 @@
+**Steam 版本回退（Build 24687138）：** **`download_depot 1574480 1574481 6066469079341880570`** · [核对 SteamDB Depot](https://steamdb.info/depot/1574481/) · [操作教程](../../README.md#steam-游戏版本回退)
+
 # Agent 64: Spies Never Die 简体中文汉化
 
 <!-- game-cover:start -->

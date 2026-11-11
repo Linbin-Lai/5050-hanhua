@@ -1,3 +1,5 @@
+**Steam 版本回退（Build 26346415）：** **`download_depot 5173660 5173661 7005428359851939336`** · [核对 SteamDB Depot](https://steamdb.info/app/5173660/depots/) · [操作教程](../../README.md#steam-游戏版本回退)
+
 # Poop Killer - The Golden Fart 简体中文汉化
 
 <!-- game-cover:start -->

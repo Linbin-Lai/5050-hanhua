@@ -1,3 +1,5 @@
+**Steam 版本回退（Build 18406088，按发布时间推定，未验证补丁兼容性）：** **`download_depot 3358680 3358681 1253273979467954634`** · [核对 SteamDB Depot](https://steamdb.info/app/3358680/depots/) · [操作教程](../../README.md#steam-游戏版本回退)
+
 # Salvage Protocol
 
 <!-- game-cover:start -->

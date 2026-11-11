@@ -1,3 +1,5 @@
+**Steam 版本回退（Build 20333199，按发布时间推定，未验证补丁兼容性）：** **`download_depot 4052460 4052461 6372817035912912242`** · [核对 SteamDB Depot](https://steamdb.info/app/4052460/depots/) · [操作教程](../../README.md#steam-游戏版本回退)
+
 # デテイケ -GetOut- 简体中文汉化
 
 <!-- game-cover:start -->

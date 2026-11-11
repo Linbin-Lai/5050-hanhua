@@ -1,3 +1,5 @@
+**Steam 版本回退（Build 10570243，按发布时间推定，未验证补丁兼容性）：** **`download_depot 1895890 1895891 6558621095223691259`** · [核对 SteamDB Depot](https://steamdb.info/app/1895890/depots/) · [操作教程](../../README.md#steam-游戏版本回退)
+
 # 9 Childs Street 简体中文汉化
 
 <!-- game-cover:start -->

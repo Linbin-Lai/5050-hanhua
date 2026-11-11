@@ -1,3 +1,5 @@
+**Steam 版本回退（Build 19206969，按发布时间推定，未验证补丁兼容性）：** **`download_depot 3727830 3727831 2619464501687091608`** · [核对 SteamDB Depot](https://steamdb.info/app/3727830/depots/) · [操作教程](../../README.md#steam-游戏版本回退)
+
 # Forest Asylum 2
 
 <!-- game-cover:start -->

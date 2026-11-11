@@ -1,3 +1,5 @@
+**Steam 版本回退（Build 23326036）：** **`download_depot 4154100 4154101 2948072200526725504`** · [核对 SteamDB Depot](https://steamdb.info/app/4154100/depots/) · [操作教程](../../README.md#steam-游戏版本回退)
+
 # 怪異番号~20✕✕(ニーマルバツバツ)~ 简体中文汉化
 
 <!-- game-cover:start -->
