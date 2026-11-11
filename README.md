@@ -3,7 +3,7 @@
 </p>
 
 # 5050 汉化合集
-
+- **版本回退：** 如果游戏版本更新需回退见下方回退教程，回退命令见每个游戏readme文件的第一行标题上方。
 - **汉化作者：** Cokepoetry、月见鸟、qsefthuopq
 - **5050 直播间专供**
 - **关注直播间：** [https://live.bilibili.com/5050](https://live.bilibili.com/5050)
