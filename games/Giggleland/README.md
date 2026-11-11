@@ -15,11 +15,15 @@
 ## 发布信息
 
 - 正式名称：Giggleland，Steam AppID **3370490**，开发商 Hooked，发行商 Gamincat, Inc.。「危笑乐园」是本补丁采用的民间译名。
-- 版本：**v1.0 · 2026-11-11**。仅适用 Windows Steam **Build 26527345 / 游戏 v1.1.0**。
+- 版本：**汉化 v1.1（开门卡关修复）**。仅适用 Windows Steam **Build 26527345 / 游戏 v1.1.0**。
 - 引擎及补丁形式：**Unity 2022.3.62f2 / IL2CPP，xdelta3 静态二进制差分**，无需运行时注入。
-- 附件：`Giggleland_CN_Build26527345_20261111.zip`，**386,347,155 字节（约 368.45 MiB）**，共 **39** 个文件。
-- SHA-256：`1b457609c17f9ac574f49577443fbf037a28c5677b5d081607f5f6e65074057c`。
-- [前往 GitHub Release](https://github.com/Linbin-Lai/5050-hanhua/releases/tag/giggleland-cn-20261111) 查看说明并下载附件。
+- 附件：`Giggleland_CN_v1.1_Build26527345.zip`，**386,341,763 字节（约 368.44 MiB）**，共 **39** 个文件。
+- SHA-256：`4a4ef87e4b022f9cac15f4b913b62980b8d7d4c2e04add3514f1bcd6a9b24b23`。
+- [前往 GitHub Release](https://github.com/Linbin-Lai/5050-hanhua/releases/tag/giggleland-cn-20261111) 下载标为「v1.1 修复版」的附件。旧版 v1.0 有卡关问题，不建议使用。
+
+## v1.1 修复
+
+修复泰瑞之家车库段落在「是我创造了你！」之后无法推进开门的问题。恢复六个场景中误被翻译的 105 处对白和剧情触发标记，保留中文字幕，不修改原有开门条件、游戏程序或存档。
 
 ## 汉化内容
 
@@ -29,7 +33,7 @@
 
 ## 安装与还原
 
-1. 完全退出游戏。旧汉化用户先用 Steam 验证游戏文件完整性，恢复匹配的原版。游戏所在磁盘建议至少预留 **10 GiB**。
+1. 完全退出游戏。已装 v1.0 差分版的玩家先用旧包的 `Restore_Original.cmd` 还原。若没有原版备份，或用过手动覆盖版，请在 Steam 验证游戏文件完整性，并确认恢复到匹配的 Build 26527345。游戏所在磁盘建议至少预留 **10 GiB**。
 2. 将 ZIP 全部内容解压到 `Giggleland.exe` 所在的游戏目录，保留 `Giggleland_ChinesePatch` 文件夹结构。
 3. 双击 `Install_CN.cmd`，等待出现 `Success: Install`。安装器先校验原版并自动备份，再重建与核验全部文件；无需另外切换语言。安装时不要启动或更新游戏。
 4. 要卸载，退出游戏后双击 `Restore_Original.cmd`。备份在 `Giggleland_ChinesePatch/Backup`；备份缺失或游戏已更新时，使用 Steam 验证文件完整性。
