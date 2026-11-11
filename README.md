@@ -22,7 +22,7 @@
     <td align="center" width="20%">
       <a href="games/Happy-Wheels/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4705510/acd7fedba57cc1d506f18886ae6c937f754da6c1/header.jpg?t=1790029771" alt="Happy Wheels（父子单车） 游戏封面" width="180"></a><br>
       <strong>1. Happy Wheels（父子单车）</strong><br>
-      <sub><a href="games/Happy-Wheels/">查看详情（140 次下载）</a></sub>
+      <sub><a href="games/Happy-Wheels/">查看详情（142 次下载）</a></sub>
     </td>
     <td align="center" width="20%">
       <a href="games/Endacopia/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2684630/8b5af90a03ce4cc33653c50a998387e3e9082103/header.jpg?t=1786381683" alt="Endacopia 游戏封面" width="180"></a><br>
