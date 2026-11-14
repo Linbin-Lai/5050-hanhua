@@ -37,7 +37,7 @@
     <td align="center" width="20%">
       <a href="games/The-Cabin-Game/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4406280/d3cad021841c8731a0da86e0a0b1321df341cfd0/header.jpg?t=1787842454" alt="the cabin game 游戏封面" width="180"></a><br>
       <strong>4. the cabin game</strong><br>
-      <sub><a href="games/The-Cabin-Game/">查看详情（28 次下载）</a></sub>
+      <sub><a href="games/The-Cabin-Game/">查看详情（32 次下载）</a></sub>
     </td>
     <td align="center" width="20%">
       <a href="games/Poop-Killer-The-Golden-Fart/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5173660/ac524212c21a5496dde13e365e85daa88a248265/header.jpg?t=1793394023" alt="Poop Killer - The Golden Fart（大便杀手：黄金之屁） 游戏封面" width="180"></a><br>
