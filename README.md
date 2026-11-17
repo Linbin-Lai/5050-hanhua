@@ -32,7 +32,7 @@
     <td align="center" width="20%">
       <a href="games/Tenebris-Somnia/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2121510/61f3fb4ddb5387876aa498f621386e1d4442c219/header.jpg?t=1792175122" alt="Tenebris Somnia 游戏封面" width="180"></a><br>
       <strong>3. Tenebris Somnia</strong><br>
-      <sub><a href="games/Tenebris-Somnia/">查看详情（84 次下载）</a></sub>
+      <sub><a href="games/Tenebris-Somnia/">查看详情（85 次下载）</a></sub>
     </td>
     <td align="center" width="20%">
       <a href="games/Giggleland/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3370490/b11309f0d80c4e425b070dbaafd45acdf3b8e33b/header_alt_assets_0.jpg?t=1794319433" alt="Giggleland（危笑乐园） 游戏封面" width="180"></a><br>
