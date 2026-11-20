@@ -49,7 +49,7 @@
     <td align="center" width="20%">
       <a href="games/Poop-Killer-The-Golden-Fart/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5173660/ac524212c21a5496dde13e365e85daa88a248265/header.jpg?t=1793394023" alt="Poop Killer - The Golden Fart（大便杀手：黄金之屁） 游戏封面" width="180"></a><br>
       <strong>6. Poop Killer - The Golden Fart（大便杀手：黄金之屁）</strong><br>
-      <sub><a href="games/Poop-Killer-The-Golden-Fart/">查看详情（24 次下载）</a></sub>
+      <sub><a href="games/Poop-Killer-The-Golden-Fart/">查看详情（25 次下载）</a></sub>
     </td>
     <td align="center" width="20%">
       <a href="games/Unusual-Tales-After-Bark/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4516880/1a00f0306b6506b19b27984a971f266af2e3f6c5/header.jpg?t=1786737888" alt="Unusual Tales: After Bark 游戏封面" width="180"></a><br>
