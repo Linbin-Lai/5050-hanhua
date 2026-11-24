@@ -42,7 +42,7 @@
     <td align="center" width="20%">
       <a href="games/The-Cabin-Game/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4406280/d3cad021841c8731a0da86e0a0b1321df341cfd0/header.jpg?t=1787842454" alt="the cabin game 游戏封面" width="180"></a><br>
       <strong>5. the cabin game</strong><br>
-      <sub><a href="games/The-Cabin-Game/">查看详情（37 次下载）</a></sub>
+      <sub><a href="games/The-Cabin-Game/">查看详情（41 次下载）</a></sub>
     </td>
   </tr>
   <tr>
