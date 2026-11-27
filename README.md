@@ -37,7 +37,7 @@
     <td align="center" width="20%">
       <a href="games/Giggleland/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3370490/b11309f0d80c4e425b070dbaafd45acdf3b8e33b/header_alt_assets_0.jpg?t=1794319433" alt="Giggleland（危笑乐园） 游戏封面" width="180"></a><br>
       <strong>4. Giggleland（危笑乐园）</strong><br>
-      <sub><a href="games/Giggleland/">查看详情（46 次下载）</a></sub>
+      <sub><a href="games/Giggleland/">查看详情（47 次下载）</a></sub>
     </td>
     <td align="center" width="20%">
       <a href="games/The-Cabin-Game/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4406280/d3cad021841c8731a0da86e0a0b1321df341cfd0/header.jpg?t=1787842454" alt="the cabin game 游戏封面" width="180"></a><br>
